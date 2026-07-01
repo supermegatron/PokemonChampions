@@ -1,0 +1,37 @@
+{
+  "id": "M-B",
+  "name": "Regulation Set M-B",
+  "start": "2026-06-17",
+  "end": "2026-09-02",
+  "format": "VGC Doubles",
+  "level": 50,
+  "species_clause": true,
+  "item_clause": true,
+  "mega_evolution_limit": 1,
+  "new_megas": [
+    "Mega Raichu X",
+    "Mega Raichu Y",
+    "Mega Sceptile",
+    "Mega Blaziken",
+    "Mega Swampert",
+    "Mega Mawile",
+    "Mega Metagross",
+    "Mega Staraptor",
+    "Mega Scolipede",
+    "Mega Scrafty",
+    "Mega Eelektross",
+    "Mega Pyroar",
+    "Mega Malamar",
+    "Mega Barbaracle",
+    "Mega Dragalge",
+    "Mega Falinks"
+  ],
+  "sources": [
+    "https://game8.co/games/Pokemon-Champions/archives/593888",
+    "https://game8.co/games/Pokemon-Champions/archives/592129",
+    "https://victoryroad.pro/champions-regulations/",
+    "https://news.pokemon-home.com/en/page/776.html"
+  ],
+  "pokemon_count": 315,
+  "scraped_at": "2026-06-30T22:21:02Z"
+}

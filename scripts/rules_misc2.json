@@ -1,0 +1,2561 @@
+{
+  "status": [
+    {
+      "title": "All Status Conditions and Effects",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Jump to a section!"
+            ],
+            [
+              "Major Status Conditions",
+              "Hidden Status Conditions",
+              "Battle Status Effects"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Major Status Conditions",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Status Condition",
+              "Effect"
+            ],
+            [
+              "Poisoned",
+              "・ Damage equal to 1/8 of its max HP is taken at the end of every turn"
+            ],
+            [
+              "Badly Poisoned",
+              "・ Increasing poison damage is taken at the end of every turn, starting at 1/16 of its max HP , then 2/16, then 3/16, and so on ・Damage restarts at 1/16 of its max HP if the Pokemon switches out, then returns onto the field"
+            ],
+            [
+              "Burned",
+              "・ Damage equal to 1/16 of its max HP is taken at the end of every turn ・Damage output of its physical moves is also halved"
+            ],
+            [
+              "Paralyzed",
+              "・ 12.5% chance of being unable to use moves ・ Its Speed stat is also halved ."
+            ],
+            [
+              "Frozen",
+              "・ The Pokemon cannot move ・ 25% chance of being cured each time it tries to execute a move ・ The Pokemon is cured on its third turn after becoming frozen ・ The Pokemon can thaw out if it uses or takes damage from a Fire-type move or certain other moves."
+            ],
+            [
+              "Asleep",
+              "・ The Pokemon can't use moves other than Snore or Sleep Talk ・ After a Pokemon is put to sleep, it will remain asleep on its first turn ・ It will have a 1-in-3 chance of being cured on its second turn ・ The Pokemon will be cured on its third turn ・ Sleep from the move Rest has no chance of being cured until its third turn"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "There are five major status conditions in the game: poison, burn, paralysis, freeze, and sleep. However, a poisoned Pokemon can be either poisoned or badly poisoned, which affects the amount of damage it will take each turn."
+        },
+        {
+          "type": "text",
+          "text": "A Pokemon can only have one major status condition active at a time. If you try to inflict a status condition on a Pokemon that already has a status effect active, it will not work."
+        }
+      ]
+    },
+    {
+      "title": "Hidden Status Conditions",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Status Condition",
+              "Effect"
+            ],
+            [
+              "Confused",
+              "・ The Pokemon may deal damage to itself during battle instead of using its chosen move ・ Can wear off naturally after a few turns ・ Own Tempo and Tangled Feet Pokemon are immune to confusion"
+            ],
+            [
+              "Cursed",
+              "・ The Pokemon takes damage equal to 1/4 of its max HP every turn ・ Only inflicted when a Ghost-type Pokemon uses the move Curse . No status condition is inflicted if a non-Ghost Type uses the move Curse."
+            ],
+            [
+              "Infatuated",
+              "・ The Pokemon may refuse to attack the opposing Pokemon due to being immobilized by love ・ Infatuation ends when either the infatuated Pokemon or the Pokemon it's infatuated with is switched out of battle ・ Caused by using Attract or the Cute Charm Ability on a Pokemon of the opposite gender ・ Oblivious Pokemon are immune to infatuation"
+            ],
+            [
+              "Flinched",
+              "・ The Pokemon cannot move for that turn ・ Caused by a Pokemon that moved before it during the same turn ・ Inner Focus and Steadfast Pokemon cannot be flinched"
+            ],
+            [
+              "Taunted",
+              "・ The Pokemon cannot use status moves"
+            ],
+            [
+              "Bound or Trapped",
+              "・ The Pokemon cannot be switched out for up to 5 turns ・ The Pokemon takes damage equal to 1/8 of its max HP at the end of every turn ・ Caused by moves such as Bind , Fire Spin , Infestation , Sand Tomb , Snap Trap , Whirlpool , and Wrap ・ Rapid Spin and Mortal Spin removes the bound status"
+            ],
+            [
+              "Leech Seeded",
+              "・ The Pokemon takes damage equal to 1/16 of its max HP at the end of every turn, and this damage is absorbed by the opposing Pokemon"
+            ],
+            [
+              "Salt Cured",
+              "・ The Pokemon takes damage equal to 1/16 of its max HP at the end of every turn ・ For Water- and Steel-type Pokemon , they take damage equal to 1/8 of their max HP at the end of every turn"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Hidden status conditions are not listed on the Pokemon's HP bar when they're in effect. However, they do appear in the Battle Info section when you view it during the battle."
+        },
+        {
+          "type": "text",
+          "text": "These hidden status conditions tend to be easier to remove than major status conditions, requiring to you just switch out in battle or wait a few turns. Hidden status conditions can occur simultaneously with major status conditions or with other hidden status conditions."
+        }
+      ]
+    },
+    {
+      "title": "Battle Statuses and Effects",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Status Condition",
+              "Effect"
+            ],
+            [
+              "Trick Room Status",
+              "Pokemon with lower Speed stats move first."
+            ],
+            [
+              "Tailwind Status",
+              "Doubles the Pokemon's Speed stat."
+            ],
+            [
+              "Reflect Status",
+              "Halves the damage taken from physical moves . In Double Battles, this damage is reduced by 1/3 instead."
+            ],
+            [
+              "Light Screen Status",
+              "Halves the damage taken from special moves . In Double Battles, this damage is reduced by 1/3 instead."
+            ],
+            [
+              "Aurora Veil Status",
+              "Halves the damage taken from physical and special moves. In Double Battles, this damage is reduced by 1/3 instead."
+            ],
+            [
+              "Stealth Rock Status",
+              "Pokemon that switch into battle will take damage equal to 1/8 of their max HP . This damage differs depending on the Pokemon's type matchup with the Rock type ."
+            ],
+            [
+              "Spikes Status",
+              "Pokemon that switch into battle will take damage equal to 1/8 of their max HP . This damage will increase if 2 layers of Spikes are set, and again if 3 layers are set. Pokemon such as Flying types or ones with the Levitate Ability are unaffected."
+            ],
+            [
+              "Toxic Spikes Status",
+              "Pokemon that switch into battle will be poisoned or, if 2 layers of Toxic Spikes are set, badly poisoned . Pokemon such as Flying types or ones with the Levitate Ability are unaffected."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "These are the common battle statuses that you can encounter in Ranked Battles . Entry hazards such as Spikes and Stealth Rocks are more common in Single Battles, while defensive and positional battle effects such as Trick Room, Tailwind, and screens are more common in Double Battles."
+        },
+        {
+          "type": "text",
+          "text": "Unlike status conditions that affect individual Pokemon, battle statuses affect an entire side of the battlefield . All Pokemon that appear on the side where the battle status is in effect will be covered by it, even if the Pokemon get switched out . The active status effects can be viewed when checking the Battle Info during a match."
+        }
+      ]
+    },
+    {
+      "title": "How to Cure Status Conditions",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Equip a Lum Berry Use Status-Curing Moves Certain Abilities Can Cure Status Switch Out Your Pokemon"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Equip a Lum Berry",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Effect"
+            ],
+            [
+              "Lum Berry",
+              "Cures any status condition or confusion. Disappears for the duration of the battle after a single use."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Using a Lum Berry is the most accessible way for any Pokemon to cure their status condition. There are other Berries heal specific status conditions—such as Pecha Berry for poison—but if you're looking to avoid any possible status on your Pokemon, it's best to equip a Lum Berry."
+        },
+        {
+          "type": "text",
+          "text": "Take note that this means that the Lum Berry will occupy your Pokemon's Held Item slot. This means that you cannot equip it with a more offense-oriented item. You also cannot equip the same item on multiple Pokemon if you're participating in Ranked Battles, so be mindful when assigning this item to a Pokemon."
+        }
+      ]
+    },
+    {
+      "title": "Use Status-Curing Moves",
+      "content": [
+        {
+          "type": "text",
+          "text": "Move Type Acc PP Details Heal Bell Normal - 8 The user cures the status conditions of all the Pokémon in its party, including itself, as well as its allies. Healing Wish Psychic - 12 The user faints. The Pokémon taking its place will have its HP fully restored and its status conditions cured. Rest Psychic - 8 Fully restores the user's HP and cures any status conditions. The user falls asleep for 2 turns. This move fails if the user's HP is full."
+        },
+        {
+          "type": "text",
+          "text": "There are moves that you can give your Pokemon that they can use to heal themselves or their allies from status conditions."
+        },
+        {
+          "type": "text",
+          "text": "Rest is the most accessible move for most Pokemon, though it also inflicts your Pokemon with the sleep status condition as well. The sleep status overwrites any existing status condition and heals your Pokemon back up to full HP."
+        }
+      ]
+    },
+    {
+      "title": "Certain Abilities Can Cure Status",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ability",
+              "Details"
+            ],
+            [
+              "Healer",
+              "Effect : The Pokémon has a 50% chance of curing the status conditions of its allies at the end of every turn. Learned by :"
+            ],
+            [
+              "Hydration",
+              "Effect : Cures the Pokémon's status conditions at the end of every turn in rain. Learned by :"
+            ],
+            [
+              "Natural Cure",
+              "Effect : The Pokémon's status conditions are cured when it switches out of battle. Learned by :"
+            ],
+            [
+              "Shed Skin",
+              "Effect : The Pokémon has a 30% chance of curing its own status conditions at the end of every turn. Learned by :"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "There are Abilities in the game that can heal status conditions, some of which require specific conditions. There are also Abilities that are immune to status conditions."
+        },
+        {
+          "type": "text",
+          "text": "List of Abilities"
+        }
+      ]
+    },
+    {
+      "title": "Switch Out Your Pokemon",
+      "content": [
+        {
+          "type": "text",
+          "text": "Switching out your Pokemon can allow hidden status conditions such as confusion or infatuation to be removed from your Pokemon."
+        },
+        {
+          "type": "text",
+          "text": "However, switching does nothing to Pokemon with a major status condition unless they have an ability that allows them to heal when switched such as Natural Cure ."
+        },
+        {
+          "type": "text",
+          "text": "When to Switch in Battle"
+        }
+      ]
+    },
+    {
+      "title": "How to Prevent Status Conditions",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Set Up Misty Terrain Use Safeguard Abilities Immune to Status Conditions Types Immune to Status Conditions"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Set Up Misty Terrain",
+      "content": [
+        {
+          "type": "text",
+          "text": "Healing status conditions tend to be more difficult or inconvenient than simply preventing them from happening. The best way to prevent status conditions from disrupting your team is to set up the Misty Terrain ."
+        },
+        {
+          "type": "text",
+          "text": "Misty Terrain prevents all Pokemon within it from being affected by status conditions. However, Pokemon that aren't touching the ground such as Flying types or Pokemon with Levitate are unaffected. Misty Terrain also does not affect field-wide battle status effects such as Trick Room or Spikes."
+        },
+        {
+          "type": "text",
+          "text": "Misty Terrain Effect and Pokemon That Learn It"
+        }
+      ]
+    },
+    {
+      "title": "Use Safeguard",
+      "content": [
+        {
+          "type": "text",
+          "text": "Move Type Acc PP Details Safeguard Normal - 20 Gives the user's side the Safeguard status for 5 turns, where the Pokémon is immune to status conditions and cannot become confused."
+        },
+        {
+          "type": "text",
+          "text": "Safeguard works similarly to Misty Terrain, but it prevent status conditions from afflicting only your team for 5 turns."
+        }
+      ]
+    },
+    {
+      "title": "Abilities Immune to Status Conditions",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ability",
+              "Details"
+            ],
+            [
+              "Immunity",
+              "Effect : The Pokémon cannot be poisoned or badly poisoned. Learned by :"
+            ],
+            [
+              "Insomnia",
+              "Effect : The Pokémon cannot become drowsy or be put to sleep. Learned by :"
+            ],
+            [
+              "Limber",
+              "Effect : The Pokémon cannot be paralyzed. Learned by :"
+            ],
+            [
+              "Magma Armor",
+              "Effect : The Pokémon cannot be frozen. Learned by :"
+            ],
+            [
+              "Poison Heal",
+              "Effect : If poisoned or badly poisoned, the Pokémon has 1/8 of its max HP restored at the end of every turn instead of losing HP. Learned by :"
+            ],
+            [
+              "Vital Spirit",
+              "Effect : The Pokémon cannot become drowsy or be put to sleep. Learned by :"
+            ],
+            [
+              "Water Bubble",
+              "Effect : Halves the damage the Pokémon takes from Fire-type moves and doubles the power of its Water-type moves. The Pokémon cannot be burned. Learned by :"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "There are Pokemon Abilities that are immune to the effects of one or two specific status conditions. If you have these Pokemon on your team, they're great to switch into if you predict that your opponent will use a status-inflicting move on your Pokemon."
+        }
+      ]
+    },
+    {
+      "title": "Types Immune to Status Conditions",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Status",
+              "Immune Types"
+            ],
+            [
+              "Poison",
+              ""
+            ],
+            [
+              "Burn",
+              ""
+            ],
+            [
+              "Paralysis",
+              ""
+            ],
+            [
+              "Freeze",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Certain Pokemon types have a natural immunity to certain status conditions—usually the ones closely related to their type."
+        },
+        {
+          "type": "text",
+          "text": "Although Poison and Steel-type Pokemon are generally immune to being poisoned or badly poisoned, they can still be poisoned by Pokemon with the Corrosion ability."
+        }
+      ]
+    },
+    {
+      "title": "Use Status-Inflicting Moves",
+      "content": [
+        {
+          "type": "text",
+          "text": "The most common way to inflict status conditions, either on an ally or an opponent, is to use status-inflicting moves. You can use status moves if you only want the status condition without dealing additional damage to your opponent, or you can use an offensive move that has a secondary effect of inflicting a status condtition."
+        },
+        {
+          "type": "text",
+          "text": "List of Status Inflicting Moves"
+        }
+      ]
+    },
+    {
+      "title": "Have Status-Inflicting Abilities",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ability",
+              "Details"
+            ],
+            [
+              "Flame Body",
+              "Effect : When the Pokémon is hit by a contact move, the attacker has a 30% chance of being burned. Learned by :"
+            ],
+            [
+              "Poison Point",
+              "Effect : When the Pokémon is hit by a contact move, the attacker has a 30% chance of being poisoned. Learned by :"
+            ],
+            [
+              "Poison Touch",
+              "Effect : When the Pokémon hits a target with a contact move, the target has a 30% chance of being poisoned. Learned by :"
+            ],
+            [
+              "Static",
+              "Effect : When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed. Learned by :"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Some Abilities can inflict status conditions when making contact with another Pokemon. Contact moves are usually required in order to have a chance of triggering these Abilities."
+        }
+      ]
+    },
+    {
+      "title": "Equip Status-Inflicting Items",
+      "content": [
+        {
+          "type": "text",
+          "text": "As of the first regulation of Pokemon Champions, there are currently no items available that can inflict status conditions. However, it is expected that these items will make a return in future regulations."
+        },
+        {
+          "type": "text",
+          "text": "Items such as Flame Orb or Toxic Orb can inflict status conditions on the holder, which is ideal for activating certain Abilities such as Guts , Marvel Scal e, or Poison Heal ."
+        }
+      ]
+    },
+    {
+      "title": "Pokemon Champions Related Guides",
+      "content": [
+        {
+          "type": "text",
+          "text": "Beginner's Guide to Pokemon Champions"
+        }
+      ]
+    },
+    {
+      "title": "Gameplay Features",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon Home Connectivity and Features",
+              "All Daily Tasks and Activities"
+            ],
+            [
+              "Stat Alignment Explained",
+              "Confirmed Battle Mechanics"
+            ],
+            [
+              "Available Battle Modes",
+              "Battle Formats Guide"
+            ],
+            [
+              "Pokemon Recruitment Guide",
+              "Priority Brackets Explained"
+            ],
+            [
+              "Pokemon Type Chart",
+              "Best Items to Buy from the Shop"
+            ],
+            [
+              "How to Set Nicknames",
+              "When to Switch in Battle"
+            ],
+            [
+              "All Weather Conditions Explained",
+              "Status Conditions and Effects"
+            ],
+            [
+              "Tips For Pokemon Selection",
+              "All Terrains and Their Effects"
+            ],
+            [
+              "Glossary of Battle Terms and Explanation",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How-To Guides",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "How to Prepare for Pokemon Champions",
+              "How to Change Your Name and Gender"
+            ],
+            [
+              "How to Train Pokemon",
+              "How to Get Pokemon"
+            ],
+            [
+              "How to Equip Mega Stones",
+              "How to Increase Box Size"
+            ],
+            [
+              "How to Get and Use Teammate Tickets",
+              "How to Use Quick Coupons"
+            ],
+            [
+              "How to Get and Use Training Tickets",
+              "How to Use Affinity Tickets"
+            ],
+            [
+              "How to Battle with Friends",
+              "How to Block Players"
+            ],
+            [
+              "How to Release Pokemon",
+              "How to Increase Critical Hit Chance"
+            ],
+            [
+              "How to Change Moves",
+              "How to Change Settings"
+            ],
+            [
+              "How to Get to Champion Tier",
+              "How to Display Trainer Titles"
+            ],
+            [
+              "How to Get Pokemon in Unique Poke Balls",
+              "How to Understand the Meta"
+            ],
+            [
+              "How to Build Battle Teams",
+              "All Battle Timers and Time Limits"
+            ],
+            [
+              "How to Link Nintendo Account",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frequently Asked Questions (FAQs)",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Should You Buy the Starter Pack?",
+              "Is Pokemon Champions Pay to Win?"
+            ],
+            [
+              "Should You Buy the Premium Battle Pass?",
+              "Should You Buy the Annual Membership?"
+            ],
+            [
+              "What Are Stat Points?",
+              "What Are Base Stats?"
+            ],
+            [
+              "Are There IVs?",
+              "What is STAB?"
+            ],
+            [
+              "What is Extremely / Mostly Ineffective?",
+              "Can You Play Offline?"
+            ],
+            [
+              "Are There Eggs and Egg Moves?",
+              "What to Do First"
+            ],
+            [
+              "Can You Change Pokemon Forms?",
+              "Should You Use Auto Team Build?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment",
+      "content": [
+        {
+          "type": "text",
+          "text": "Post (0 Comments)"
+        }
+      ]
+    },
+    {
+      "title": "Author",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pokemon Champions Walkthrough Team This article was created by Game8's elite team of writers and gamers. Follow Game8 Pokemon on X for daily tips, guides, and news!"
+        }
+      ]
+    },
+    {
+      "title": "Recommended Guides",
+      "content": [
+        {
+          "type": "text",
+          "text": "Ranked Battles How to Transfer Pokemon With Pokemon HOME Best Pokemon to Recruit First Best Pokemon Tier List Doubles Tier List for Ranked Battles Best Mega Pokemon Tier List Reroll Guide: Best Pokemon to Reroll List of Changes from Previous Games Best Items Tier List List of All Mega Stones List of All Achievements List of Pokemon Titles Best Pokemon to Recruit Usage Stats and Battle Data (Top 20) Next Season and Regulation Release Date"
+        }
+      ]
+    },
+    {
+      "title": "All Pokemon",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Available Pokemon"
+        },
+        {
+          "type": "text",
+          "text": "Normal-type Pokemon Fire-type Pokemon Water-type Pokemon Electric-type Pokemon Grass-type Pokemon Ice-type Pokemon Fighting-type Pokemon Poison-type Pokemon Ground-type Pokemon Flying-type Pokemon Psychic-type Pokemon Bug-type Pokemon Rock-type Pokemon Ghost-type Pokemon Dragon-type Pokemon Dark-type Pokemon Steel-type Pokemon Fairy-type Pokemon"
+        },
+        {
+          "type": "text",
+          "text": "Generation 1 Pokemon Generation 2 Pokemon Generation 3 Pokemon Generation 4 Pokemon Generation 5 Pokemon Generation 6 Pokemon Generation 7 Pokemon Generation 8 Pokemon Generation 9 Pokemon"
+        }
+      ]
+    },
+    {
+      "title": "Movesets and Best Builds",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Movesets and Best Builds Ampharos Abomasnow Barbaracle Vileplume Falinks Pyroar Scolipede Eelektross Annihilape Mawile Staraptor Musharna Gholdengo Grimmsnarl Blaziken Sceptile Metagross Swampert Eternal Flower Floette Incineroar Whimsicott Garchomp Sinistcha Delphox Hawlucha Gengar Charizard Tyranitar Excadrill Greninja Hatterene Pelipper Sneasler Froslass Starmie Meganium Primarina Wash Rotom Hippowdon Meowscarada Dragonite Kingambit Glimmora Weavile Frost Rotom Basculegion (Male) Orthworm Politoed Corviknight Dragapult Clefable Hydreigon Kangaskhan Scizor Aerodactyl Maushold Aegislash Lopunny Farigiraf Gardevoir Sylveon Milotic Mamoswine Gyarados Talonflame Chimecho Hisuian Zoroark Medicham Blastoise Gallade Feraligatr Meowstic (Female) Mimikyu Crabominable Aggron Chesnaught Kommo-o Victreebel Torkoal Volcarona Heat Rotom Vivillon Skeledirge Scovillain Lucario Espathra Alo"
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "content": [
+        {
+          "type": "text",
+          "text": "Best Teams for Ranked Battle All Replica Team Codes (Master Ball Rank) Best Rain Team Best Sun Team Best Sand Team Best Snow Team Best Doubles Hyper Offense Team Best Doubles Balance Team Best Doubles Perish Trap Team Best Trick Room Teams Best Singles Stall Teams Best Singles Hyper Offense Teams Best Singles Balance Teams"
+        }
+      ]
+    },
+    {
+      "title": "Tips and Tricks",
+      "content": [
+        {
+          "type": "text",
+          "text": "Beginner's Guide to Pokemon Champions Pokemon Home Connectivity and Features Confirmed Battle Mechanics How to Train Pokemon What Are Stat Points? Stat Alignment Explained What are Victory Points Available Battle Modes Battle Formats Guide Pokemon Recruitment Guide How to Obtain Pokemon How to Prepare for Pokemon Champions Priority Brackets Explained Pokemon Type Chart Should You Buy the Starter Pack? How to Set Nicknames What Are Base Stats? How to Equip Mega Stones How to Change Your Name and Gender Are There IVs? How to Get and Use Training Tickets How to Get and Use Teammate Tickets How to Use Quick Coupons Should You Buy the Premium Battle Pass? Should You Buy the Annual Membership? Best Items to Buy from the Shop What is Extremely Effective and Mostly Ineffective? All Daily Tasks and Activities How to Increase Box Size How to Change Moves Can You Play Offline? Are There Eggs and Eg"
+        }
+      ]
+    },
+    {
+      "title": "Moves",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Moves Newly-Added Moves in Regulation M-B"
+        },
+        {
+          "type": "text",
+          "text": "Physical Moves Special Moves Status Moves"
+        },
+        {
+          "type": "text",
+          "text": "Grass-Type Moves Water-Type Moves Fire-Type Moves Electric-Type Moves Ice-Type Moves Fighting-Type Moves Ground-Type Moves Poison-Type Moves Flying-Type Moves Psychic-Type Moves Bug-Type Moves Rock-Type Moves Ghost-Type Moves Dragon-Type Moves Dark-Type Moves Steel-Type Moves Fairy-Type Moves Normal-Type Moves"
+        }
+      ]
+    },
+    {
+      "title": "Abilities",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Abilities"
+        },
+        {
+          "type": "text",
+          "text": "New Abilities All Legends Z-A Mega Evolution Abilities Newly-Added Abilities - Regulation M-B"
+        }
+      ]
+    },
+    {
+      "title": "Items",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Items Defense Items Power Boost Item Recovery Items Stat Boost Items Other Items Berries Newly-Added Items Extend Effect Items"
+        }
+      ]
+    },
+    {
+      "title": "Character Customization",
+      "content": [
+        {
+          "type": "text",
+          "text": "Character Customization All Beauty Marks All Mouth Designs All Eyebrows All Eyebrow Colors All Eyelash Colors All Eyelash Designs All Eye Designs All Freckle Designs All Lip Designs All Hairstyles All Hair Color All Glasses All Gloves All Hats All Headbands All Leggings All Color Contacts All Bags All Pants All Pre-Battle Poses All Shirts All Battle Songs All Profile Icons"
+        }
+      ]
+    },
+    {
+      "title": "Mega Evolutions",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Mega Evolutions"
+        }
+      ]
+    },
+    {
+      "title": "Mystery Gifts",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Mystery Gifts Machamp Mystery Gift Code"
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Events and Online Competitions Mega Stones Collaboration Event Dragonite Early Download Bonus Warm-Up Challenge Event 2026 Global Challenge"
+        }
+      ]
+    },
+    {
+      "title": "Ranked Battles",
+      "content": [
+        {
+          "type": "text",
+          "text": "Regulation M-A Season M-1 Season M-2"
+        }
+      ]
+    },
+    {
+      "title": "Latest News",
+      "content": [
+        {
+          "type": "text",
+          "text": "Latest News Version 1.1.0 Update and Patch Notes Raichu and Mega Stone Gifts Pokemon Champions Release Date Pokemon World Championships 2026 Coming to Switch and Mobile Shiny Pokemon Confirmed Season 1 Battle Pass Rewards List of In-Game Purchases Do You Need Nintendo Switch Online? Can You Play Pokemon Champions on PC? Pokemon Champions Mobile Release Date Can You Trade Pokemon? Is Pokemon Champions Free to Play? When Will Maintenance End? All Known Bugs and Fixes Switch 1 and Switch 2 Version Differences Version 1.0.3 Update and Patch Notes List of All Special Roster Recruits"
+        }
+      ]
+    },
+    {
+      "title": "Other Pokemon Wikis",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pokemon Winds and Waves Pokemon Pokopia Pokemon FireRed and LeafGreen Pokemon Legends: Z-A Pokemon Friends Pokemon TCG Pocket Pokemon Scarlet and Violet Pokemon Sword and Shield Pokemon Legends: Arceus Pokemon Brilliant Diamond and Shining Pearl Pokemon UNITE Pokemon Sleep New Pokemon Snap Pokemon Mystery Dungeon DX"
+        }
+      ]
+    }
+  ],
+  "terrain": [
+    {
+      "title": "List of Terrains and Effects",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Terrain",
+              "Effects on Grounded Pokemon"
+            ],
+            [
+              "Electric Terrain",
+              "Boosts Electric-type Move power by 30%. Prevents Pokemon from falling Asleep."
+            ],
+            [
+              "Psychic Terrain",
+              "Boosts Psychic-type Move power by 30%. Grants immunity from Priority Moves ."
+            ],
+            [
+              "Grassy Terrain",
+              "Boosts Grass-type Move power by 30%. Heals 1/16 of max HP at the end of every turn."
+            ],
+            [
+              "Misty Terrain",
+              "Halves the power of Dragon-type Moves . Grants immunity from major Status Conditions and Confusion."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Listed above are all the Terrains and their effects. They only affect Pokemon on the ground . This means Flying-type Pokemon and Pokemon with Levitate cannot be affected by them unless they become grounded."
+        },
+        {
+          "type": "text",
+          "text": "When a Terrain is activated, it will last for 5 turns ."
+        }
+      ]
+    },
+    {
+      "title": "How to Set and Remove Terrain",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Setting Terrain",
+              "Removing Terrain"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Use Terrain-Setting Moves",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "All Terrain-Setting Moves"
+            ],
+            [
+              "Electric Terrain",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Psychic Terrain",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Grassy Terrain",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Misty Terrain",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Listed above are all the Moves that can set up Terrain. Since the order that moves are used are affected by a Pokemon's Speed stat , it is best to carefully think about what Pokemon you can use to set the Terrain."
+        },
+        {
+          "type": "text",
+          "text": "If you wish to activate a Terrain faster to assist your team in the same turn, you may use a faster Pokemon. However, if you are battling against another team that utilizes a Terrain, you may want to use a slower Pokemon to override their Terrain."
+        }
+      ]
+    },
+    {
+      "title": "Some Moves Remove Terrain",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Moves That Remove Terrain"
+            ],
+            [
+              "Defog",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Ice Spinner",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Steel Roller",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "-"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Listed above are all the currently available Moves that can remove Terrain. You may use this to counter opponents or to shift your strategy."
+        }
+      ]
+    },
+    {
+      "title": "Moves and Abilities Affected By Terrain",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Affected Moves Terrain-Immune Moves Affected Abilities"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Moves Affected By Terrain",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Terrain",
+              "Affected Moves"
+            ],
+            [
+              "Electric Terrain",
+              "· Rising Voltage · Terrain Pulse"
+            ],
+            [
+              "Psychic Terrain",
+              "· Expanding Force · Terrain Pulse"
+            ],
+            [
+              "Grassy Terrain",
+              "· Bulldoze * · Earthquake * · Grassy Glide · Terrain Pulse"
+            ],
+            [
+              "Misty Terrain",
+              "· Misty Explosion · Terrain Pulse"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*These moves are negatively affected by the Terrain."
+        },
+        {
+          "type": "text",
+          "text": "Listed above are all the moves affected by Terrain. They may have changes in damage and priority if a certain Terrain is active."
+        }
+      ]
+    },
+    {
+      "title": "Moves That Temporarily Grant Terrain Immunity",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "All Terrain-Setting Moves"
+            ],
+            [
+              "Bounce",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Dive",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Fly",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Phantom Force",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Listed above are two-turn Moves that turn the user mostly invincible on its first turn of usage . When the Pokemon is in this invincible state, it cannot be affected by Terrain effects ."
+        }
+      ]
+    },
+    {
+      "title": "Abilities Affected By Terrain",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ability",
+              "Effect"
+            ],
+            [
+              "Mimicry",
+              "The Pokémon's type changes depending on the terrain."
+            ],
+            [
+              "Surge Surfer",
+              "Doubles the Pokémon's Speed stat on Electric Terrain."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Listed above are all the available Abilities that are affected by Terrain. Depending on the Pokemon added to Champions in future updates, similar Abilities may eventually be added."
+        },
+        {
+          "type": "text",
+          "text": "List of Abilities"
+        }
+      ]
+    },
+    {
+      "title": "Pokemon Champions Related Guides",
+      "content": [
+        {
+          "type": "text",
+          "text": "Beginner's Guide to Pokemon Champions"
+        }
+      ]
+    },
+    {
+      "title": "Gameplay Features",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon Home Connectivity and Features",
+              "All Daily Tasks and Activities"
+            ],
+            [
+              "Stat Alignment Explained",
+              "Confirmed Battle Mechanics"
+            ],
+            [
+              "Available Battle Modes",
+              "Battle Formats Guide"
+            ],
+            [
+              "Pokemon Recruitment Guide",
+              "Priority Brackets Explained"
+            ],
+            [
+              "Pokemon Type Chart",
+              "Best Items to Buy from the Shop"
+            ],
+            [
+              "How to Set Nicknames",
+              "When to Switch in Battle"
+            ],
+            [
+              "All Weather Conditions Explained",
+              "Status Conditions and Effects"
+            ],
+            [
+              "Tips For Pokemon Selection",
+              "All Terrains and Their Effects"
+            ],
+            [
+              "Glossary of Battle Terms and Explanation",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How-To Guides",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "How to Prepare for Pokemon Champions",
+              "How to Change Your Name and Gender"
+            ],
+            [
+              "How to Train Pokemon",
+              "How to Get Pokemon"
+            ],
+            [
+              "How to Equip Mega Stones",
+              "How to Increase Box Size"
+            ],
+            [
+              "How to Get and Use Teammate Tickets",
+              "How to Use Quick Coupons"
+            ],
+            [
+              "How to Get and Use Training Tickets",
+              "How to Use Affinity Tickets"
+            ],
+            [
+              "How to Battle with Friends",
+              "How to Block Players"
+            ],
+            [
+              "How to Release Pokemon",
+              "How to Increase Critical Hit Chance"
+            ],
+            [
+              "How to Change Moves",
+              "How to Change Settings"
+            ],
+            [
+              "How to Get to Champion Tier",
+              "How to Display Trainer Titles"
+            ],
+            [
+              "How to Get Pokemon in Unique Poke Balls",
+              "How to Understand the Meta"
+            ],
+            [
+              "How to Build Battle Teams",
+              "All Battle Timers and Time Limits"
+            ],
+            [
+              "How to Link Nintendo Account",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frequently Asked Questions (FAQs)",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Should You Buy the Starter Pack?",
+              "Is Pokemon Champions Pay to Win?"
+            ],
+            [
+              "Should You Buy the Premium Battle Pass?",
+              "Should You Buy the Annual Membership?"
+            ],
+            [
+              "What Are Stat Points?",
+              "What Are Base Stats?"
+            ],
+            [
+              "Are There IVs?",
+              "What is STAB?"
+            ],
+            [
+              "What is Extremely / Mostly Ineffective?",
+              "Can You Play Offline?"
+            ],
+            [
+              "Are There Eggs and Egg Moves?",
+              "What to Do First"
+            ],
+            [
+              "Can You Change Pokemon Forms?",
+              "Should You Use Auto Team Build?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment",
+      "content": [
+        {
+          "type": "text",
+          "text": "Post (0 Comments)"
+        }
+      ]
+    },
+    {
+      "title": "Author",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pokemon Champions Walkthrough Team This article was created by Game8's elite team of writers and gamers. Follow Game8 Pokemon on X for daily tips, guides, and news!"
+        }
+      ]
+    },
+    {
+      "title": "Recommended Guides",
+      "content": [
+        {
+          "type": "text",
+          "text": "Ranked Battles How to Transfer Pokemon With Pokemon HOME Best Pokemon to Recruit First Best Pokemon Tier List Doubles Tier List for Ranked Battles Best Mega Pokemon Tier List Reroll Guide: Best Pokemon to Reroll List of Changes from Previous Games Best Items Tier List List of All Mega Stones List of All Achievements List of Pokemon Titles Best Pokemon to Recruit Usage Stats and Battle Data (Top 20) Next Season and Regulation Release Date"
+        }
+      ]
+    },
+    {
+      "title": "All Pokemon",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Available Pokemon"
+        },
+        {
+          "type": "text",
+          "text": "Normal-type Pokemon Fire-type Pokemon Water-type Pokemon Electric-type Pokemon Grass-type Pokemon Ice-type Pokemon Fighting-type Pokemon Poison-type Pokemon Ground-type Pokemon Flying-type Pokemon Psychic-type Pokemon Bug-type Pokemon Rock-type Pokemon Ghost-type Pokemon Dragon-type Pokemon Dark-type Pokemon Steel-type Pokemon Fairy-type Pokemon"
+        },
+        {
+          "type": "text",
+          "text": "Generation 1 Pokemon Generation 2 Pokemon Generation 3 Pokemon Generation 4 Pokemon Generation 5 Pokemon Generation 6 Pokemon Generation 7 Pokemon Generation 8 Pokemon Generation 9 Pokemon"
+        }
+      ]
+    },
+    {
+      "title": "Movesets and Best Builds",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Movesets and Best Builds Ampharos Abomasnow Barbaracle Vileplume Falinks Pyroar Scolipede Eelektross Annihilape Mawile Staraptor Musharna Gholdengo Grimmsnarl Blaziken Sceptile Metagross Swampert Eternal Flower Floette Incineroar Whimsicott Garchomp Sinistcha Delphox Hawlucha Gengar Charizard Tyranitar Excadrill Greninja Hatterene Pelipper Sneasler Froslass Starmie Meganium Primarina Wash Rotom Hippowdon Meowscarada Dragonite Kingambit Glimmora Weavile Frost Rotom Basculegion (Male) Orthworm Politoed Corviknight Dragapult Clefable Hydreigon Kangaskhan Scizor Aerodactyl Maushold Aegislash Lopunny Farigiraf Gardevoir Sylveon Milotic Mamoswine Gyarados Talonflame Chimecho Hisuian Zoroark Medicham Blastoise Gallade Feraligatr Meowstic (Female) Mimikyu Crabominable Aggron Chesnaught Kommo-o Victreebel Torkoal Volcarona Heat Rotom Vivillon Skeledirge Scovillain Lucario Espathra Alo"
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "content": [
+        {
+          "type": "text",
+          "text": "Best Teams for Ranked Battle All Replica Team Codes (Master Ball Rank) Best Rain Team Best Sun Team Best Sand Team Best Snow Team Best Doubles Hyper Offense Team Best Doubles Balance Team Best Doubles Perish Trap Team Best Trick Room Teams Best Singles Stall Teams Best Singles Hyper Offense Teams Best Singles Balance Teams"
+        }
+      ]
+    },
+    {
+      "title": "Tips and Tricks",
+      "content": [
+        {
+          "type": "text",
+          "text": "Beginner's Guide to Pokemon Champions Pokemon Home Connectivity and Features Confirmed Battle Mechanics How to Train Pokemon What Are Stat Points? Stat Alignment Explained What are Victory Points Available Battle Modes Battle Formats Guide Pokemon Recruitment Guide How to Obtain Pokemon How to Prepare for Pokemon Champions Priority Brackets Explained Pokemon Type Chart Should You Buy the Starter Pack? How to Set Nicknames What Are Base Stats? How to Equip Mega Stones How to Change Your Name and Gender Are There IVs? How to Get and Use Training Tickets How to Get and Use Teammate Tickets How to Use Quick Coupons Should You Buy the Premium Battle Pass? Should You Buy the Annual Membership? Best Items to Buy from the Shop What is Extremely Effective and Mostly Ineffective? All Daily Tasks and Activities How to Increase Box Size How to Change Moves Can You Play Offline? Are There Eggs and Eg"
+        }
+      ]
+    },
+    {
+      "title": "Moves",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Moves Newly-Added Moves in Regulation M-B"
+        },
+        {
+          "type": "text",
+          "text": "Physical Moves Special Moves Status Moves"
+        },
+        {
+          "type": "text",
+          "text": "Grass-Type Moves Water-Type Moves Fire-Type Moves Electric-Type Moves Ice-Type Moves Fighting-Type Moves Ground-Type Moves Poison-Type Moves Flying-Type Moves Psychic-Type Moves Bug-Type Moves Rock-Type Moves Ghost-Type Moves Dragon-Type Moves Dark-Type Moves Steel-Type Moves Fairy-Type Moves Normal-Type Moves"
+        }
+      ]
+    },
+    {
+      "title": "Abilities",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Abilities"
+        },
+        {
+          "type": "text",
+          "text": "New Abilities All Legends Z-A Mega Evolution Abilities Newly-Added Abilities - Regulation M-B"
+        }
+      ]
+    },
+    {
+      "title": "Items",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Items Defense Items Power Boost Item Recovery Items Stat Boost Items Other Items Berries Newly-Added Items Extend Effect Items"
+        }
+      ]
+    },
+    {
+      "title": "Character Customization",
+      "content": [
+        {
+          "type": "text",
+          "text": "Character Customization All Beauty Marks All Mouth Designs All Eyebrows All Eyebrow Colors All Eyelash Colors All Eyelash Designs All Eye Designs All Freckle Designs All Lip Designs All Hairstyles All Hair Color All Glasses All Gloves All Hats All Headbands All Leggings All Color Contacts All Bags All Pants All Pre-Battle Poses All Shirts All Battle Songs All Profile Icons"
+        }
+      ]
+    },
+    {
+      "title": "Mega Evolutions",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Mega Evolutions"
+        }
+      ]
+    },
+    {
+      "title": "Mystery Gifts",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Mystery Gifts Machamp Mystery Gift Code"
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Events and Online Competitions Mega Stones Collaboration Event Dragonite Early Download Bonus Warm-Up Challenge Event 2026 Global Challenge"
+        }
+      ]
+    },
+    {
+      "title": "Ranked Battles",
+      "content": [
+        {
+          "type": "text",
+          "text": "Regulation M-A Season M-1 Season M-2"
+        }
+      ]
+    },
+    {
+      "title": "Latest News",
+      "content": [
+        {
+          "type": "text",
+          "text": "Latest News Version 1.1.0 Update and Patch Notes Raichu and Mega Stone Gifts Pokemon Champions Release Date Pokemon World Championships 2026 Coming to Switch and Mobile Shiny Pokemon Confirmed Season 1 Battle Pass Rewards List of In-Game Purchases Do You Need Nintendo Switch Online? Can You Play Pokemon Champions on PC? Pokemon Champions Mobile Release Date Can You Trade Pokemon? Is Pokemon Champions Free to Play? When Will Maintenance End? All Known Bugs and Fixes Switch 1 and Switch 2 Version Differences Version 1.0.3 Update and Patch Notes List of All Special Roster Recruits"
+        }
+      ]
+    },
+    {
+      "title": "Other Pokemon Wikis",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pokemon Winds and Waves Pokemon Pokopia Pokemon FireRed and LeafGreen Pokemon Legends: Z-A Pokemon Friends Pokemon TCG Pocket Pokemon Scarlet and Violet Pokemon Sword and Shield Pokemon Legends: Arceus Pokemon Brilliant Diamond and Shining Pearl Pokemon UNITE Pokemon Sleep New Pokemon Snap Pokemon Mystery Dungeon DX"
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "title": "New Mega Evolution Abilities",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon",
+              "Changes"
+            ],
+            [
+              "Mega Raichu X",
+              "Type: Stats: 60-135-95-90-95-110 (585) Ability : Electric Surge"
+            ],
+            [
+              "Mega Raichu Y",
+              "Type: Stats: 60-100-55-160-80-130 (585) Ability : No Guard"
+            ],
+            [
+              "Mega Staraptor",
+              "Type: Stats: 85-140-100-60-90-110 (585) Ability : Contrary"
+            ],
+            [
+              "Mega Scolipede",
+              "Type: Stats: 60-140-149-75-99-62 (585) Ability : Shell Armor"
+            ],
+            [
+              "Mega Scrafty",
+              "Type: Stats: 65-130-135-55-135-68 (588) Ability : Intimidate"
+            ],
+            [
+              "Mega Eelektross",
+              "Type: Stats: 85-145-80-135-90-80 (615) Ability : Eelevate"
+            ],
+            [
+              "Mega Pyroar",
+              "Type: Stats: 86-88-92-129-86-126 (607) Ability : Fire Mane"
+            ],
+            [
+              "Mega Malamar",
+              "Type: Stats: 86-102-88-98-120-88 (582) Ability : Contrary"
+            ],
+            [
+              "Mega Barbaracle",
+              "Type: Stats: 72-140-130-64-106-88 (600) Ability : Tough Claws"
+            ],
+            [
+              "Mega Dragalge",
+              "Type: Stats: 65-85-105-132-163-44 (594) Ability : Regenerator"
+            ],
+            [
+              "Mega Falinks",
+              "Type: Stats: 65-135-135-70-65-100 (570) Ability : Defiant"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Here is a list of the new Mega Evolution abilities . Mega Pyroar 's Fire Mane and Mega Eelektross 's Eelevate are the new abilities."
+        },
+        {
+          "type": "text",
+          "text": "List of All Mega Abilities"
+        }
+      ]
+    },
+    {
+      "title": "Nerfed Pokemon",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon",
+              "Changes"
+            ],
+            [
+              "Gholdengo",
+              "Nerfed Move : Make It Rain • Accuracy has decreased from 100 to 95. • Special Attack decreased changed from 1 stage to 2 stages. Removed Move : Thunder Wave"
+            ],
+            [
+              "Annihilape",
+              "Nerfed Move : Rage Fist • Move power bonus is reset when user is switched out. Removed Move : Final Gambit"
+            ],
+            [
+              "Metagross",
+              "Removed Move : Heavy Slam Knock Off"
+            ],
+            [
+              "Grimmsnarl",
+              "Removed Move : Thunder Wave"
+            ],
+            [
+              "Scrafty",
+              "Removed Move : Parting Shot"
+            ],
+            [
+              "Overqwil",
+              "Removed Move : Mortal Spin"
+            ],
+            [
+              "Pyroar",
+              "Removed Move : Earth Power"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "These are the Pokemon that have had valuable moves removed from their move lists or have had significant nerfs to their signature moves or abilities, such as Metagross's Heavy Slam."
+        }
+      ]
+    },
+    {
+      "title": "Buffed Pokemon",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon",
+              "Changes"
+            ],
+            [
+              "Sceptile",
+              "New Move : Earth Power"
+            ],
+            [
+              "Swampert",
+              "New Move : Wave Crash"
+            ],
+            [
+              "Scolipede",
+              "New Move : Leech Life Trailblaze"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Here are some of the newly buffed Pokémon. In particular, Swampert's acquisition of Wave Crash is likely to have a significant impact on the competitive gameplay."
+        }
+      ]
+    },
+    {
+      "title": "New Items",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "New Items in Regulation M-B"
+            ],
+            [
+              "Muscle Band",
+              "Wise Glasses",
+              "Expert Belt",
+              "Life Orb"
+            ],
+            [
+              "Metronome",
+              "Big Root",
+              "Light Clay",
+              "Heat Rock"
+            ],
+            [
+              "Icy Rock",
+              "Smooth Rock",
+              "Damp Rock",
+              "Wide Lens"
+            ],
+            [
+              "Zoom Lens",
+              "Iron Ball",
+              "Shed Shell",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "15 new items have been added and all of them can be purchased with at the in-game shop."
+        },
+        {
+          "type": "text",
+          "text": "List of All Newly-Added Items in Regulation M-B"
+        }
+      ]
+    },
+    {
+      "title": "List of Changes from Previous Games",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Changed Categories"
+            ],
+            [
+              "Status Effects",
+              "Battle Mechanics",
+              "Moves",
+              "Abilities"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Status Effect Changes",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Status",
+              "Changed Effects"
+            ],
+            [
+              "Paralysis",
+              "Previous Effect : Pokemon have a 25% chance to be unable to move for a turn. Halves speed. New Effect : Pokemon have a 12.5% chance to be unable to move for a turn. Halves speed."
+            ],
+            [
+              "Freeze",
+              "Previous Effect : Pokemon have a 25% chance to thaw when they move each turn. Can be thawed immediately by certain Fire-type moves . New Effect : Pokemon have a 25% chance to thaw when they move each turn but will be guaranteed to thaw by the 3rd turn. Can be thawed immediately by certain Fire-type moves."
+            ],
+            [
+              "Sleep (from Rest )",
+              "Previous Effect : Fully restores HP and puts the Pokemon to sleep for 2 turns. New Effect : Fully restores HP and puts the Pokemon to sleep for 3 turns."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Some status conditions have undergone changes in Pokemon Champions—the most significant of which is the Freeze status condition. In previous games, a Pokemon could remain frozen for the entirety of the battle, but now it is guaranteed to thaw out by the third turn, similar to the Sleep status effect."
+        },
+        {
+          "type": "text",
+          "text": "All Status Conditions and Effects Explained"
+        }
+      ]
+    },
+    {
+      "title": "Battle Mechanic Changes",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Mechanic",
+              "Changed Effects"
+            ],
+            [
+              "Battle Time Ends (Sudden Death)",
+              "Previous Effect : If both players have the same number of Pokemon once the timer ends, the player with the highest percentage of total remaining HP wins. New Effect : The battle ends in a draw if the battle timer ends."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "If a match goes to timer, the game now automatically ends in a draw . The Pokemon count nor the remaining HP for each Pokemon are no longer considered."
+        }
+      ]
+    },
+    {
+      "title": "Move Changes",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Buffed Moves"
+            ],
+            [
+              "Apple Acid",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Power has been increased, from 80 to 90."
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Beak Blast",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Power has been increased, from 100 to 120."
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Bone Rush",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Power has been increased, from 25 to 30."
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Not including changes to PP values, there are a lot of moves that have been updated in Pokemon Champions. Many of them increased in base power, though some moves have had their additional effects nerfed."
+        },
+        {
+          "type": "text",
+          "text": "List of All Moves"
+        }
+      ]
+    },
+    {
+      "title": "Ability Changes",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ability",
+              "Changed Effects"
+            ],
+            [
+              "Unseen Fist",
+              "Instead of dealing full damage when using contact moves on protecting Pokemon, Unseen Fist now only allows 1/4 of the original damage."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The Unseen Fist ability has been nerfed. It now only deals 1/4 damage through protecting moves (e.g. Protect , Detect , King's Shield )."
+        },
+        {
+          "type": "text",
+          "text": "List of Abilities"
+        }
+      ]
+    },
+    {
+      "title": "Buffed Pokemon",
+      "content": [
+        {
+          "type": "text",
+          "text": "These are the Pokemon that have gained new moves in Pokemon Champions or relearned past moves that were removed in the previous generation of games."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon",
+              "Changes"
+            ],
+            [
+              "Mega Blastoise",
+              "New Move : Shell Smash",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Mega Lopunny",
+              "New Moves : Close Combat Mach Punch U-turn Triple Axel Removed Move :",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Best Pokemon Tier List"
+        }
+      ]
+    },
+    {
+      "title": "Nerfed Pokemon",
+      "content": [
+        {
+          "type": "text",
+          "text": "These are the Pokemon that have had valuable moves removed from their move lists or have had significant nerfs to their signature moves or abilities."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon",
+              "Changes"
+            ],
+            [
+              "Archaludon",
+              "Removed Move : Body Press",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Kangaskhan",
+              "Removed Move :"
+            ],
+            [
+              "Incineroar",
+              "Removed Moves : Knock Off U-turn",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Pokemon Champions Roster: All Pokemon List & Complete Pokedex"
+        }
+      ]
+    },
+    {
+      "title": "Pokemon Champions Related Guides",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pokemon Champions Wiki Top"
+        }
+      ]
+    },
+    {
+      "title": "Pokemon Champions Guides by Category",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pokemon",
+              "Movesets & Best Builds"
+            ],
+            [
+              "Teams",
+              "Tips and Tricks"
+            ],
+            [
+              "Moves",
+              "Abilities"
+            ],
+            [
+              "Items",
+              "Character Customization"
+            ],
+            [
+              "Mega Evolutions",
+              "Mystery Gifts"
+            ],
+            [
+              "Ranked Battles",
+              "Events"
+            ],
+            [
+              "News & Game Info",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Recommended Guides",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tier Lists",
+              "Best Pokemon Tier List",
+              "Doubles Tier List",
+              "Mega Tier List",
+              "Best Items Tier List",
+              "General Guides",
+              "Pokemon HOME Transfer Guide",
+              "Best Starter Pokemon to Choose First",
+              "Reroll Guide: Best Pokemon to Reroll",
+              "List of Changes from Previous Games",
+              "Ranked Battles Guide",
+              "List of All Mega Stones",
+              "Best Pokemon to Recruit",
+              "List of Pokemon Titles",
+              "List of All Achievements",
+              "Usage Stats and Battle Data",
+              "Best Utility Moves",
+              "Next Season and Regulation Release Date"
+            ],
+            [
+              "Best Pokemon Tier List",
+              "Doubles Tier List",
+              "Mega Tier List",
+              "Best Items Tier List",
+              "General Guides",
+              "Pokemon HOME Transfer Guide",
+              "Best Starter Pokemon to Choose First",
+              "Reroll Guide: Best Pokemon to Reroll",
+              "List of Changes from Previous Games",
+              "Ranked Battles Guide",
+              "List of All Mega Stones",
+              "Best Pokemon to Recruit",
+              "List of Pokemon Titles",
+              "List of All Achievements",
+              "Usage Stats and Battle Data",
+              "Best Utility Moves",
+              "Next Season and Regulation Release Date"
+            ],
+            [
+              "Best Pokemon Tier List",
+              "Doubles Tier List"
+            ],
+            [
+              "Mega Tier List",
+              "Best Items Tier List"
+            ],
+            [
+              "General Guides",
+              "Pokemon HOME Transfer Guide",
+              "Best Starter Pokemon to Choose First",
+              "Reroll Guide: Best Pokemon to Reroll",
+              "List of Changes from Previous Games",
+              "Ranked Battles Guide",
+              "List of All Mega Stones",
+              "Best Pokemon to Recruit",
+              "List of Pokemon Titles",
+              "List of All Achievements",
+              "Usage Stats and Battle Data",
+              "Best Utility Moves",
+              "Next Season and Regulation Release Date"
+            ],
+            [
+              "Pokemon HOME Transfer Guide",
+              "Best Starter Pokemon to Choose First"
+            ],
+            [
+              "Reroll Guide: Best Pokemon to Reroll",
+              "List of Changes from Previous Games"
+            ],
+            [
+              "Ranked Battles Guide",
+              "List of All Mega Stones"
+            ],
+            [
+              "Best Pokemon to Recruit",
+              "List of Pokemon Titles"
+            ],
+            [
+              "List of All Achievements",
+              "Usage Stats and Battle Data"
+            ],
+            [
+              "Best Utility Moves",
+              "Next Season and Regulation Release Date"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tools and Shareables",
+      "content": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Damage Calculator",
+              "Team Builder"
+            ],
+            [
+              "Team Sharing Board",
+              "Tier List Maker"
+            ],
+            [
+              "Private Battles Board",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment",
+      "content": [
+        {
+          "type": "text",
+          "text": "Post (0 Comments)"
+        }
+      ]
+    },
+    {
+      "title": "Author",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pokemon Champions Walkthrough Team This article was created by Game8's elite team of writers and gamers. Follow Game8 Pokemon on X for daily tips, guides, and news!"
+        }
+      ]
+    },
+    {
+      "title": "Recommended Guides",
+      "content": [
+        {
+          "type": "text",
+          "text": "Ranked Battles How to Transfer Pokemon With Pokemon HOME Best Pokemon to Recruit First Best Pokemon Tier List Doubles Tier List for Ranked Battles Best Mega Pokemon Tier List Reroll Guide: Best Pokemon to Reroll List of Changes from Previous Games Best Items Tier List List of All Mega Stones List of All Achievements List of Pokemon Titles Best Pokemon to Recruit Usage Stats and Battle Data (Top 20) Next Season and Regulation Release Date"
+        }
+      ]
+    },
+    {
+      "title": "All Pokemon",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Available Pokemon"
+        },
+        {
+          "type": "text",
+          "text": "Normal-type Pokemon Fire-type Pokemon Water-type Pokemon Electric-type Pokemon Grass-type Pokemon Ice-type Pokemon Fighting-type Pokemon Poison-type Pokemon Ground-type Pokemon Flying-type Pokemon Psychic-type Pokemon Bug-type Pokemon Rock-type Pokemon Ghost-type Pokemon Dragon-type Pokemon Dark-type Pokemon Steel-type Pokemon Fairy-type Pokemon"
+        },
+        {
+          "type": "text",
+          "text": "Generation 1 Pokemon Generation 2 Pokemon Generation 3 Pokemon Generation 4 Pokemon Generation 5 Pokemon Generation 6 Pokemon Generation 7 Pokemon Generation 8 Pokemon Generation 9 Pokemon"
+        }
+      ]
+    },
+    {
+      "title": "Movesets and Best Builds",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Movesets and Best Builds Ampharos Abomasnow Barbaracle Vileplume Falinks Pyroar Scolipede Eelektross Annihilape Mawile Staraptor Musharna Gholdengo Grimmsnarl Blaziken Sceptile Metagross Swampert Eternal Flower Floette Incineroar Whimsicott Garchomp Sinistcha Delphox Hawlucha Gengar Charizard Tyranitar Excadrill Greninja Hatterene Pelipper Sneasler Froslass Starmie Meganium Primarina Wash Rotom Hippowdon Meowscarada Dragonite Kingambit Glimmora Weavile Frost Rotom Basculegion (Male) Orthworm Politoed Corviknight Dragapult Clefable Hydreigon Kangaskhan Scizor Aerodactyl Maushold Aegislash Lopunny Farigiraf Gardevoir Sylveon Milotic Mamoswine Gyarados Talonflame Chimecho Hisuian Zoroark Medicham Blastoise Gallade Feraligatr Meowstic (Female) Mimikyu Crabominable Aggron Chesnaught Kommo-o Victreebel Torkoal Volcarona Heat Rotom Vivillon Skeledirge Scovillain Lucario Espathra Alo"
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "content": [
+        {
+          "type": "text",
+          "text": "Best Teams for Ranked Battle All Replica Team Codes (Master Ball Rank) Best Rain Team Best Sun Team Best Sand Team Best Snow Team Best Doubles Hyper Offense Team Best Doubles Balance Team Best Doubles Perish Trap Team Best Trick Room Teams Best Singles Stall Teams Best Singles Hyper Offense Teams Best Singles Balance Teams"
+        }
+      ]
+    },
+    {
+      "title": "Tips and Tricks",
+      "content": [
+        {
+          "type": "text",
+          "text": "Beginner's Guide to Pokemon Champions Pokemon Home Connectivity and Features Confirmed Battle Mechanics How to Train Pokemon What Are Stat Points? Stat Alignment Explained What are Victory Points Available Battle Modes Battle Formats Guide Pokemon Recruitment Guide How to Obtain Pokemon How to Prepare for Pokemon Champions Priority Brackets Explained Pokemon Type Chart Should You Buy the Starter Pack? How to Set Nicknames What Are Base Stats? How to Equip Mega Stones How to Change Your Name and Gender Are There IVs? How to Get and Use Training Tickets How to Get and Use Teammate Tickets How to Use Quick Coupons Should You Buy the Premium Battle Pass? Should You Buy the Annual Membership? Best Items to Buy from the Shop What is Extremely Effective and Mostly Ineffective? All Daily Tasks and Activities How to Increase Box Size How to Change Moves Can You Play Offline? Are There Eggs and Eg"
+        }
+      ]
+    },
+    {
+      "title": "Moves",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Moves Newly-Added Moves in Regulation M-B"
+        },
+        {
+          "type": "text",
+          "text": "Physical Moves Special Moves Status Moves"
+        },
+        {
+          "type": "text",
+          "text": "Grass-Type Moves Water-Type Moves Fire-Type Moves Electric-Type Moves Ice-Type Moves Fighting-Type Moves Ground-Type Moves Poison-Type Moves Flying-Type Moves Psychic-Type Moves Bug-Type Moves Rock-Type Moves Ghost-Type Moves Dragon-Type Moves Dark-Type Moves Steel-Type Moves Fairy-Type Moves Normal-Type Moves"
+        }
+      ]
+    },
+    {
+      "title": "Abilities",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Abilities"
+        },
+        {
+          "type": "text",
+          "text": "New Abilities All Legends Z-A Mega Evolution Abilities Newly-Added Abilities - Regulation M-B"
+        }
+      ]
+    },
+    {
+      "title": "Items",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Items Defense Items Power Boost Item Recovery Items Stat Boost Items Other Items Berries Newly-Added Items Extend Effect Items"
+        }
+      ]
+    },
+    {
+      "title": "Character Customization",
+      "content": [
+        {
+          "type": "text",
+          "text": "Character Customization All Beauty Marks All Mouth Designs All Eyebrows All Eyebrow Colors All Eyelash Colors All Eyelash Designs All Eye Designs All Freckle Designs All Lip Designs All Hairstyles All Hair Color All Glasses All Gloves All Hats All Headbands All Leggings All Color Contacts All Bags All Pants All Pre-Battle Poses All Shirts All Battle Songs All Profile Icons"
+        }
+      ]
+    },
+    {
+      "title": "Mega Evolutions",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of All Mega Evolutions"
+        }
+      ]
+    },
+    {
+      "title": "Mystery Gifts",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Mystery Gifts Machamp Mystery Gift Code"
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "content": [
+        {
+          "type": "text",
+          "text": "List of Events and Online Competitions Mega Stones Collaboration Event Dragonite Early Download Bonus Warm-Up Challenge Event 2026 Global Challenge"
+        }
+      ]
+    },
+    {
+      "title": "Ranked Battles",
+      "content": [
+        {
+          "type": "text",
+          "text": "Regulation M-A Season M-1 Season M-2"
+        }
+      ]
+    },
+    {
+      "title": "Latest News",
+      "content": [
+        {
+          "type": "text",
+          "text": "Latest News Version 1.1.0 Update and Patch Notes Raichu and Mega Stone Gifts Pokemon Champions Release Date Pokemon World Championships 2026 Coming to Switch and Mobile Shiny Pokemon Confirmed Season 1 Battle Pass Rewards List of In-Game Purchases Do You Need Nintendo Switch Online? Can You Play Pokemon Champions on PC? Pokemon Champions Mobile Release Date Can You Trade Pokemon? Is Pokemon Champions Free to Play? When Will Maintenance End? All Known Bugs and Fixes Switch 1 and Switch 2 Version Differences Version 1.0.3 Update and Patch Notes List of All Special Roster Recruits"
+        }
+      ]
+    },
+    {
+      "title": "Other Pokemon Wikis",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pokemon Winds and Waves Pokemon Pokopia Pokemon FireRed and LeafGreen Pokemon Legends: Z-A Pokemon Friends Pokemon TCG Pocket Pokemon Scarlet and Violet Pokemon Sword and Shield Pokemon Legends: Arceus Pokemon Brilliant Diamond and Shining Pearl Pokemon UNITE Pokemon Sleep New Pokemon Snap Pokemon Mystery Dungeon DX"
+        }
+      ]
+    }
+  ]
+}

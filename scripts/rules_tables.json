@@ -1,0 +1,337 @@
+{
+  "timers": {
+    "title": "All Battle Timers and Time Limits | Pokemon Champions｜Game8",
+    "tables": [
+      [
+        [
+          "Pokemon Home Connectivity and Features",
+          "All Daily Tasks and Activities"
+        ],
+        [
+          "Stat Alignment Explained",
+          "Confirmed Battle Mechanics"
+        ],
+        [
+          "Available Battle Modes",
+          "Battle Formats Guide"
+        ],
+        [
+          "Pokemon Recruitment Guide",
+          "Priority Brackets Explained"
+        ],
+        [
+          "Pokemon Type Chart",
+          "Best Items to Buy from the Shop"
+        ],
+        [
+          "How to Set Nicknames",
+          "When to Switch in Battle"
+        ],
+        [
+          "All Weather Conditions Explained",
+          "Status Conditions and Effects"
+        ],
+        [
+          "Tips For Pokemon Selection",
+          "All Terrains and Their Effects"
+        ],
+        [
+          "Glossary of Battle Terms and Explanation",
+          "-"
+        ]
+      ],
+      [
+        [
+          "How to Prepare for Pokemon Champions",
+          "How to Change Your Name and Gender"
+        ],
+        [
+          "How to Train Pokemon",
+          "How to Get Pokemon"
+        ],
+        [
+          "How to Equip Mega Stones",
+          "How to Increase Box Size"
+        ],
+        [
+          "How to Get and Use Teammate Tickets",
+          "How to Use Quick Coupons"
+        ],
+        [
+          "How to Get and Use Training Tickets",
+          "How to Use Affinity Tickets"
+        ],
+        [
+          "How to Battle with Friends",
+          "How to Block Players"
+        ],
+        [
+          "How to Release Pokemon",
+          "How to Increase Critical Hit Chance"
+        ],
+        [
+          "How to Change Moves",
+          "How to Change Settings"
+        ],
+        [
+          "How to Get to Champion Tier",
+          "How to Display Trainer Titles"
+        ],
+        [
+          "How to Get Pokemon in Unique Poke Balls",
+          "How to Understand the Meta"
+        ],
+        [
+          "How to Build Battle Teams",
+          "All Battle Timers and Time Limits"
+        ],
+        [
+          "How to Link Nintendo Account",
+          "-"
+        ]
+      ],
+      [
+        [
+          "Should You Buy the Starter Pack?",
+          "Is Pokemon Champions Pay to Win?"
+        ],
+        [
+          "Should You Buy the Premium Battle Pass?",
+          "Should You Buy the Annual Membership?"
+        ],
+        [
+          "What Are Stat Points?",
+          "What Are Base Stats?"
+        ],
+        [
+          "Are There IVs?",
+          "What is STAB?"
+        ],
+        [
+          "What is Extremely / Mostly Ineffective?",
+          "Can You Play Offline?"
+        ],
+        [
+          "Are There Eggs and Egg Moves?",
+          "What to Do First"
+        ],
+        [
+          "Can You Change Pokemon Forms?",
+          "Should You Use Auto Team Build?"
+        ]
+      ]
+    ]
+  },
+  "team_preview": {
+    "title": "Tips For Pokemon Selection in Team Preview | Pokemon Champions｜Game8",
+    "tables": [
+      [
+        [
+          "Pokemon with High Defense"
+        ],
+        [
+          "Hippowdon",
+          "Archaludon",
+          "Corviknight"
+        ]
+      ],
+      [
+        [
+          "Pokemon with High Firepower"
+        ],
+        [
+          "Mega Charizard Y",
+          "Dragonite",
+          "Hydreigon"
+        ]
+      ],
+      [
+        [
+          "Pokemon with High Speed",
+          "Pokemon with High Attack and SpAtk"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      [
+        [
+          "Example Scenario"
+        ],
+        [
+          "1",
+          "vs",
+          "You hypothetically send out Tyranitar , which is a bad matchup against Garchomp ."
+        ],
+        [
+          "2",
+          "⇆",
+          "You switch your Tyranitar with a Coviknight ."
+        ],
+        [
+          "3",
+          "vs",
+          "You now have the advantage as your hypothetical Corviknight is now facing the opponent's Garchomp ."
+        ]
+      ],
+      [
+        [
+          "Sample Team"
+        ],
+        [
+          "Mega Kangaskhan",
+          "Hippowdon",
+          "Greninja"
+        ]
+      ]
+    ]
+  },
+  "changes": {
+    "title": "List of Changes | Pokemon Champions｜Game8",
+    "tables": [
+      [
+        [
+          "Pokemon",
+          "Changes"
+        ],
+        [
+          "Mega Raichu X",
+          "Type: Stats: 60-135-95-90-95-110 (585) Ability : Electric Surge"
+        ],
+        [
+          "Mega Raichu Y",
+          "Type: Stats: 60-100-55-160-80-130 (585) Ability : No Guard"
+        ],
+        [
+          "Mega Staraptor",
+          "Type: Stats: 85-140-100-60-90-110 (585) Ability : Contrary"
+        ],
+        [
+          "Mega Scolipede",
+          "Type: Stats: 60-140-149-75-99-62 (585) Ability : Shell Armor"
+        ],
+        [
+          "Mega Scrafty",
+          "Type: Stats: 65-130-135-55-135-68 (588) Ability : Intimidate"
+        ],
+        [
+          "Mega Eelektross",
+          "Type: Stats: 85-145-80-135-90-80 (615) Ability : Eelevate"
+        ],
+        [
+          "Mega Pyroar",
+          "Type: Stats: 86-88-92-129-86-126 (607) Ability : Fire Mane"
+        ],
+        [
+          "Mega Malamar",
+          "Type: Stats: 86-102-88-98-120-88 (582) Ability : Contrary"
+        ],
+        [
+          "Mega Barbaracle",
+          "Type: Stats: 72-140-130-64-106-88 (600) Ability : Tough Claws"
+        ],
+        [
+          "Mega Dragalge",
+          "Type: Stats: 65-85-105-132-163-44 (594) Ability : Regenerator"
+        ],
+        [
+          "Mega Falinks",
+          "Type: Stats: 65-135-135-70-65-100 (570) Ability : Defiant"
+        ]
+      ],
+      [
+        [
+          "Pokemon",
+          "Changes"
+        ],
+        [
+          "Gholdengo",
+          "Nerfed Move : Make It Rain • Accuracy has decreased from 100 to 95. • Special Attack decreased changed from 1 stage to 2 stages. Removed Move : Thunder Wave"
+        ],
+        [
+          "Annihilape",
+          "Nerfed Move : Rage Fist • Move power bonus is reset when user is switched out. Removed Move : Final Gambit"
+        ],
+        [
+          "Metagross",
+          "Removed Move : Heavy Slam Knock Off"
+        ],
+        [
+          "Grimmsnarl",
+          "Removed Move : Thunder Wave"
+        ],
+        [
+          "Scrafty",
+          "Removed Move : Parting Shot"
+        ],
+        [
+          "Overqwil",
+          "Removed Move : Mortal Spin"
+        ],
+        [
+          "Pyroar",
+          "Removed Move : Earth Power"
+        ]
+      ],
+      [
+        [
+          "Pokemon",
+          "Changes"
+        ],
+        [
+          "Sceptile",
+          "New Move : Earth Power"
+        ],
+        [
+          "Swampert",
+          "New Move : Wave Crash"
+        ],
+        [
+          "Scolipede",
+          "New Move : Leech Life Trailblaze"
+        ]
+      ],
+      [
+        [
+          "New Items in Regulation M-B"
+        ],
+        [
+          "Muscle Band",
+          "Wise Glasses",
+          "Expert Belt",
+          "Life Orb"
+        ],
+        [
+          "Metronome",
+          "Big Root",
+          "Light Clay",
+          "Heat Rock"
+        ],
+        [
+          "Icy Rock",
+          "Smooth Rock",
+          "Damp Rock",
+          "Wide Lens"
+        ],
+        [
+          "Zoom Lens",
+          "Iron Ball",
+          "Shed Shell",
+          ""
+        ]
+      ],
+      [
+        [
+          "Changed Categories"
+        ],
+        [
+          "Status Effects",
+          "Battle Mechanics",
+          "Moves",
+          "Abilities"
+        ]
+      ]
+    ]
+  }
+}

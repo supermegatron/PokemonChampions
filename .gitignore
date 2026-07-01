@@ -1,0 +1,25 @@
+# Dependencies
+web/node_modules/
+
+# Build output (CI genera dist en GitHub Actions)
+web/dist/
+
+# Scripts / cachés regenerables
+scripts/cache/
+scripts/rules_scrape.json
+
+# Entorno local
+.env
+.env.*
+*.local
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+npm-debug.log*

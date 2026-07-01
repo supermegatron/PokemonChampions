@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "items": [
+    {
+      "id": "wish-alolan-ninetales",
+      "pokemonId": "alolan-ninetales",
+      "name": "Alolan Ninetales",
+      "priority": "alta",
+      "teams": ["Nieve · Velo Aurora"],
+      "notes": "Setter Nevada + Velo Aurora · núcleo",
+      "addedAt": 1
+    },
+    {
+      "id": "wish-pelipper",
+      "pokemonId": "pelipper",
+      "name": "Pelipper",
+      "priority": "alta",
+      "teams": ["Lluvia off-meta"],
+      "notes": "Setter Llovizna + Viento Afín · núcleo",
+      "addedAt": 2
+    },
+    {
+      "id": "wish-excadrill",
+      "pokemonId": "excadrill",
+      "name": "Excadrill",
+      "priority": "alta",
+      "teams": ["Arena · Expulsarena"],
+      "notes": "Carry Velo Arena · sweep físico (ya tienes Tyranitar setter)",
+      "addedAt": 3
+    },
+    {
+      "id": "wish-sandaconda",
+      "pokemonId": "sandaconda",
+      "name": "Sandaconda",
+      "priority": "alta",
+      "teams": ["Arena · Expulsarena"],
+      "notes": "Expulsarena reactivo · pieza clave del truco",
+      "addedAt": 4
+    },
+    {
+      "id": "wish-incineroar",
+      "pokemonId": "incineroar",
+      "name": "Incineroar",
+      "priority": "alta",
+      "teams": ["Nieve · Velo Aurora", "Lluvia off-meta", "Arena · Expulsarena"],
+      "notes": "Fake Out + Intimidación · support clima",
+      "addedAt": 5
+    },
+    {
+      "id": "wish-beartic",
+      "pokemonId": "beartic",
+      "name": "Beartic",
+      "priority": "media",
+      "teams": ["Nieve · Velo Aurora", "Lluvia off-meta"],
+      "notes": "Quitanieves / carry nieve · también Nado Rápido en lluvia",
+      "addedAt": 6
+    },
+    {
+      "id": "wish-overqwil",
+      "pokemonId": "overqwil",
+      "name": "Overqwil",
+      "priority": "media",
+      "teams": ["Lluvia off-meta"],
+      "notes": "Nado Rápido + veneno · molestador",
+      "addedAt": 7
+    },
+    {
+      "id": "wish-politoed",
+      "pokemonId": "politoed",
+      "name": "Politoed",
+      "priority": "media",
+      "teams": ["Lluvia off-meta"],
+      "notes": "Encore + Hypnosis · control flex",
+      "addedAt": 8
+    },
+    {
+      "id": "wish-abomasnow",
+      "pokemonId": "abomasnow",
+      "name": "Abomasnow",
+      "priority": "media",
+      "teams": ["Nieve · Velo Aurora"],
+      "notes": "Segundo setter hielo · flex Blizzard",
+      "addedAt": 9
+    },
+    {
+      "id": "wish-vanilluxe",
+      "pokemonId": "vanilluxe",
+      "name": "Vanilluxe",
+      "priority": "baja",
+      "teams": ["Nieve · Velo Aurora"],
+      "notes": "Señuelo doble nieve en preview · slot 6",
+      "addedAt": 10
+    },
+    {
+      "id": "wish-primarina",
+      "pokemonId": "primarina",
+      "name": "Primarina",
+      "priority": "baja",
+      "teams": ["Lluvia off-meta"],
+      "notes": "Señuelo especial · confunde preview",
+      "addedAt": 11
+    },
+    {
+      "id": "wish-hippowdon",
+      "pokemonId": "hippowdon",
+      "name": "Hippowdon",
+      "priority": "baja",
+      "teams": ["Arena · Expulsarena"],
+      "notes": "Señuelo segundo setter arena",
+      "addedAt": 12
+    },
+    {
+      "id": "wish-swampert",
+      "pokemonId": "swampert",
+      "name": "Swampert",
+      "priority": "baja",
+      "teams": ["Lluvia off-meta"],
+      "notes": "Bait Mega Swampert · señuelo slot 6",
+      "addedAt": 13
+    }
+  ]
+}

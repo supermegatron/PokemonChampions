@@ -1,0 +1,3173 @@
+{
+  "total": 315,
+  "results": {
+    "abuser_Chlorophyll": [
+      {
+        "name": "Venusaur",
+        "speed": 0
+      },
+      {
+        "name": "Victreebel",
+        "speed": 0
+      },
+      {
+        "name": "Leafeon",
+        "speed": 0
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 0
+      },
+      {
+        "name": "Scovillain",
+        "speed": 0
+      },
+      {
+        "name": "Vileplume",
+        "speed": 0
+      }
+    ],
+    "abuser_Sand Force": [
+      {
+        "name": "Mega Steelix",
+        "speed": 0
+      },
+      {
+        "name": "Mega Garchomp",
+        "speed": 0
+      },
+      {
+        "name": "Hippowdon",
+        "speed": 0
+      },
+      {
+        "name": "Excadrill",
+        "speed": 0
+      }
+    ],
+    "abuser_Sand Rush": [
+      {
+        "name": "Excadrill",
+        "speed": 0
+      },
+      {
+        "name": "Midday Form Lycanroc",
+        "speed": 0
+      },
+      {
+        "name": "Houndstone",
+        "speed": 0
+      }
+    ],
+    "abuser_Slush Rush": [
+      {
+        "name": "Beartic",
+        "speed": 0
+      }
+    ],
+    "abuser_Solar Power": [
+      {
+        "name": "Charizard",
+        "speed": 0
+      },
+      {
+        "name": "Mega Houndoom",
+        "speed": 0
+      },
+      {
+        "name": "Heliolisk",
+        "speed": 0
+      }
+    ],
+    "abuser_Swift Swim": [
+      {
+        "name": "Beartic",
+        "speed": 0
+      },
+      {
+        "name": "Basculegion (Male)",
+        "speed": 0
+      },
+      {
+        "name": "Basculegion (Female)",
+        "speed": 0
+      },
+      {
+        "name": "Qwilfish",
+        "speed": 0
+      },
+      {
+        "name": "Overqwil",
+        "speed": 0
+      },
+      {
+        "name": "Mega Swampert",
+        "speed": 0
+      }
+    ],
+    "anti_weather": [
+      "Altaria",
+      "Drampa"
+    ],
+    "aurora_veil": [
+      "Alolan Ninetales",
+      "Abomasnow",
+      "Mega Abomasnow",
+      "Froslass",
+      "Mega Froslass",
+      "Vanilluxe",
+      "Aurorus",
+      "Avalugg",
+      "Hisuian Avalugg"
+    ],
+    "burn": [
+      "Charizard",
+      "Mega Charizard X",
+      "Mega Charizard Y",
+      "Ninetales",
+      "Arcanine",
+      "Hisuian Arcanine",
+      "Gengar",
+      "Mega Gengar",
+      "Paldean Tauros (Blaze Breed)",
+      "Flareon",
+      "Typhlosion",
+      "Hisuian Typhlosion",
+      "Houndoom",
+      "Mega Houndoom",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Sableye",
+      "Mega Sableye",
+      "Camerupt",
+      "Mega Camerupt",
+      "Torkoal",
+      "Altaria",
+      "Mega Altaria",
+      "Banette",
+      "Mega Banette",
+      "Absol",
+      "Mega Absol",
+      "Infernape",
+      "Spiritomb",
+      "Gallade",
+      "Mega Gallade",
+      "Froslass",
+      "Mega Froslass",
+      "Rotom",
+      "Heat Rotom",
+      "Wash Rotom",
+      "Frost Rotom",
+      "Fan Rotom",
+      "Mow Rotom",
+      "Emboar",
+      "Mega Emboar",
+      "Simisear",
+      "Cofagrigus",
+      "Hisuian Zoroark",
+      "Chandelure",
+      "Mega Chandelure",
+      "Volcarona",
+      "Delphox",
+      "Mega Delphox",
+      "Talonflame",
+      "Trevenant",
+      "Gourgeist (Average)",
+      "Gourgeist (Small)",
+      "Gourgeist (Large)",
+      "Gourgeist (Super)",
+      "Incineroar",
+      "Salazzle",
+      "Mimikyu",
+      "Polteageist",
+      "Runerigus",
+      "Dragapult",
+      "Skeledirge",
+      "Armarouge",
+      "Ceruledge",
+      "Scovillain",
+      "Mega Scovillain",
+      "Blaziken",
+      "Pyroar",
+      "Houndstone",
+      "Mega Blaziken",
+      "Mega Pyroar"
+    ],
+    "expanding_force": [
+      "Alolan Raichu",
+      "Alakazam",
+      "Mega Alakazam",
+      "Slowbro",
+      "Mega Slowbro",
+      "Galarian Slowbro",
+      "Starmie",
+      "Mega Starmie",
+      "Espeon",
+      "Slowking",
+      "Galarian Slowking",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Medicham",
+      "Mega Medicham",
+      "Chimecho",
+      "Mega Chimecho",
+      "Gallade",
+      "Mega Gallade",
+      "Reuniclus",
+      "Delphox",
+      "Mega Delphox",
+      "Meowstic (Male)",
+      "Meowstic (Female)",
+      "Mega Meowstic (Male)",
+      "Mega Meowstic (Female)",
+      "Oranguru",
+      "Hatterene",
+      "Mr. Rime",
+      "Wyrdeer",
+      "Armarouge",
+      "Espathra",
+      "Farigiraf",
+      "Metagross",
+      "Musharna",
+      "Malamar",
+      "Mega Metagross",
+      "Mega Malamar"
+    ],
+    "fake_out": [
+      "Blastoise",
+      "Mega Blastoise",
+      "Pikachu",
+      "Raichu",
+      "Alolan Raichu",
+      "Kangaskhan",
+      "Mega Kangaskhan",
+      "Sableye",
+      "Mega Sableye",
+      "Medicham",
+      "Mega Medicham",
+      "Infernape",
+      "Lopunny",
+      "Mega Lopunny",
+      "Toxicroak",
+      "Weavile",
+      "Liepard",
+      "Simisage",
+      "Simisear",
+      "Simipour",
+      "Meowstic (Male)",
+      "Meowstic (Female)",
+      "Mega Meowstic (Male)",
+      "Incineroar",
+      "Salazzle",
+      "Mr. Rime",
+      "Morpeko (Full Belly Mode)",
+      "Morpeko (Hangry Mode)",
+      "Sneasler",
+      "Tinkaton",
+      "Scrafty",
+      "Grimmsnarl",
+      "Mega Raichu X",
+      "Mega Raichu Y",
+      "Mega Scrafty"
+    ],
+    "grassy_glide": [
+      "Venusaur",
+      "Mega Venusaur",
+      "Victreebel",
+      "Mega Victreebel",
+      "Meganium",
+      "Mega Meganium",
+      "Torterra",
+      "Abomasnow",
+      "Mega Abomasnow",
+      "Leafeon",
+      "Serperior",
+      "Simisage",
+      "Whimsicott",
+      "Chesnaught",
+      "Mega Chesnaught",
+      "Florges",
+      "Trevenant",
+      "Gourgeist (Average)",
+      "Gourgeist (Small)",
+      "Gourgeist (Large)",
+      "Gourgeist (Super)",
+      "Decidueye",
+      "Hisuian Decidueye",
+      "Tsareena",
+      "Flapple",
+      "Appletun",
+      "Meowscarada",
+      "Scovillain",
+      "Mega Scovillain",
+      "Hydrapple",
+      "Vileplume",
+      "Sceptile",
+      "Mega Sceptile"
+    ],
+    "intimidate": [
+      "Arbok",
+      "Arcanine",
+      "Hisuian Arcanine",
+      "Tauros",
+      "Paldean Tauros (Combat Breed)",
+      "Paldean Tauros (Blaze Breed)",
+      "Paldean Tauros (Aqua Breed)",
+      "Gyarados",
+      "Mega Manectric",
+      "Luxray",
+      "Krookodile",
+      "Incineroar",
+      "Wyrdeer",
+      "Qwilfish",
+      "Mawile",
+      "Staraptor",
+      "Scrafty",
+      "Overqwil",
+      "Mega Scrafty"
+    ],
+    "manual_weather": [
+      {
+        "name": "Venusaur",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Venusaur",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Charizard",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Charizard X",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Charizard Y",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Blastoise",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Blastoise",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Beedrill",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Beedrill",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Pidgeot",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Pidgeot",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Arbok",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Pikachu",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Raichu",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Alolan Raichu",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Clefable",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Clefable",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Ninetales",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Alolan Ninetales",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Arcanine",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hisuian Arcanine",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Alakazam",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Alakazam",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Machamp",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Victreebel",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Victreebel",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Slowbro",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Slowbro",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Galarian Slowbro",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Gengar",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Gengar",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Kangaskhan",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Kangaskhan",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Starmie",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Starmie",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Pinsir",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Pinsir",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Tauros",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Paldean Tauros (Combat Breed)",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Paldean Tauros (Blaze Breed)",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Paldean Tauros (Aqua Breed)",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Gyarados",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Gyarados",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Vaporeon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Jolteon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Flareon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Aerodactyl",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Aerodactyl",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Snorlax",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Dragonite",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Dragonite",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Meganium",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Meganium",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Typhlosion",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hisuian Typhlosion",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Feraligatr",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Feraligatr",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Ariados",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Ampharos",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Ampharos",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Azumarill",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Politoed",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Espeon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Umbreon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Slowking",
+        "moves": [
+          "Chilly Reception",
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Galarian Slowking",
+        "moves": [
+          "Chilly Reception",
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Forretress",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Steelix",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Steelix",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Scizor",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Scizor",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Heracross",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Heracross",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Skarmory",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Skarmory",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Houndoom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Houndoom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Tyranitar",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Tyranitar",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Pelipper",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Gardevoir",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Gardevoir",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Sableye",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Sableye",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Aggron",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Aggron",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Medicham",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Medicham",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Manectric",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Manectric",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Sharpedo",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Sharpedo",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Camerupt",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Camerupt",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Torkoal",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Altaria",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Altaria",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Milotic",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Castform",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Banette",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Banette",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Chimecho",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Chimecho",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Absol",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Absol",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Glalie",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Mega Glalie",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Torterra",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Infernape",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Empoleon",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Luxray",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Roserade",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Rampardos",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Bastiodon",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Lopunny",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Lopunny",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Spiritomb",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Garchomp",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Garchomp",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Lucario",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Lucario",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hippowdon",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Toxicroak",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Abomasnow",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Mega Abomasnow",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Weavile",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Rhyperior",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Leafeon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Glaceon",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Gliscor",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mamoswine",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Gallade",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Gallade",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Froslass",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Mega Froslass",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Rotom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Heat Rotom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Wash Rotom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Frost Rotom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Fan Rotom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mow Rotom",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Serperior",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Emboar",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Emboar",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Samurott",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Hisuian Samurott",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Watchog",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Liepard",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Simisage",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Simisear",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Simipour",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Excadrill",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Excadrill",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Audino",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Audino",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Conkeldurr",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Whimsicott",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Krookodile",
+        "moves": [
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Cofagrigus",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Garbodor",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Zoroark",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hisuian Zoroark",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Reuniclus",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Vanilluxe",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Emolga",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Chandelure",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Chandelure",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Beartic",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Stunfisk",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Galarian Stunfisk",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Golurk",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Golurk",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hydreigon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Volcarona",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Chesnaught",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Chesnaught",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Delphox",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Delphox",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Greninja",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Mega Greninja",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Diggersby",
+        "moves": [
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Talonflame",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Vivillon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Eternal Flower Floette",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Floette",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Florges",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Pangoro",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Furfrou",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Meowstic (Male)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Meowstic (Female)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Meowstic (Male)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Meowstic (Female)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Aegislash (Shield Forme)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Aegislash (Blade Forme)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Aromatisse",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Slurpuff",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Clawitzer",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Heliolisk",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Tyrantrum",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Aurorus",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Sylveon",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hawlucha",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Hawlucha",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Dedenne",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Goodra",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hisuian Goodra",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Klefki",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Trevenant",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Gourgeist (Average)",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Gourgeist (Small)",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Gourgeist (Large)",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Gourgeist (Super)",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Avalugg",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Hisuian Avalugg",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Noivern",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Decidueye",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Hisuian Decidueye",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Incineroar",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Primarina",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Toucannon",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Crabominable",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Crabominable",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Midday Form Lycanroc",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Midnight Form Lycanroc",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Dusk Form Lycanroc",
+        "moves": [
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Toxapex",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mudsdale",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Araquanid",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Salazzle",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Tsareena",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Oranguru",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Passimian",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mimikyu",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Drampa",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Drampa",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Kommo-o",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Corviknight",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Flapple",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Appletun",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Sandaconda",
+        "moves": [
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Mr. Rime",
+        "moves": [
+          "Rain Dance",
+          "Snowscape",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Runerigus",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Dragapult",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Wyrdeer",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Kleavor",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Basculegion (Male)",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Basculegion (Female)",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Sneasler",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Skeledirge",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Quaquaval",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Maushold (Family of Four)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Garganacl",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Armarouge",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Ceruledge",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Bellibolt",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Scovillain",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Scovillain",
+        "moves": [
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Espathra",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Palafin (Zero Form)",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Palafin (Hero Form)",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Orthworm",
+        "moves": [
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Glimmora",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Glimmora",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Farigiraf",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Kingambit",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Hydrapple",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Maushold (Family of Three)",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Vileplume",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Qwilfish",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Sceptile",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Blaziken",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Swampert",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mawile",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Metagross",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Staraptor",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Musharna",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Scolipede",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Scrafty",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Eelektross",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Pyroar",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Malamar",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Barbaracle",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Dragalge",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Falinks",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Overqwil",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Houndstone",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Annihilape",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Gholdengo",
+        "moves": [
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Mega Raichu X",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Raichu Y",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Sceptile",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Blaziken",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Swampert",
+        "moves": [
+          "Rain Dance"
+        ]
+      },
+      {
+        "name": "Mega Mawile",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Metagross",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Staraptor",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Scolipede",
+        "moves": [
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Scrafty",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Eelektross",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Pyroar",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Malamar",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      },
+      {
+        "name": "Mega Barbaracle",
+        "moves": [
+          "Rain Dance",
+          "Sandstorm"
+        ]
+      },
+      {
+        "name": "Mega Dragalge",
+        "moves": [
+          "Rain Dance",
+          "Snowscape"
+        ]
+      },
+      {
+        "name": "Mega Falinks",
+        "moves": [
+          "Rain Dance",
+          "Sunny Day"
+        ]
+      }
+    ],
+    "para": [
+      "Arbok",
+      "Pikachu",
+      "Raichu",
+      "Alolan Raichu",
+      "Clefable",
+      "Mega Clefable",
+      "Alakazam",
+      "Mega Alakazam",
+      "Victreebel",
+      "Mega Victreebel",
+      "Slowbro",
+      "Mega Slowbro",
+      "Galarian Slowbro",
+      "Gengar",
+      "Mega Gengar",
+      "Starmie",
+      "Mega Starmie",
+      "Gyarados",
+      "Mega Gyarados",
+      "Jolteon",
+      "Dragonite",
+      "Mega Dragonite",
+      "Ampharos",
+      "Mega Ampharos",
+      "Espeon",
+      "Umbreon",
+      "Slowking",
+      "Galarian Slowking",
+      "Forretress",
+      "Tyranitar",
+      "Mega Tyranitar",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Sableye",
+      "Mega Sableye",
+      "Aggron",
+      "Mega Aggron",
+      "Manectric",
+      "Mega Manectric",
+      "Castform",
+      "Banette",
+      "Mega Banette",
+      "Chimecho",
+      "Mega Chimecho",
+      "Absol",
+      "Mega Absol",
+      "Luxray",
+      "Roserade",
+      "Lopunny",
+      "Mega Lopunny",
+      "Gallade",
+      "Mega Gallade",
+      "Froslass",
+      "Mega Froslass",
+      "Rotom",
+      "Heat Rotom",
+      "Wash Rotom",
+      "Frost Rotom",
+      "Fan Rotom",
+      "Mow Rotom",
+      "Serperior",
+      "Watchog",
+      "Liepard",
+      "Audino",
+      "Mega Audino",
+      "Whimsicott",
+      "Reuniclus",
+      "Emolga",
+      "Stunfisk",
+      "Galarian Stunfisk",
+      "Hydreigon",
+      "Vivillon",
+      "Furfrou",
+      "Meowstic (Male)",
+      "Meowstic (Female)",
+      "Mega Meowstic (Male)",
+      "Mega Meowstic (Female)",
+      "Heliolisk",
+      "Aurorus",
+      "Dedenne",
+      "Klefki",
+      "Salazzle",
+      "Mimikyu",
+      "Drampa",
+      "Mega Drampa",
+      "Sandaconda",
+      "Hatterene",
+      "Mr. Rime",
+      "Morpeko (Full Belly Mode)",
+      "Morpeko (Hangry Mode)",
+      "Dragapult",
+      "Wyrdeer",
+      "Maushold (Family of Four)",
+      "Bellibolt",
+      "Tinkaton",
+      "Farigiraf",
+      "Kingambit",
+      "Sinistcha",
+      "Archaludon",
+      "Maushold (Family of Three)",
+      "Vileplume",
+      "Qwilfish",
+      "Musharna",
+      "Eelektross",
+      "Mega Raichu X",
+      "Mega Raichu Y",
+      "Mega Eelektross"
+    ],
+    "perish": [
+      "Gengar",
+      "Mega Gengar",
+      "Azumarill",
+      "Politoed",
+      "Altaria",
+      "Mega Altaria",
+      "Absol",
+      "Mega Absol",
+      "Primarina"
+    ],
+    "poison": [
+      "Venusaur",
+      "Mega Venusaur",
+      "Beedrill",
+      "Mega Beedrill",
+      "Arbok",
+      "Victreebel",
+      "Mega Victreebel",
+      "Galarian Slowbro",
+      "Gengar",
+      "Mega Gengar",
+      "Ariados",
+      "Umbreon",
+      "Galarian Slowking",
+      "Forretress",
+      "Houndoom",
+      "Mega Houndoom",
+      "Roserade",
+      "Spiritomb",
+      "Toxicroak",
+      "Gliscor",
+      "Cofagrigus",
+      "Garbodor",
+      "Zoroark",
+      "Goodra",
+      "Trevenant",
+      "Toxapex",
+      "Salazzle",
+      "Runerigus",
+      "Sneasler",
+      "Meowscarada",
+      "Bellibolt",
+      "Glimmora",
+      "Mega Glimmora",
+      "Vileplume",
+      "Qwilfish",
+      "Scolipede",
+      "Dragalge",
+      "Overqwil",
+      "Mega Scolipede",
+      "Mega Dragalge"
+    ],
+    "prankster": [
+      "Sableye",
+      "Mega Banette",
+      "Liepard",
+      "Whimsicott",
+      "Meowstic (Male)",
+      "Klefki",
+      "Grimmsnarl"
+    ],
+    "rain_sweeper": [
+      "Beartic",
+      "Basculegion (Male)",
+      "Basculegion (Female)",
+      "Qwilfish",
+      "Overqwil",
+      "Mega Swampert"
+    ],
+    "redirection": [
+      "Clefable",
+      "Mega Clefable",
+      "Ariados",
+      "Volcarona",
+      "Vivillon",
+      "Maushold (Family of Four)",
+      "Scovillain",
+      "Mega Scovillain",
+      "Sinistcha",
+      "Maushold (Family of Three)"
+    ],
+    "setter_Drizzle": [
+      {
+        "name": "Politoed",
+        "speed": 0,
+        "types": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Pelipper",
+        "speed": 0,
+        "types": [
+          "Water"
+        ]
+      }
+    ],
+    "setter_Drought": [
+      {
+        "name": "Mega Charizard Y",
+        "speed": 0,
+        "types": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "name": "Ninetales",
+        "speed": 0,
+        "types": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Torkoal",
+        "speed": 0,
+        "types": [
+          "Fire"
+        ]
+      }
+    ],
+    "setter_Sand Spit": [
+      {
+        "name": "Sandaconda",
+        "speed": 0,
+        "types": [
+          "Ground"
+        ]
+      }
+    ],
+    "setter_Sand Stream": [
+      {
+        "name": "Tyranitar",
+        "speed": 0,
+        "types": [
+          "Rock",
+          "Dark"
+        ]
+      },
+      {
+        "name": "Mega Tyranitar",
+        "speed": 0,
+        "types": [
+          "Rock",
+          "Dark"
+        ]
+      },
+      {
+        "name": "Hippowdon",
+        "speed": 0,
+        "types": [
+          "Ground"
+        ]
+      }
+    ],
+    "setter_Snow Warning": [
+      {
+        "name": "Alolan Ninetales",
+        "speed": 0,
+        "types": [
+          "Ice",
+          "Fairy"
+        ]
+      },
+      {
+        "name": "Abomasnow",
+        "speed": 0,
+        "types": [
+          "Grass",
+          "Ice"
+        ]
+      },
+      {
+        "name": "Mega Abomasnow",
+        "speed": 0,
+        "types": [
+          "Grass",
+          "Ice"
+        ]
+      },
+      {
+        "name": "Mega Froslass",
+        "speed": 0,
+        "types": [
+          "Ice",
+          "Ghost"
+        ]
+      },
+      {
+        "name": "Vanilluxe",
+        "speed": 0,
+        "types": [
+          "Ice"
+        ]
+      },
+      {
+        "name": "Aurorus",
+        "speed": 0,
+        "types": [
+          "Rock",
+          "Ice"
+        ]
+      }
+    ],
+    "sleep_direct": [
+      "Venusaur",
+      "Mega Venusaur",
+      "Ninetales",
+      "Alolan Ninetales",
+      "Victreebel",
+      "Mega Victreebel",
+      "Gengar",
+      "Mega Gengar",
+      "Politoed",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Milotic",
+      "Chimecho",
+      "Mega Chimecho",
+      "Roserade",
+      "Spiritomb",
+      "Gallade",
+      "Mega Gallade",
+      "Watchog",
+      "Delphox",
+      "Mega Delphox",
+      "Vivillon",
+      "Aromatisse",
+      "Gourgeist (Average)",
+      "Gourgeist (Small)",
+      "Gourgeist (Large)",
+      "Gourgeist (Super)",
+      "Passimian",
+      "Wyrdeer",
+      "Espathra",
+      "Vileplume",
+      "Musharna",
+      "Malamar",
+      "Mega Malamar"
+    ],
+    "snow_blizzard": [
+      "Alolan Ninetales",
+      "Abomasnow",
+      "Mega Abomasnow",
+      "Mega Froslass",
+      "Vanilluxe",
+      "Beartic",
+      "Aurorus"
+    ],
+    "sun_spread": [
+      "Charizard",
+      "Mega Charizard X",
+      "Mega Charizard Y",
+      "Pidgeot",
+      "Mega Pidgeot",
+      "Ninetales",
+      "Arcanine",
+      "Hisuian Arcanine",
+      "Flareon",
+      "Aerodactyl",
+      "Mega Aerodactyl",
+      "Dragonite",
+      "Mega Dragonite",
+      "Typhlosion",
+      "Hisuian Typhlosion",
+      "Houndoom",
+      "Mega Houndoom",
+      "Camerupt",
+      "Mega Camerupt",
+      "Torkoal",
+      "Altaria",
+      "Mega Altaria",
+      "Infernape",
+      "Emboar",
+      "Mega Emboar",
+      "Simisear",
+      "Chandelure",
+      "Mega Chandelure",
+      "Hydreigon",
+      "Volcarona",
+      "Delphox",
+      "Mega Delphox",
+      "Talonflame",
+      "Noivern",
+      "Incineroar",
+      "Toucannon",
+      "Salazzle",
+      "Drampa",
+      "Mega Drampa",
+      "Skeledirge",
+      "Armarouge",
+      "Ceruledge",
+      "Blaziken",
+      "Staraptor",
+      "Pyroar",
+      "Mega Blaziken",
+      "Mega Staraptor",
+      "Mega Pyroar"
+    ],
+    "tailwind": [
+      "Pidgeot",
+      "Mega Pidgeot",
+      "Aerodactyl",
+      "Mega Aerodactyl",
+      "Dragonite",
+      "Mega Dragonite",
+      "Scizor",
+      "Mega Scizor",
+      "Skarmory",
+      "Mega Skarmory",
+      "Pelipper",
+      "Altaria",
+      "Mega Altaria",
+      "Gliscor",
+      "Whimsicott",
+      "Hydreigon",
+      "Volcarona",
+      "Talonflame",
+      "Vivillon",
+      "Noivern",
+      "Decidueye",
+      "Hisuian Decidueye",
+      "Toucannon",
+      "Corviknight",
+      "Kleavor",
+      "Staraptor",
+      "Mega Staraptor"
+    ],
+    "terrain_setter": [
+      {
+        "name": "Mega Raichu X",
+        "ability": "Electric Surge",
+        "speed": 0
+      }
+    ],
+    "trick_room": [
+      {
+        "name": "Alakazam",
+        "speed": 0
+      },
+      {
+        "name": "Mega Alakazam",
+        "speed": 0
+      },
+      {
+        "name": "Slowbro",
+        "speed": 0
+      },
+      {
+        "name": "Mega Slowbro",
+        "speed": 0
+      },
+      {
+        "name": "Galarian Slowbro",
+        "speed": 0
+      },
+      {
+        "name": "Gengar",
+        "speed": 0
+      },
+      {
+        "name": "Mega Gengar",
+        "speed": 0
+      },
+      {
+        "name": "Starmie",
+        "speed": 0
+      },
+      {
+        "name": "Mega Starmie",
+        "speed": 0
+      },
+      {
+        "name": "Espeon",
+        "speed": 0
+      },
+      {
+        "name": "Slowking",
+        "speed": 0
+      },
+      {
+        "name": "Galarian Slowking",
+        "speed": 0
+      },
+      {
+        "name": "Gardevoir",
+        "speed": 0
+      },
+      {
+        "name": "Mega Gardevoir",
+        "speed": 0
+      },
+      {
+        "name": "Medicham",
+        "speed": 0
+      },
+      {
+        "name": "Mega Medicham",
+        "speed": 0
+      },
+      {
+        "name": "Banette",
+        "speed": 0
+      },
+      {
+        "name": "Mega Banette",
+        "speed": 0
+      },
+      {
+        "name": "Chimecho",
+        "speed": 0
+      },
+      {
+        "name": "Mega Chimecho",
+        "speed": 0
+      },
+      {
+        "name": "Spiritomb",
+        "speed": 0
+      },
+      {
+        "name": "Gallade",
+        "speed": 0
+      },
+      {
+        "name": "Mega Gallade",
+        "speed": 0
+      },
+      {
+        "name": "Audino",
+        "speed": 0
+      },
+      {
+        "name": "Mega Audino",
+        "speed": 0
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 0
+      },
+      {
+        "name": "Cofagrigus",
+        "speed": 0
+      },
+      {
+        "name": "Reuniclus",
+        "speed": 0
+      },
+      {
+        "name": "Chandelure",
+        "speed": 0
+      },
+      {
+        "name": "Mega Chandelure",
+        "speed": 0
+      },
+      {
+        "name": "Delphox",
+        "speed": 0
+      },
+      {
+        "name": "Mega Delphox",
+        "speed": 0
+      },
+      {
+        "name": "Meowstic (Male)",
+        "speed": 0
+      },
+      {
+        "name": "Meowstic (Female)",
+        "speed": 0
+      },
+      {
+        "name": "Mega Meowstic (Male)",
+        "speed": 0
+      },
+      {
+        "name": "Mega Meowstic (Female)",
+        "speed": 0
+      },
+      {
+        "name": "Aromatisse",
+        "speed": 0
+      },
+      {
+        "name": "Klefki",
+        "speed": 0
+      },
+      {
+        "name": "Trevenant",
+        "speed": 0
+      },
+      {
+        "name": "Gourgeist (Average)",
+        "speed": 0
+      },
+      {
+        "name": "Gourgeist (Small)",
+        "speed": 0
+      },
+      {
+        "name": "Gourgeist (Large)",
+        "speed": 0
+      },
+      {
+        "name": "Gourgeist (Super)",
+        "speed": 0
+      },
+      {
+        "name": "Oranguru",
+        "speed": 0
+      },
+      {
+        "name": "Mimikyu",
+        "speed": 0
+      },
+      {
+        "name": "Polteageist",
+        "speed": 0
+      },
+      {
+        "name": "Hatterene",
+        "speed": 0
+      },
+      {
+        "name": "Mr. Rime",
+        "speed": 0
+      },
+      {
+        "name": "Runerigus",
+        "speed": 0
+      },
+      {
+        "name": "Wyrdeer",
+        "speed": 0
+      },
+      {
+        "name": "Meowscarada",
+        "speed": 0
+      },
+      {
+        "name": "Armarouge",
+        "speed": 0
+      },
+      {
+        "name": "Espathra",
+        "speed": 0
+      },
+      {
+        "name": "Farigiraf",
+        "speed": 0
+      },
+      {
+        "name": "Sinistcha",
+        "speed": 0
+      },
+      {
+        "name": "Musharna",
+        "speed": 0
+      },
+      {
+        "name": "Malamar",
+        "speed": 0
+      },
+      {
+        "name": "Mega Malamar",
+        "speed": 0
+      }
+    ],
+    "yawn": [
+      "Blastoise",
+      "Mega Blastoise",
+      "Slowbro",
+      "Mega Slowbro",
+      "Galarian Slowbro",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Snorlax",
+      "Espeon",
+      "Umbreon",
+      "Slowking",
+      "Galarian Slowking",
+      "Camerupt",
+      "Mega Camerupt",
+      "Torkoal",
+      "Chimecho",
+      "Mega Chimecho",
+      "Empoleon",
+      "Hippowdon",
+      "Leafeon",
+      "Glaceon",
+      "Emboar",
+      "Mega Emboar",
+      "Liepard",
+      "Simisear",
+      "Audino",
+      "Mega Audino",
+      "Beartic",
+      "Stunfisk",
+      "Galarian Stunfisk",
+      "Meowstic (Male)",
+      "Meowstic (Female)",
+      "Mega Meowstic (Male)",
+      "Mega Meowstic (Female)",
+      "Slurpuff",
+      "Sylveon",
+      "Oranguru",
+      "Skeledirge",
+      "Hydrapple",
+      "Swampert",
+      "Musharna",
+      "Pyroar",
+      "Houndstone",
+      "Mega Swampert",
+      "Mega Pyroar"
+    ]
+  }
+}

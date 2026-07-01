@@ -1,0 +1,600 @@
+{
+  "regulation": "M-B",
+  "source": "https://rotompicks.com/en/items/",
+  "count": 148,
+  "scraped_at": "2026-07-01T11:17:23Z",
+  "items": [
+    {
+      "name": "Expert Belt",
+      "category": "offensive"
+    },
+    {
+      "name": "Life Orb",
+      "category": "offensive"
+    },
+    {
+      "name": "Metronome",
+      "category": "offensive"
+    },
+    {
+      "name": "Muscle Band",
+      "category": "offensive"
+    },
+    {
+      "name": "Scope Lens",
+      "category": "offensive"
+    },
+    {
+      "name": "Wise Glasses",
+      "category": "offensive"
+    },
+    {
+      "name": "Focus Band",
+      "category": "defensive"
+    },
+    {
+      "name": "Focus Sash",
+      "category": "defensive"
+    },
+    {
+      "name": "Iron Ball",
+      "category": "defensive"
+    },
+    {
+      "name": "Shed Shell",
+      "category": "defensive"
+    },
+    {
+      "name": "Big Root",
+      "category": "recovery"
+    },
+    {
+      "name": "Leftovers",
+      "category": "recovery"
+    },
+    {
+      "name": "Shell Bell",
+      "category": "recovery"
+    },
+    {
+      "name": "Choice Scarf",
+      "category": "choice"
+    },
+    {
+      "name": "Bright Powder",
+      "category": "support"
+    },
+    {
+      "name": "Damp Rock",
+      "category": "support"
+    },
+    {
+      "name": "Heat Rock",
+      "category": "support"
+    },
+    {
+      "name": "Icy Rock",
+      "category": "support"
+    },
+    {
+      "name": "King's Rock",
+      "category": "support"
+    },
+    {
+      "name": "Light Ball",
+      "category": "support"
+    },
+    {
+      "name": "Light Clay",
+      "category": "support"
+    },
+    {
+      "name": "Mental Herb",
+      "category": "support"
+    },
+    {
+      "name": "Quick Claw",
+      "category": "support"
+    },
+    {
+      "name": "Smooth Rock",
+      "category": "support"
+    },
+    {
+      "name": "White Herb",
+      "category": "support"
+    },
+    {
+      "name": "Wide Lens",
+      "category": "support"
+    },
+    {
+      "name": "Zoom Lens",
+      "category": "support"
+    },
+    {
+      "name": "Black Belt",
+      "category": "type-boost"
+    },
+    {
+      "name": "Black Glasses",
+      "category": "type-boost"
+    },
+    {
+      "name": "Charcoal",
+      "category": "type-boost"
+    },
+    {
+      "name": "Dragon Fang",
+      "category": "type-boost"
+    },
+    {
+      "name": "Fairy Feather",
+      "category": "type-boost"
+    },
+    {
+      "name": "Hard Stone",
+      "category": "type-boost"
+    },
+    {
+      "name": "Magnet",
+      "category": "type-boost"
+    },
+    {
+      "name": "Metal Coat",
+      "category": "type-boost"
+    },
+    {
+      "name": "Miracle Seed",
+      "category": "type-boost"
+    },
+    {
+      "name": "Mystic Water",
+      "category": "type-boost"
+    },
+    {
+      "name": "Never-Melt Ice",
+      "category": "type-boost"
+    },
+    {
+      "name": "Poison Barb",
+      "category": "type-boost"
+    },
+    {
+      "name": "Sharp Beak",
+      "category": "type-boost"
+    },
+    {
+      "name": "Silk Scarf",
+      "category": "type-boost"
+    },
+    {
+      "name": "Silver Powder",
+      "category": "type-boost"
+    },
+    {
+      "name": "Soft Sand",
+      "category": "type-boost"
+    },
+    {
+      "name": "Spell Tag",
+      "category": "type-boost"
+    },
+    {
+      "name": "Twisted Spoon",
+      "category": "type-boost"
+    },
+    {
+      "name": "Aspear Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Babiri Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Charti Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Cheri Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Chesto Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Chilan Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Chople Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Coba Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Colbur Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Haban Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Kasib Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Kebia Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Leppa Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Lum Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Occa Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Oran Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Passho Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Payapa Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Pecha Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Persim Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Rawst Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Rindo Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Roseli Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Shuca Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Sitrus Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Tanga Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Wacan Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Yache Berry",
+      "category": "berry"
+    },
+    {
+      "name": "Abomasite",
+      "category": "mega"
+    },
+    {
+      "name": "Absolite",
+      "category": "mega"
+    },
+    {
+      "name": "Aerodactylite",
+      "category": "mega"
+    },
+    {
+      "name": "Aggronite",
+      "category": "mega"
+    },
+    {
+      "name": "Alakazite",
+      "category": "mega"
+    },
+    {
+      "name": "Altarianite",
+      "category": "mega"
+    },
+    {
+      "name": "Ampharosite",
+      "category": "mega"
+    },
+    {
+      "name": "Audinite",
+      "category": "mega"
+    },
+    {
+      "name": "Banettite",
+      "category": "mega"
+    },
+    {
+      "name": "Barbaracite",
+      "category": "mega"
+    },
+    {
+      "name": "Beedrillite",
+      "category": "mega"
+    },
+    {
+      "name": "Blastoisinite",
+      "category": "mega"
+    },
+    {
+      "name": "Blazikenite",
+      "category": "mega"
+    },
+    {
+      "name": "Cameruptite",
+      "category": "mega"
+    },
+    {
+      "name": "Chandelurite",
+      "category": "mega"
+    },
+    {
+      "name": "Charizardite X",
+      "category": "mega"
+    },
+    {
+      "name": "Charizardite Y",
+      "category": "mega"
+    },
+    {
+      "name": "Chesnaughtite",
+      "category": "mega"
+    },
+    {
+      "name": "Chimechite",
+      "category": "mega"
+    },
+    {
+      "name": "Clefablite",
+      "category": "mega"
+    },
+    {
+      "name": "Crabominite",
+      "category": "mega"
+    },
+    {
+      "name": "Delphoxite",
+      "category": "mega"
+    },
+    {
+      "name": "Dragalgite",
+      "category": "mega"
+    },
+    {
+      "name": "Dragoninite",
+      "category": "mega"
+    },
+    {
+      "name": "Drampanite",
+      "category": "mega"
+    },
+    {
+      "name": "Eelektrossite",
+      "category": "mega"
+    },
+    {
+      "name": "Emboarite",
+      "category": "mega"
+    },
+    {
+      "name": "Excadrite",
+      "category": "mega"
+    },
+    {
+      "name": "Falinksite",
+      "category": "mega"
+    },
+    {
+      "name": "Feraligite",
+      "category": "mega"
+    },
+    {
+      "name": "Floettite",
+      "category": "mega"
+    },
+    {
+      "name": "Froslassite",
+      "category": "mega"
+    },
+    {
+      "name": "Galladite",
+      "category": "mega"
+    },
+    {
+      "name": "Garchompite",
+      "category": "mega"
+    },
+    {
+      "name": "Gardevoirite",
+      "category": "mega"
+    },
+    {
+      "name": "Gengarite",
+      "category": "mega"
+    },
+    {
+      "name": "Glalitite",
+      "category": "mega"
+    },
+    {
+      "name": "Glimmoranite",
+      "category": "mega"
+    },
+    {
+      "name": "Golurkite",
+      "category": "mega"
+    },
+    {
+      "name": "Greninjite",
+      "category": "mega"
+    },
+    {
+      "name": "Gyaradosite",
+      "category": "mega"
+    },
+    {
+      "name": "Hawluchanite",
+      "category": "mega"
+    },
+    {
+      "name": "Heracronite",
+      "category": "mega"
+    },
+    {
+      "name": "Houndoominite",
+      "category": "mega"
+    },
+    {
+      "name": "Kangaskhanite",
+      "category": "mega"
+    },
+    {
+      "name": "Lopunnite",
+      "category": "mega"
+    },
+    {
+      "name": "Lucarionite",
+      "category": "mega"
+    },
+    {
+      "name": "Malamarite",
+      "category": "mega"
+    },
+    {
+      "name": "Manectite",
+      "category": "mega"
+    },
+    {
+      "name": "Mawilite",
+      "category": "mega"
+    },
+    {
+      "name": "Medichamite",
+      "category": "mega"
+    },
+    {
+      "name": "Meganiumite",
+      "category": "mega"
+    },
+    {
+      "name": "Meowsticite",
+      "category": "mega"
+    },
+    {
+      "name": "Metagrossite",
+      "category": "mega"
+    },
+    {
+      "name": "Pidgeotite",
+      "category": "mega"
+    },
+    {
+      "name": "Pinsirite",
+      "category": "mega"
+    },
+    {
+      "name": "Pyroarite",
+      "category": "mega"
+    },
+    {
+      "name": "Raichunite X",
+      "category": "mega"
+    },
+    {
+      "name": "Raichunite Y",
+      "category": "mega"
+    },
+    {
+      "name": "Sablenite",
+      "category": "mega"
+    },
+    {
+      "name": "Sceptilite",
+      "category": "mega"
+    },
+    {
+      "name": "Scizorite",
+      "category": "mega"
+    },
+    {
+      "name": "Scolipite",
+      "category": "mega"
+    },
+    {
+      "name": "Scovillainite",
+      "category": "mega"
+    },
+    {
+      "name": "Scraftinite",
+      "category": "mega"
+    },
+    {
+      "name": "Sharpedonite",
+      "category": "mega"
+    },
+    {
+      "name": "Skarmorite",
+      "category": "mega"
+    },
+    {
+      "name": "Slowbronite",
+      "category": "mega"
+    },
+    {
+      "name": "Staraptite",
+      "category": "mega"
+    },
+    {
+      "name": "Starminite",
+      "category": "mega"
+    },
+    {
+      "name": "Steelixite",
+      "category": "mega"
+    },
+    {
+      "name": "Swampertite",
+      "category": "mega"
+    },
+    {
+      "name": "Tyranitarite",
+      "category": "mega"
+    },
+    {
+      "name": "Venusaurite",
+      "category": "mega"
+    },
+    {
+      "name": "Victreebelite",
+      "category": "mega"
+    }
+  ]
+}
