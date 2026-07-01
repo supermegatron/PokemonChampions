@@ -77,8 +77,21 @@ export function PokemonDetailModal({ pokemon, isOwned, onToggleOwned, onClose })
           <h3>Estadísticas base</h3>
           <div className="stat-bars">
             {STAT_META.map(({ key, label, color }) => {
-              const value = pokemon.stats?.[key] ?? 0
-              const pct = Math.min(100, Math.round((value / STAT_MAX[key]) * 100))
+              const raw = pokemon.stats?.[key]
+              const value =
+                raw ??
+                (key === 'spe' && pokemon.stats?.bst
+                  ? pokemon.stats.bst -
+                    STAT_META.filter((m) => m.key !== 'spe').reduce(
+                      (sum, m) => sum + (pokemon.stats?.[m.key] ?? 0),
+                      0
+                    )
+                  : null)
+              const display = value != null && value > 0 ? value : '—'
+              const pct =
+                typeof value === 'number' && value > 0
+                  ? Math.min(100, Math.round((value / STAT_MAX[key]) * 100))
+                  : 0
               return (
                 <div key={key} className="stat-bar">
                   <span className="stat-bar__label">{label}</span>
@@ -88,7 +101,7 @@ export function PokemonDetailModal({ pokemon, isOwned, onToggleOwned, onClose })
                       style={{ width: `${pct}%`, background: color }}
                     />
                   </div>
-                  <span className="stat-bar__value">{value}</span>
+                  <span className="stat-bar__value">{display}</span>
                 </div>
               )
             })}

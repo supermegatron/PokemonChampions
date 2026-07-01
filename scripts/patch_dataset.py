@@ -104,6 +104,18 @@ def rebuild_indexes(dataset: dict[str, dict]) -> None:
     )
 
 
+def fill_missing_speed(stats: dict) -> bool:
+    """Some Game8 pages omit Spe; derive from BST when possible."""
+    if "spe" in stats or not stats.get("bst"):
+        return False
+    known = sum(stats.get(k, 0) for k in ("hp", "atk", "def", "spa", "spd"))
+    spe = stats["bst"] - known
+    if spe > 0:
+        stats["spe"] = spe
+        return True
+    return False
+
+
 def main() -> None:
     pokemon_path = DATA_DIR / "pokemon.json"
     dataset: dict[str, dict] = json.loads(pokemon_path.read_text(encoding="utf-8"))
@@ -124,6 +136,10 @@ def main() -> None:
             fixed += 1
         time.sleep(0.15)
     print(f"  fixed {fixed} types")
+
+    print("Filling missing Speed from BST...")
+    spe_fixed = sum(1 for mon in dataset.values() if fill_missing_speed(mon.get("stats", {})))
+    print(f"  fixed {spe_fixed} speed stats")
 
     print("Adding M-B new pokemon...")
     cache: dict[str, dict] = {}
