@@ -1,3 +1,7 @@
+# Datos personales (solo desarrollo local)
+data/M-B/teams/catalog.local.json
+data/M-B/teams/descriptions.local.json
+
 # Dependencies
 web/node_modules/
 

@@ -1,32 +1,22 @@
 {
-  "team-cover-sand": {
-    "description": "100% con lo que ya tienes. Mega Tyranitar pone arena y rompe, Arcanine intimida y quema, Aggron tanquea, Gholdengo carry especial. Whimsicott y Dragonite en el 6 para flex/señuelo.",
-    "recruitHint": "Cuando fiches: Excadrill sustituye a Dragonite como carry físico bajo arena.",
-    "bringHint": "Bring habitual: 1 · 2 · 3 · 4 (a veces Whimsicott en lugar de Aggron)"
-  },
-  "team-cover-tailwind": {
-    "description": "Hiperofensa sin clima: Whimsicott Viento Afín, Raichu Susto, Sylveon spread y Mega Dragonite remata. Arcanine en el 6 si quieres Intimidación extra; Tyranitar despista en preview.",
-    "recruitHint": "Cuando fiches: Pelipper para el equipo de lluvia. Incineroar no hace falta — Arcanine ya está en este roster.",
-    "bringHint": "Bring habitual: 1 · 2 · 3 · 4 (Arcanine en lugar de Tyranitar si necesitas bajar ataques rivales)"
+  "team-starter": {
+    "description": "Tu equipo en blanco. Añade Pokémon desde los slots vacíos y márcalos en propiedad en la Caja PC.",
+    "recruitHint": "",
+    "bringHint": ""
   },
   "team-snow": {
-    "description": "Nevada + Velo Aurora, Beartic barrido e Incineroar molestando. Pelipper y Vanilluxe en el 6 para despistar.",
+    "description": "Plantilla de ejemplo: Nevada + Velo Aurora. Puedes copiarla, editarla o borrarla.",
     "recruitHint": "",
     "bringHint": "Bring habitual: 1 · 2 · 3 · 4"
   },
   "team-rain": {
-    "description": "Llovizna off-meta: Beartic y Overqwil con Nado Rápido. Swampert con Mega Stone y Primarina en el 6 para confundir preview.",
+    "description": "Plantilla de ejemplo: Llovizna off-meta con Nado Rápido.",
     "recruitHint": "",
     "bringHint": "Bring habitual: 1 · 2 · 3 · 4"
   },
   "team-sand": {
-    "description": "Chorro Arena + Sandaconda (Expulsarena). Mega Tyranitar, Excadrill carry. Hippowdon y Pelipper en el 6 como señuelo.",
-    "recruitHint": "Prioridad: Excadrill e Incineroar (Fake Out en un roster distinto al cover de arena).",
-    "bringHint": "Bring habitual: 1 · 2 · 3 · 4"
-  },
-  "team-cover-mega-raichu": {
-    "description": "Hecho alrededor de tu Raichu Alegre con Megapiedra (Mega Raichu X: físico + Electric Terrain). No toques sus movimientos. Whimsicott acelera el equipo; Arcanine baja ataques; Gholdengo cubre el hueco Tierra.",
+    "description": "Plantilla de ejemplo: Chorro Arena + Sandaconda (Expulsarena).",
     "recruitHint": "",
-    "bringHint": "Bring habitual: Raichu · Whimsicott · Arcanine · Gholdengo (Sylveon si necesitas spread)"
+    "bringHint": "Bring habitual: 1 · 2 · 3 · 4"
   }
 }

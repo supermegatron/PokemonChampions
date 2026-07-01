@@ -1,9 +1,8 @@
-import catalogData from '@data/teams/catalog.json'
+const STORAGE_KEY = 'pokemon-champions-owned-v2'
 
-const STORAGE_KEY = 'pokemon-champions-owned-v1'
-
+/** Sin lista predefinida: cada usuario marca su caja en la app. */
 export function getDefaultOwnedIds() {
-  return [...(catalogData.ownedPokemonIds || [])]
+  return []
 }
 
 export function loadOwnedIds() {

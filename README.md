@@ -26,6 +26,13 @@ Abre [http://localhost:5173](http://localhost:5173).
 
 Los datos personales (equipos, caja, wishlist) se guardan en el navegador de cada uno (`localStorage`).
 
+### Configuración personal (solo tú, en local)
+
+En desarrollo (`npm run dev`), si existen estos archivos (no se suben a GitHub), se usan en lugar del catálogo público:
+
+- `data/M-B/teams/catalog.local.json`
+- `data/M-B/teams/descriptions.local.json`
+
 ## Estructura
 
 - `web/` — app React (Vite)

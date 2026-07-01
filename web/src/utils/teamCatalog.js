@@ -1,5 +1,18 @@
-import catalogData from '@data/teams/catalog.json'
-import descriptionsData from '@data/teams/descriptions.json'
+import publicCatalog from '@data/teams/catalog.json'
+import publicDescriptions from '@data/teams/descriptions.json'
+
+const localCatalogMods = import.meta.glob('@data/teams/catalog.local.json', { eager: true })
+const localDescMods = import.meta.glob('@data/teams/descriptions.local.json', { eager: true })
+
+const catalogData =
+  import.meta.env.DEV && Object.keys(localCatalogMods).length
+    ? Object.values(localCatalogMods)[0].default
+    : publicCatalog
+
+const descriptionsData =
+  import.meta.env.DEV && Object.keys(localDescMods).length
+    ? Object.values(localDescMods)[0].default
+    : publicDescriptions
 
 export { catalogData, descriptionsData }
 

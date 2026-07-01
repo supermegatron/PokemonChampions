@@ -7,7 +7,7 @@ import {
   syncDescriptionsFromRepo,
 } from './teamCatalog'
 
-const STORAGE_KEY = 'pokemon-champions-teams-v8'
+const STORAGE_KEY = 'pokemon-champions-teams-v9'
 
 function initialState() {
   return {

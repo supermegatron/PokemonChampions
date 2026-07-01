@@ -1,6 +1,6 @@
 import seedData from '@data/wishlist.json'
 
-const STORAGE_KEY = 'pokemon-champions-wishlist-v3'
+const STORAGE_KEY = 'pokemon-champions-wishlist-v4'
 
 export const PRIORITY_ORDER = ['alta', 'media', 'baja']
 
