@@ -1,5 +1,6 @@
 import publicCatalog from '@data/teams/catalog.json'
 import publicDescriptions from '@data/teams/descriptions.json'
+import { emptyEvs } from './statCalc'
 
 const localCatalogMods = import.meta.glob('@data/teams/catalog.local.json', { eager: true })
 const localDescMods = import.meta.glob('@data/teams/descriptions.local.json', { eager: true })
@@ -23,10 +24,15 @@ export function normalizeSlot(slot) {
     ability: slot.ability || '',
     item: slot.item || '',
     nature: slot.nature || '',
-    moves: [...(slot.moves || [])],
+    moves: (() => {
+      const moves = [...(slot.moves || [])]
+      while (moves.length < 4) moves.push('')
+      return moves
+    })(),
     role: slot.role || '',
     roleLabel: slot.roleLabel || '',
     owned: slot.owned ?? false,
+    evs: { ...emptyEvs(), ...(slot.evs || {}) },
   }
 }
 
@@ -110,7 +116,11 @@ export function mergeCatalogIntoStored(stored, { refreshCatalog = false } = {}) 
     }
   }
 
-  const customTeams = (stored.teams || []).filter((t) => !catalogIds.has(t.id))
+  // Equipos creados por el usuario (nunca fromCatalog). Al refrescar catálogo,
+  // los equipos viejos del repo que ya no existen se eliminan (no quedan como custom).
+  const customTeams = (stored.teams || []).filter(
+    (t) => !catalogIds.has(t.id) && !t.fromCatalog
+  )
   const catalogOrdered = catalogTeams.map((t) => byId.get(t.id) || t)
   const teams = [...catalogOrdered, ...customTeams]
 

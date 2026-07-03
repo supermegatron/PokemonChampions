@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import { useGameData } from './hooks/useGameData'
 import {
   loadTeams,
@@ -19,6 +19,7 @@ import {
 import { PcBox } from './components/PcBox'
 import { TeamBuilder } from './components/TeamBuilder'
 import { Wishlist } from './components/Wishlist'
+import { MetaTab } from './components/MetaTab'
 import { loadOwnedIds, saveOwnedIds, toggleOwnedId } from './utils/ownedStorage'
 import './App.css'
 
@@ -29,6 +30,7 @@ export default function App() {
   const [wishlistState, setWishlistState] = useState(loadWishlist)
   const [ownedIds, setOwnedIds] = useState(loadOwnedIds)
   const [selectedSlotIndex, setSelectedSlotIndex] = useState(0)
+  const ownedPersistReady = useRef(false)
 
   const activeTeam = teamState.teams.find((t) => t.id === teamState.activeTeamId) || teamState.teams[0]
 
@@ -41,6 +43,10 @@ export default function App() {
   }, [wishlistState])
 
   useEffect(() => {
+    if (!ownedPersistReady.current) {
+      ownedPersistReady.current = true
+      return
+    }
     saveOwnedIds(ownedIds)
   }, [ownedIds])
 
@@ -151,6 +157,13 @@ export default function App() {
           </button>
           <button
             type="button"
+            className={tab === 'meta' ? 'is-active' : ''}
+            onClick={() => setTab('meta')}
+          >
+            Meta
+          </button>
+          <button
+            type="button"
             className={tab === 'wishlist' ? 'is-active' : ''}
             onClick={() => setTab('wishlist')}
           >
@@ -191,6 +204,7 @@ export default function App() {
             onAddPokemon={handleAddToSlot}
           />
         )}
+        {tab === 'meta' && <MetaTab pokemonById={pokemonById} />}
         {tab === 'wishlist' && (
           <Wishlist
             pokemonList={pokemonList}

@@ -1,22 +1,8 @@
 {
-  "team-starter": {
-    "description": "Tu equipo en blanco. Añade Pokémon desde los slots vacíos y márcalos en propiedad en la Caja PC.",
+  "team-flex-main": {
+    "description": "Un solo roster de 6: todos tienen rol en combate, sin señuelos. Registras estos 6 y en el preview eliges 4 según lo que veas. Base: Whimsicott acelera y molesta (Encore/Taunt); Raichu y Kingambit rematan; Arcanine baja ataques físicos. Drampa anula lluvia/sol si lo necesitas. Sylveon hace daño spread y Bostezo a setup.",
     "recruitHint": "",
-    "bringHint": ""
-  },
-  "team-snow": {
-    "description": "Plantilla de ejemplo: Nevada + Velo Aurora. Puedes copiarla, editarla o borrarla.",
-    "recruitHint": "",
-    "bringHint": "Bring habitual: 1 · 2 · 3 · 4"
-  },
-  "team-rain": {
-    "description": "Plantilla de ejemplo: Llovizna off-meta con Nado Rápido.",
-    "recruitHint": "",
-    "bringHint": "Bring habitual: 1 · 2 · 3 · 4"
-  },
-  "team-sand": {
-    "description": "Plantilla de ejemplo: Chorro Arena + Sandaconda (Expulsarena).",
-    "recruitHint": "",
-    "bringHint": "Bring habitual: 1 · 2 · 3 · 4"
+    "bringHint": "Por defecto: Whimsicott · Raichu · Kingambit · Arcanine",
+    "notes": "PREVIEW — quién dejar fuera:\n· Pelipper / Archaludon / Swampert / Torkoal / Charizard-Y visible → TRAE Drampa (Aclimatación), quita Sylveon.\n· Mucho Dark / Fighting / Dragon sin clima → TRAE Sylveon, quita Drampa.\n· Farigiraf / TR claro → Whimsicott con Taunt turno 1; bring Kingambit + Arcanine + Raichu.\n· Hyper offense sin clima ni TR → los 4 por defecto.\n· SP: 66 máx. por Pokémon (32 en dos stats). Solo 1 mega/combate: Mega Raichu X."
   }
 }

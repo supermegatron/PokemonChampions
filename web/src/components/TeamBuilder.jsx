@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
-import { PokemonEditor } from './PokemonEditor'
-import { PokemonPicker } from './PokemonPicker'
+import { PokemonPickerModal } from './PokemonPickerModal'
+import { PokemonSlotModal } from './PokemonSlotModal'
 import { PokemonSprite } from './PokemonSprite'
 import { TypeBadge } from './TypeBadge'
 import { TeamMetaEditor } from './TeamMetaEditor'
@@ -42,6 +42,7 @@ export function TeamBuilder({
 }) {
   const [editingMeta, setEditingMeta] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
+  const [slotModalOpen, setSlotModalOpen] = useState(false)
   const menuRef = useRef(null)
 
   const activeSlot = selectedSlotIndex != null ? team.slots[selectedSlotIndex] : null
@@ -54,6 +55,7 @@ export function TeamBuilder({
   useEffect(() => {
     setEditingMeta(false)
     setMenuOpen(false)
+    setSlotModalOpen(false)
   }, [activeTeamId])
 
   useEffect(() => {
@@ -64,6 +66,22 @@ export function TeamBuilder({
     document.addEventListener('click', close)
     return () => document.removeEventListener('click', close)
   }, [menuOpen])
+
+  const handleSlotClick = (index) => {
+    onSelectSlot(index)
+    setSlotModalOpen(true)
+  }
+
+  const closeSlotModal = () => setSlotModalOpen(false)
+
+  const handlePickPokemon = (pokemon) => {
+    onAddPokemon(selectedSlotIndex, pokemon)
+  }
+
+  const handleClearSlot = () => {
+    onClearSlot(selectedSlotIndex)
+    closeSlotModal()
+  }
 
   const hasMeta =
     team.description || team.recruitHint || team.bringHint || team.notes
@@ -216,7 +234,7 @@ export function TeamBuilder({
         <div className="team-slots">
           {team.slots.map((slot, index) => {
             const mon = slot?.pokemonId ? pokemonById[slot.pokemonId] : null
-            const isActive = selectedSlotIndex === index
+            const isActive = selectedSlotIndex === index && slotModalOpen
             const roleClass = slot?.role ? ROLE_CLASS[slot.role] : ''
 
             return (
@@ -224,7 +242,7 @@ export function TeamBuilder({
                 key={index}
                 type="button"
                 className={`team-slot ${isActive ? 'is-active' : ''} ${!mon ? 'is-empty' : ''} ${roleClass}`}
-                onClick={() => onSelectSlot(index)}
+                onClick={() => handleSlotClick(index)}
               >
                 <span className="team-slot__num">{index + 1}</span>
                 {slot?.role && (
@@ -252,27 +270,27 @@ export function TeamBuilder({
             )
           })}
         </div>
-
-        {activePokemon && activeSlot ? (
-          <PokemonEditor
-            pokemon={activePokemon}
-            slot={activeSlot}
-            items={items}
-            natures={natures}
-            onChange={(next) => onUpdateSlot(selectedSlotIndex, next)}
-            onClear={() => onClearSlot(selectedSlotIndex)}
-          />
-        ) : selectedSlotIndex != null && !team.slots[selectedSlotIndex]?.pokemonId ? (
-          <PokemonPicker
-            pokemonList={pokemonList}
-            onPick={(p) => onAddPokemon(selectedSlotIndex, p)}
-          />
-        ) : (
-          <aside className="editor editor--empty">
-            <p>Selecciona un slot del equipo para editar o añadir un Pokémon.</p>
-          </aside>
-        )}
       </div>
+
+      {slotModalOpen && selectedSlotIndex != null && !activeSlot?.pokemonId && (
+        <PokemonPickerModal
+          pokemonList={pokemonList}
+          onPick={handlePickPokemon}
+          onClose={closeSlotModal}
+        />
+      )}
+
+      {slotModalOpen && selectedSlotIndex != null && activePokemon && activeSlot && (
+        <PokemonSlotModal
+          pokemon={activePokemon}
+          slot={activeSlot}
+          items={items}
+          natures={natures}
+          onChange={(next) => onUpdateSlot(selectedSlotIndex, next)}
+          onClear={handleClearSlot}
+          onClose={closeSlotModal}
+        />
+      )}
     </div>
   )
 }

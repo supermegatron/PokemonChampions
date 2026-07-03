@@ -1,4 +1,11 @@
-import seedData from '@data/wishlist.json'
+import publicWishlist from '@data/wishlist.json'
+
+const localWishlistMods = import.meta.glob('@data/wishlist.local.json', { eager: true })
+
+const seedData =
+  import.meta.env.DEV && Object.keys(localWishlistMods).length
+    ? Object.values(localWishlistMods)[0].default
+    : publicWishlist
 
 const STORAGE_KEY = 'pokemon-champions-wishlist-v4'
 

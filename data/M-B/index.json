@@ -795,7 +795,10 @@
   {
     "id": "gardevoir",
     "name": "Gardevoir",
-    "types": [],
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "bst": 693,
     "mega": false
   },

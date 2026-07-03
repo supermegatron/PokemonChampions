@@ -74,7 +74,7 @@ export function PokemonDetailModal({ pokemon, isOwned, onToggleOwned, onClose })
         </header>
 
         <section className="pokemon-modal__section">
-          <h3>Estadísticas base</h3>
+          <h3>Estadísticas Lv50</h3>
           <div className="stat-bars">
             {STAT_META.map(({ key, label, color }) => {
               const raw = pokemon.stats?.[key]

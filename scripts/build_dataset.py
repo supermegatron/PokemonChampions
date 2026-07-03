@@ -31,8 +31,63 @@ STAT_KEYS = {
     "SpD": "spd",
     "SpDef": "spd",
     "Spe": "spe",
+    "Speed": "spe",
     "Total": "bst",
 }
+
+
+def _parse_stat_value_table(table) -> dict[str, int]:
+    stats: dict[str, int] = {}
+    rows = [
+        [c.get_text(" ", strip=True) for c in tr.select("th, td")]
+        for tr in table.select("tr")
+    ]
+    if not rows or rows[0][:2] != ["Stat", "Value"]:
+        return stats
+    for row in rows[1:]:
+        if len(row) == 2 and row[0] in STAT_KEYS and row[1].isdigit():
+            stats[STAT_KEYS[row[0]]] = int(row[1])
+    return stats
+
+
+def _collect_stat_value_tables(soup: BeautifulSoup) -> list[dict[str, int]]:
+    tables: list[dict[str, int]] = []
+    for table in soup.select("table"):
+        stats = _parse_stat_value_table(table)
+        if stats.get("bst"):
+            tables.append(stats)
+    return tables
+
+
+def _pick_in_game_stats_tables(tables: list[dict[str, int]]) -> dict:
+    """Lv50 in-game values are always the higher-BST Stat|Value table."""
+    if not tables:
+        return {}
+    if len(tables) == 1:
+        return tables[0]
+    return max(tables, key=lambda s: s.get("bst", 0))
+
+
+def parse_stats_from_detail(soup: BeautifulSoup, pokemon_name: str | None = None) -> dict:
+    """In-game Lv50 stats from Game8 detail page (higher-BST Stat|Value table)."""
+    if pokemon_name:
+        for heading in soup.select("h2, h3, h4"):
+            if heading.get_text(" ", strip=True) == f"{pokemon_name} Stats":
+                section: list[dict[str, int]] = []
+                for el in heading.find_all_next():
+                    if el.name in ("h2", "h3") and el is not heading:
+                        break
+                    if el.name == "table":
+                        stats = _parse_stat_value_table(el)
+                        if stats.get("bst"):
+                            section.append(stats)
+                picked = _pick_in_game_stats_tables(section)
+                if picked:
+                    return picked
+                break
+
+    tables = _collect_stat_value_tables(soup)
+    return _pick_in_game_stats_tables(tables)
 
 
 def slugify(name: str) -> str:
@@ -114,21 +169,6 @@ def parse_abilities(soup: BeautifulSoup) -> list[dict]:
                 abilities.append({"name": parts[0].strip(), "description": "", "hidden": "(Hidden)" in chunk or "(HA)" in chunk})
 
     return abilities
-
-
-def parse_stats_from_detail(soup: BeautifulSoup) -> dict:
-    stats: dict[str, int] = {}
-    for table in soup.select("table"):
-        rows = [[c.get_text(" ", strip=True) for c in tr.select("th, td")] for tr in table.select("tr")]
-        for row in rows:
-            if len(row) == 2 and row[0] in STAT_KEYS and row[1].isdigit():
-                stats[STAT_KEYS[row[0]]] = int(row[1])
-        # Champions level-50 max IV table: Stat | Nat- | Max
-        if rows and rows[0][:1] == ["Stat"]:
-            for row in rows[1:]:
-                if len(row) >= 2 and row[0] in STAT_KEYS and row[1].isdigit():
-                    stats[STAT_KEYS[row[0]]] = int(row[1])
-    return stats
 
 
 def parse_moves(soup: BeautifulSoup) -> list[dict]:
@@ -218,7 +258,7 @@ def scrape_stats_index() -> tuple[list[dict], dict[str, dict]]:
 
 def scrape_pokemon_detail(name: str, url: str, fallback_stats: dict) -> dict:
     soup = fetch(url)
-    stats = parse_stats_from_detail(soup) or fallback_stats
+    stats = parse_stats_from_detail(soup, name) or fallback_stats
     return {
         "name": name,
         "slug": slugify(name),

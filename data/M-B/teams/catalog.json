@@ -1,193 +1,107 @@
 {
-  "seedVersion": 9,
-  "ownedPokemonIds": [],
+  "seedVersion": 23,
+  "ownedPokemonIds": [
+    "aggron",
+    "arcanine",
+    "beartic",
+    "charizard",
+    "clefable",
+    "conkeldurr",
+    "dragonite",
+    "drampa",
+    "dusk-form-lycanroc",
+    "grimmsnarl",
+    "gyarados",
+    "kingambit",
+    "medicham",
+    "meowstic-male",
+    "metagross",
+    "oranguru",
+    "overqwil",
+    "primarina",
+    "raichu",
+    "sableye",
+    "sceptile",
+    "scizor",
+    "skarmory",
+    "starmie",
+    "swampert",
+    "sylveon",
+    "tyranitar",
+    "vanilluxe",
+    "whimsicott"
+  ],
   "teams": [
     {
-      "id": "team-starter",
-      "name": "Mi equipo",
-      "tags": [],
-      "slots": [null, null, null, null, null, null]
-    },
-    {
-      "id": "team-snow",
-      "name": "Ejemplo · Nieve · Velo Aurora",
-      "tags": ["estrategia", "ejemplo"],
+      "id": "team-flex-main",
+      "name": "Mi equipo · Flex (elige 4)",
+      "tags": ["cover", "main"],
       "slots": [
         {
-          "pokemonId": "alolan-ninetales",
-          "ability": "Snow Warning",
-          "item": "Light Clay",
-          "moves": ["Aurora Veil", "Blizzard", "Freeze-Dry", "Moonblast"],
-          "role": "nucleo",
-          "roleLabel": "Lead · setter + Velo Aurora",
-          "nature": "Timid"
-        },
-        {
-          "pokemonId": "beartic",
-          "ability": "Slush Rush",
-          "item": "Life Orb",
-          "moves": ["Icicle Crash", "Close Combat", "Protect", "Ice Punch"],
-          "role": "nucleo",
-          "roleLabel": "Carry · Quitanieves",
-          "nature": "Adamant"
-        },
-        {
-          "pokemonId": "incineroar",
-          "ability": "Intimidate",
-          "item": "Sitrus Berry",
-          "moves": ["Fake Out", "Parting Shot", "Flare Blitz", "Snarl"],
-          "role": "nucleo",
-          "roleLabel": "Support · Intimidación",
-          "nature": "Careful"
-        },
-        {
-          "pokemonId": "abomasnow",
-          "ability": "Snow Warning",
-          "item": "Leftovers",
-          "moves": ["Blizzard", "Giga Drain", "Ice Punch", "Protect"],
-          "role": "flex",
-          "roleLabel": "Flex · segundo hielo",
-          "nature": "Modest"
-        },
-        {
-          "pokemonId": "vanilluxe",
-          "ability": "Snow Warning",
+          "pokemonId": "whimsicott",
+          "ability": "Prankster",
           "item": "Focus Sash",
-          "moves": ["Blizzard", "Freeze-Dry", "Protect", "Taunt"],
-          "role": "senal",
-          "roleLabel": "Señuelo · parece nieve doble",
-          "nature": "Timid"
-        },
-        {
-          "pokemonId": "pelipper",
-          "ability": "Drizzle",
-          "item": "Damp Rock",
-          "moves": ["Hurricane", "Tailwind", "Protect", "Weather Ball"],
-          "role": "senal",
-          "roleLabel": "Señuelo · bait lluvia",
-          "nature": "Bold"
-        }
-      ]
-    },
-    {
-      "id": "team-rain",
-      "name": "Ejemplo · Lluvia off-meta",
-      "tags": ["estrategia", "ejemplo"],
-      "slots": [
-        {
-          "pokemonId": "pelipper",
-          "ability": "Drizzle",
-          "item": "Damp Rock",
-          "moves": ["Hurricane", "Tailwind", "Protect", "Muddy Water"],
+          "nature": "Timid",
+          "moves": ["Tailwind", "Encore", "Taunt", "Protect"],
           "role": "nucleo",
-          "roleLabel": "Lead · Llovizna + Viento Afín",
-          "nature": "Bold"
+          "roleLabel": "Control · Viento Afín + anti-TR",
+          "owned": true,
+          "evs": { "hp": 32, "atk": 0, "def": 2, "spa": 0, "spd": 0, "spe": 32 }
         },
         {
-          "pokemonId": "beartic",
-          "ability": "Swift Swim",
-          "item": "Life Orb",
-          "moves": ["Icicle Crash", "Close Combat", "Protect", "Superpower"],
+          "pokemonId": "raichu",
+          "ability": "Lightning Rod",
+          "item": "Raichunite X",
+          "nature": "Jolly",
+          "moves": ["Volt Tackle", "Play Rough", "Drain Punch", "Trailblaze"],
           "role": "nucleo",
-          "roleLabel": "Carry sorpresa · Nado Rápido",
-          "nature": "Adamant"
+          "roleLabel": "Carry · Mega Raichu X",
+          "owned": true,
+          "evs": { "hp": 2, "atk": 32, "def": 0, "spa": 0, "spd": 0, "spe": 32 }
         },
         {
-          "pokemonId": "overqwil",
-          "ability": "Swift Swim",
-          "item": "Sitrus Berry",
-          "moves": ["Gunk Shot", "Crunch", "Aqua Jet", "Protect"],
+          "pokemonId": "kingambit",
+          "ability": "Defiant",
+          "item": "Black Glasses",
+          "nature": "Adamant",
+          "moves": ["Kowtow Cleave", "Iron Head", "Sucker Punch", "Protect"],
           "role": "nucleo",
-          "roleLabel": "Molestador · veneno rápido",
-          "nature": "Adamant"
+          "roleLabel": "Carry · cleaner Dark/Steel",
+          "owned": true,
+          "evs": { "hp": 32, "atk": 32, "def": 0, "spa": 0, "spd": 2, "spe": 0 }
         },
         {
-          "pokemonId": "politoed",
-          "ability": "Drizzle",
-          "item": "Sitrus Berry",
-          "moves": ["Encore", "Hypnosis", "Muddy Water", "Icy Wind"],
-          "role": "flex",
-          "roleLabel": "Flex · control (Encore)",
-          "nature": "Calm"
-        },
-        {
-          "pokemonId": "swampert",
-          "ability": "Torrent",
-          "item": "Swampertite",
-          "moves": ["Wave Crash", "Earthquake", "Ice Punch", "Protect"],
-          "role": "senal",
-          "roleLabel": "Señuelo · bait Mega Swampert",
-          "nature": "Adamant"
-        },
-        {
-          "pokemonId": "primarina",
-          "ability": "Liquid Voice",
-          "item": "Wise Glasses",
-          "moves": ["Hyper Voice", "Moonblast", "Aqua Jet", "Psychic"],
-          "role": "senal",
-          "roleLabel": "Señuelo · lluvia especial",
-          "nature": "Modest"
-        }
-      ]
-    },
-    {
-      "id": "team-sand",
-      "name": "Ejemplo · Arena · Expulsarena",
-      "tags": ["estrategia", "ejemplo"],
-      "slots": [
-        {
-          "pokemonId": "tyranitar",
-          "ability": "Sand Stream",
-          "item": "Tyranitarite",
-          "moves": ["Rock Slide", "Knock Off", "Protect", "Low Kick"],
-          "role": "nucleo",
-          "roleLabel": "Lead · Mega + arena",
-          "nature": "Adamant"
-        },
-        {
-          "pokemonId": "sandaconda",
-          "ability": "Sand Spit",
-          "item": "Leftovers",
-          "moves": ["Glare", "Coil", "Earthquake", "Protect"],
-          "role": "nucleo",
-          "roleLabel": "Truco · Expulsarena",
-          "nature": "Impish"
-        },
-        {
-          "pokemonId": "excadrill",
-          "ability": "Sand Rush",
-          "item": "Life Orb",
-          "moves": ["Iron Head", "Earthquake", "Rock Slide", "Protect"],
-          "role": "nucleo",
-          "roleLabel": "Carry · Velo Arena",
-          "nature": "Jolly"
-        },
-        {
-          "pokemonId": "incineroar",
+          "pokemonId": "arcanine",
           "ability": "Intimidate",
           "item": "Sitrus Berry",
-          "moves": ["Fake Out", "Parting Shot", "Flare Blitz", "Snarl"],
-          "role": "flex",
-          "roleLabel": "Flex · Intimidación",
-          "nature": "Careful"
+          "nature": "Bold",
+          "moves": ["Will-O-Wisp", "Snarl", "Extreme Speed", "Protect"],
+          "role": "nucleo",
+          "roleLabel": "Support · Intimidate + quemar",
+          "owned": true,
+          "evs": { "hp": 32, "atk": 0, "def": 32, "spa": 0, "spd": 2, "spe": 0 }
         },
         {
-          "pokemonId": "hippowdon",
-          "ability": "Sand Stream",
+          "pokemonId": "drampa",
+          "ability": "Cloud Nine",
           "item": "Leftovers",
-          "moves": ["Stealth Rock", "Earthquake", "Slack Off", "Rock Slide"],
-          "role": "senal",
-          "roleLabel": "Señuelo · segundo setter",
-          "nature": "Relaxed"
+          "nature": "Modest",
+          "moves": ["Glare", "Snarl", "Hyper Voice", "Protect"],
+          "role": "flex",
+          "roleLabel": "Anti-clima · Aclimatación",
+          "owned": true,
+          "evs": { "hp": 32, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 0 }
         },
         {
-          "pokemonId": "pelipper",
-          "ability": "Drizzle",
-          "item": "Damp Rock",
-          "moves": ["Hurricane", "Muddy Water", "Tailwind", "Protect"],
-          "role": "senal",
-          "roleLabel": "Señuelo · bait lluvia",
-          "nature": "Bold"
+          "pokemonId": "sylveon",
+          "ability": "Pixilate",
+          "item": "Fairy Feather",
+          "nature": "Modest",
+          "moves": ["Hyper Voice", "Moonblast", "Yawn", "Protect"],
+          "role": "flex",
+          "roleLabel": "Spread hada · control Bostezo",
+          "owned": true,
+          "evs": { "hp": 32, "atk": 0, "def": 0, "spa": 32, "spd": 2, "spe": 0 }
         }
       ]
     }

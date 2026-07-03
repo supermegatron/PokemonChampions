@@ -137,9 +137,7 @@ def main() -> None:
         time.sleep(0.15)
     print(f"  fixed {fixed} types")
 
-    print("Filling missing Speed from BST...")
-    spe_fixed = sum(1 for mon in dataset.values() if fill_missing_speed(mon.get("stats", {})))
-    print(f"  fixed {spe_fixed} speed stats")
+    print("Skipping derived Speed fill (parser now reads Speed from base table).")
 
     print("Adding M-B new pokemon...")
     cache: dict[str, dict] = {}
@@ -153,7 +151,7 @@ def main() -> None:
         if slug in dataset:
             continue
         print(f"  + {name}")
-        detail = scrape_pokemon_detail(name, entry["url"], parse_stats_from_detail(fetch(entry["url"])) or {})
+        detail = scrape_pokemon_detail(name, entry["url"], parse_stats_from_detail(fetch(entry["url"]), name) or {})
         types = parse_types_from_meta(fetch(entry["url"]))
         record = {
             "id": slug,

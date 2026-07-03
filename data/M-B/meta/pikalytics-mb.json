@@ -1,0 +1,2341 @@
+{
+  "regulation": "M-B",
+  "source": "https://www.pikalytics.com/pokedex/battledataregmbs3",
+  "sourceName": "Pikalytics",
+  "scrapedAt": "2026-07-02T14:28:58Z",
+  "top20": [
+    {
+      "rank": 1,
+      "name": "Garchomp",
+      "pokemonId": "garchomp",
+      "slug": "Garchomp"
+    },
+    {
+      "rank": 2,
+      "name": "Sinistcha",
+      "pokemonId": "sinistcha",
+      "slug": "Sinistcha"
+    },
+    {
+      "rank": 3,
+      "name": "Basculegion",
+      "pokemonId": "basculegion-male",
+      "slug": "Basculegion"
+    },
+    {
+      "rank": 4,
+      "name": "Whimsicott",
+      "pokemonId": "whimsicott",
+      "slug": "Whimsicott"
+    },
+    {
+      "rank": 5,
+      "name": "Kingambit",
+      "pokemonId": "kingambit",
+      "slug": "Kingambit"
+    },
+    {
+      "rank": 6,
+      "name": "Staraptor",
+      "pokemonId": "staraptor",
+      "slug": "Staraptor"
+    },
+    {
+      "rank": 7,
+      "name": "Incineroar",
+      "pokemonId": "incineroar",
+      "slug": "Incineroar"
+    },
+    {
+      "rank": 8,
+      "name": "Charizard",
+      "pokemonId": "charizard",
+      "slug": "Charizard"
+    },
+    {
+      "rank": 9,
+      "name": "Raichu",
+      "pokemonId": "raichu",
+      "slug": "Raichu"
+    },
+    {
+      "rank": 10,
+      "name": "Pelipper",
+      "pokemonId": "pelipper",
+      "slug": "Pelipper"
+    },
+    {
+      "rank": 11,
+      "name": "Sneasler",
+      "pokemonId": "sneasler",
+      "slug": "Sneasler"
+    },
+    {
+      "rank": 12,
+      "name": "Archaludon",
+      "pokemonId": "archaludon",
+      "slug": "Archaludon"
+    },
+    {
+      "rank": 13,
+      "name": "Grimmsnarl",
+      "pokemonId": "grimmsnarl",
+      "slug": "Grimmsnarl"
+    },
+    {
+      "rank": 14,
+      "name": "Sylveon",
+      "pokemonId": "sylveon",
+      "slug": "Sylveon"
+    },
+    {
+      "rank": 15,
+      "name": "Swampert",
+      "pokemonId": "swampert",
+      "slug": "Swampert"
+    },
+    {
+      "rank": 16,
+      "name": "Metagross",
+      "pokemonId": "metagross",
+      "slug": "Metagross"
+    },
+    {
+      "rank": 17,
+      "name": "Farigiraf",
+      "pokemonId": "farigiraf",
+      "slug": "Farigiraf"
+    },
+    {
+      "rank": 18,
+      "name": "Floette-Eternal",
+      "pokemonId": "eternal-flower-floette",
+      "slug": "Floette-Eternal"
+    },
+    {
+      "rank": 19,
+      "name": "Gholdengo",
+      "pokemonId": "gholdengo",
+      "slug": "Gholdengo"
+    },
+    {
+      "rank": 20,
+      "name": "Aerodactyl",
+      "pokemonId": "aerodactyl",
+      "slug": "Aerodactyl"
+    }
+  ],
+  "cores": [
+    {
+      "tier": "2-Pokemon Cores",
+      "rank": "#1",
+      "pokemon": [
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott"
+        }
+      ],
+      "teamsLabel": "1367 teams",
+      "usageLabel": "18.7%"
+    },
+    {
+      "tier": "2-Pokemon Cores",
+      "rank": "#2",
+      "pokemon": [
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y"
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        }
+      ],
+      "teamsLabel": "1313 teams",
+      "usageLabel": "17.9%"
+    },
+    {
+      "tier": "2-Pokemon Cores",
+      "rank": "#3",
+      "pokemon": [
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion"
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        }
+      ],
+      "teamsLabel": "1199 teams",
+      "usageLabel": "16.4%"
+    },
+    {
+      "tier": "2-Pokemon Cores",
+      "rank": "#4",
+      "pokemon": [
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon"
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper"
+        }
+      ],
+      "teamsLabel": "1181 teams",
+      "usageLabel": "16.1%"
+    },
+    {
+      "tier": "2-Pokemon Cores",
+      "rank": "#5",
+      "pokemon": [
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion"
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott"
+        }
+      ],
+      "teamsLabel": "1139 teams",
+      "usageLabel": "15.5%"
+    },
+    {
+      "tier": "3-Pokemon Cores",
+      "rank": "#1",
+      "pokemon": [
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon"
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper"
+        },
+        {
+          "name": "Swampert-Mega",
+          "pokemonId": "mega-swampert",
+          "slug": "Swampert-Mega"
+        }
+      ],
+      "teamsLabel": "953 teams",
+      "usageLabel": "13.0%"
+    },
+    {
+      "tier": "3-Pokemon Cores",
+      "rank": "#2",
+      "pokemon": [
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion"
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott"
+        }
+      ],
+      "teamsLabel": "826 teams",
+      "usageLabel": "11.3%"
+    },
+    {
+      "tier": "3-Pokemon Cores",
+      "rank": "#3",
+      "pokemon": [
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y"
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott"
+        }
+      ],
+      "teamsLabel": "755 teams",
+      "usageLabel": "10.3%"
+    },
+    {
+      "tier": "3-Pokemon Cores",
+      "rank": "#4",
+      "pokemon": [
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper"
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha"
+        },
+        {
+          "name": "Swampert-Mega",
+          "pokemonId": "mega-swampert",
+          "slug": "Swampert-Mega"
+        }
+      ],
+      "teamsLabel": "712 teams",
+      "usageLabel": "9.7%"
+    },
+    {
+      "tier": "3-Pokemon Cores",
+      "rank": "#5",
+      "pokemon": [
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon"
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper"
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha"
+        }
+      ],
+      "teamsLabel": "707 teams",
+      "usageLabel": "9.7%"
+    },
+    {
+      "tier": "4-Pokemon Cores",
+      "rank": "#1",
+      "pokemon": [
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon"
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper"
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha"
+        },
+        {
+          "name": "Swampert-Mega",
+          "pokemonId": "mega-swampert",
+          "slug": "Swampert-Mega"
+        }
+      ],
+      "teamsLabel": "634 teams",
+      "usageLabel": "8.7%"
+    },
+    {
+      "tier": "4-Pokemon Cores",
+      "rank": "#2",
+      "pokemon": [
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion"
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y"
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott"
+        }
+      ],
+      "teamsLabel": "571 teams",
+      "usageLabel": "7.8%"
+    },
+    {
+      "tier": "4-Pokemon Cores",
+      "rank": "#3",
+      "pokemon": [
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion"
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y"
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit"
+        }
+      ],
+      "teamsLabel": "449 teams",
+      "usageLabel": "6.1%"
+    },
+    {
+      "tier": "4-Pokemon Cores",
+      "rank": "#4",
+      "pokemon": [
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion"
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp"
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit"
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott"
+        }
+      ],
+      "teamsLabel": "417 teams",
+      "usageLabel": "5.7%"
+    },
+    {
+      "tier": "4-Pokemon Cores",
+      "rank": "#5",
+      "pokemon": [
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon"
+        },
+        {
+          "name": "Grimmsnarl",
+          "pokemonId": "grimmsnarl",
+          "slug": "Grimmsnarl"
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper"
+        },
+        {
+          "name": "Swampert-Mega",
+          "pokemonId": "mega-swampert",
+          "slug": "Swampert-Mega"
+        }
+      ],
+      "teamsLabel": "410 teams",
+      "usageLabel": "5.6%"
+    }
+  ],
+  "teams": [
+    {
+      "rank": "#1",
+      "author": "JoeUX9",
+      "record": "14-2",
+      "tournament": "4th Annual St. Jude VGC Charity Tournament Rank #1",
+      "roster": [
+        "Charizard-Mega-Y",
+        "Farigiraf",
+        "Venusaur",
+        "Garchomp",
+        "Incineroar",
+        "Sylveon"
+      ],
+      "slots": [
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y",
+          "ability": "Blaze",
+          "item": "Charizardite Y",
+          "moves": [
+            "Heat Wave",
+            "Weather Ball",
+            "Solar Beam",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "pokemonId": "farigiraf",
+          "slug": "Farigiraf",
+          "ability": "Armor Tail",
+          "item": "Colbur Berry",
+          "moves": [
+            "Psychic",
+            "Thunderbolt",
+            "Helping Hand",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Venusaur",
+          "pokemonId": "venusaur",
+          "slug": "Venusaur",
+          "ability": "Chlorophyll",
+          "item": "Focus Sash",
+          "moves": [
+            "Leaf Storm",
+            "Sludge Bomb",
+            "Sleep Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp",
+          "ability": "Rough Skin",
+          "item": "Life Orb",
+          "moves": [
+            "Rock Slide",
+            "Dragon Claw",
+            "Earthquake",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "pokemonId": "incineroar",
+          "slug": "Incineroar",
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Parting Shot",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Sylveon",
+          "pokemonId": "sylveon",
+          "slug": "Sylveon",
+          "ability": "Pixilate",
+          "item": "Fairy Feather",
+          "moves": [
+            "Hyper Voice",
+            "Hyper Beam",
+            "Quick Attack",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#2",
+      "author": "Force_India",
+      "record": "12-0",
+      "tournament": "Pep_uni Pokémon Champions #1 Rank #1",
+      "roster": [
+        "Venusaur-Mega",
+        "Grimmsnarl",
+        "Pelipper",
+        "Archaludon",
+        "Swampert-Mega",
+        "Hydreigon"
+      ],
+      "slots": [
+        {
+          "name": "Venusaur-Mega",
+          "pokemonId": "mega-venusaur",
+          "slug": "Venusaur-Mega",
+          "ability": "Chlorophyll",
+          "item": "Venusaurite",
+          "moves": [
+            "Protect",
+            "Sludge Bomb",
+            "Giga Drain",
+            "Earth Power"
+          ]
+        },
+        {
+          "name": "Grimmsnarl",
+          "pokemonId": "grimmsnarl",
+          "slug": "Grimmsnarl",
+          "ability": "Prankster",
+          "item": "Light Clay",
+          "moves": [
+            "Spirit Break",
+            "Reflect",
+            "Light Screen",
+            "Parting Shot"
+          ]
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper",
+          "ability": "Drizzle",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Hurricane",
+            "Weather Ball",
+            "Tailwind",
+            "Wide Guard"
+          ]
+        },
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon",
+          "ability": "Stamina",
+          "item": "Leftovers",
+          "moves": [
+            "Protect",
+            "Electro Shot",
+            "Dragon Pulse",
+            "Flash Cannon"
+          ]
+        },
+        {
+          "name": "Swampert-Mega",
+          "pokemonId": "mega-swampert",
+          "slug": "Swampert-Mega",
+          "ability": "Torrent",
+          "item": "Swampertite",
+          "moves": [
+            "Protect",
+            "Wave Crash",
+            "Earthquake",
+            "Ice Punch"
+          ]
+        },
+        {
+          "name": "Hydreigon",
+          "pokemonId": "hydreigon",
+          "slug": "Hydreigon",
+          "ability": "Levitate",
+          "item": "Choice Scarf",
+          "moves": [
+            "Dark Pulse",
+            "Snarl",
+            "Draco Meteor",
+            "U-turn"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#3",
+      "author": "burningblazer",
+      "record": "14-2",
+      "tournament": "Smogon VGC Major Live 2026 - 1500$ Prize - Reg M-B Rank #1",
+      "roster": [
+        "Floette-Eternal",
+        "Charizard-Mega-Y",
+        "Kingambit",
+        "Whimsicott",
+        "Basculegion",
+        "Garchomp"
+      ],
+      "slots": [
+        {
+          "name": "Floette-Eternal-Mega",
+          "pokemonId": "mega-floette",
+          "slug": "Floette-Eternal-Mega",
+          "ability": "Flower Veil",
+          "item": "Floettite",
+          "moves": [
+            "Light of Ruin",
+            "Moonblast",
+            "Dazzling Gleam",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y",
+          "ability": "Blaze",
+          "item": "Charizardite Y",
+          "moves": [
+            "Solar Beam",
+            "Heat Wave",
+            "Weather Ball",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Black Glasses",
+          "moves": [
+            "Iron Head",
+            "Protect",
+            "Kowtow Cleave",
+            "Sucker Punch"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott",
+          "ability": "Prankster",
+          "item": "Focus Sash",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Encore",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "Adaptability",
+          "item": "Mystic Water",
+          "moves": [
+            "Wave Crash",
+            "Protect",
+            "Last Respects",
+            "Aqua Jet"
+          ]
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp",
+          "ability": "Rough Skin",
+          "item": "Life Orb",
+          "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Protect",
+            "Dragon Claw"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#4",
+      "author": "DaniVGC03",
+      "record": "13-1",
+      "tournament": "Maddo's Cup #9 | 100€ for the Winner | Reg M-B Rank #1",
+      "roster": [
+        "Swampert-Mega",
+        "Pelipper",
+        "Archaludon",
+        "Sinistcha",
+        "Maushold",
+        "Gholdengo"
+      ],
+      "slots": [
+        {
+          "name": "Swampert-Mega",
+          "pokemonId": "mega-swampert",
+          "slug": "Swampert-Mega",
+          "ability": "Torrent",
+          "item": "Swampertite",
+          "moves": [
+            "Wave Crash",
+            "High Horsepower",
+            "Ice Punch",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper",
+          "ability": "Drizzle",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Tailwind",
+            "Wide Guard"
+          ]
+        },
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon",
+          "ability": "Stamina",
+          "item": "Leftovers",
+          "moves": [
+            "Electro Shot",
+            "Dragon Pulse",
+            "Flash Cannon",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha",
+          "ability": "Hospitality",
+          "item": "Kasib Berry",
+          "moves": [
+            "Rage Powder",
+            "Matcha Gotcha",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Maushold",
+          "pokemonId": "maushold-family-of-four",
+          "slug": "Maushold",
+          "ability": "Friend Guard",
+          "item": "Focus Sash",
+          "moves": [
+            "Follow Me",
+            "Super Fang",
+            "Rain Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Gholdengo",
+          "pokemonId": "gholdengo",
+          "slug": "Gholdengo",
+          "ability": "Good as Gold",
+          "item": "Life Orb",
+          "moves": [
+            "Make It Rain",
+            "Shadow Ball",
+            "Nasty Plot",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#5",
+      "author": "ege",
+      "record": "9-0",
+      "tournament": "Palafin Pals Jet Punch Series 🌊✊Reg M-B #2 Rank #1",
+      "roster": [
+        "Froslass-Mega",
+        "Scovillain-Mega",
+        "Lycanroc",
+        "Kingambit",
+        "Basculegion",
+        "Sneasler"
+      ],
+      "slots": [
+        {
+          "name": "Froslass-Mega",
+          "pokemonId": "mega-froslass",
+          "slug": "Froslass-Mega",
+          "ability": "Cursed Body",
+          "item": "Froslassite",
+          "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Aurora Veil",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Scovillain-Mega",
+          "pokemonId": "mega-scovillain",
+          "slug": "Scovillain-Mega",
+          "ability": "Moody",
+          "item": "Scovillainite",
+          "moves": [
+            "Overheat",
+            "Giga Drain",
+            "Rage Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Lycanroc",
+          "pokemonId": "midday-form-lycanroc",
+          "slug": "Lycanroc",
+          "ability": "Tough Claws",
+          "item": "Focus Sash",
+          "moves": [
+            "Rock Slide",
+            "Close Combat",
+            "Accelerock",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Black Glasses",
+          "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Swords Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "Adaptability",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sneasler",
+          "pokemonId": "sneasler",
+          "slug": "Sneasler",
+          "ability": "Unburden",
+          "item": "White Herb",
+          "moves": [
+            "Close Combat",
+            "Gunk Shot",
+            "Fake Out",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#6",
+      "author": "Altkyle",
+      "record": "9-0",
+      "tournament": "Intimidators Champions Challenge #21 REG M-B Rank #1",
+      "roster": [
+        "Dragonite-Mega",
+        "Basculegion",
+        "Scizor-Mega",
+        "Archaludon",
+        "Pelipper",
+        "Incineroar"
+      ],
+      "slots": [
+        {
+          "name": "Dragonite-Mega",
+          "pokemonId": "mega-dragonite",
+          "slug": "Dragonite-Mega",
+          "ability": "Inner Focus",
+          "item": "Dragoninite",
+          "moves": [
+            "Dragon Pulse",
+            "Flamethrower",
+            "Tailwind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "Adaptability",
+          "item": "Choice Scarf",
+          "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Flip Turn"
+          ]
+        },
+        {
+          "name": "Scizor-Mega",
+          "pokemonId": "mega-scizor",
+          "slug": "Scizor-Mega",
+          "ability": "Technician",
+          "item": "Scizorite",
+          "moves": [
+            "Bullet Punch",
+            "Close Combat",
+            "Swords Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon",
+          "ability": "Stamina",
+          "item": "Chople Berry",
+          "moves": [
+            "Electro Shot",
+            "Dragon Pulse",
+            "Aura Sphere",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper",
+          "ability": "Drizzle",
+          "item": "Focus Sash",
+          "moves": [
+            "Hurricane",
+            "Weather Ball",
+            "Tailwind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "pokemonId": "incineroar",
+          "slug": "Incineroar",
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Throat Chop",
+            "Parting Shot"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#7",
+      "author": "root2iris",
+      "record": "11-0",
+      "tournament": "Tenki's x MMHM - Champions M-B Rank #1",
+      "roster": [
+        "Scrafty-Mega",
+        "Incineroar",
+        "Snorlax",
+        "Dragonite",
+        "Gengar-Mega",
+        "Ninetales-Alola"
+      ],
+      "slots": [
+        {
+          "name": "Scrafty-Mega",
+          "pokemonId": "mega-scrafty",
+          "slug": "Scrafty-Mega",
+          "ability": "Intimidate",
+          "item": "Scraftinite",
+          "moves": [
+            "Knock Off",
+            "Drain Punch",
+            "Fake Out",
+            "Detect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "pokemonId": "incineroar",
+          "slug": "Incineroar",
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Overheat",
+            "Parting Shot",
+            "Fake Out",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Snorlax",
+          "pokemonId": "snorlax",
+          "slug": "Snorlax",
+          "ability": "Thick Fat",
+          "item": "Leftovers",
+          "moves": [
+            "Yawn",
+            "Encore",
+            "Fissure",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Dragonite",
+          "pokemonId": "dragonite",
+          "slug": "Dragonite",
+          "ability": "Multiscale",
+          "item": "Dragon Fang",
+          "moves": [
+            "Dragon Claw",
+            "Low Kick",
+            "Extreme Speed",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Gengar-Mega",
+          "pokemonId": "mega-gengar",
+          "slug": "Gengar-Mega",
+          "ability": "Cursed Body",
+          "item": "Gengarite",
+          "moves": [
+            "Sludge Bomb",
+            "Shadow Ball",
+            "Perish Song",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ninetales-Alola",
+          "pokemonId": "alolan-ninetales",
+          "slug": "Ninetales-Alola",
+          "ability": "Snow Warning",
+          "item": "Focus Sash",
+          "moves": [
+            "Blizzard",
+            "Disable",
+            "Encore",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#8",
+      "author": "Scarlett01",
+      "record": "10-1",
+      "tournament": "CHAMPIONS REG. M-B |👑CROWN FIGHT Bo3 TOUR #74👑 Rank #1",
+      "roster": [
+        "Archaludon",
+        "Basculegion",
+        "Pelipper",
+        "Maushold",
+        "Gardevoir-Mega",
+        "Swampert-Mega"
+      ],
+      "slots": [
+        {
+          "name": "Archaludon",
+          "pokemonId": "archaludon",
+          "slug": "Archaludon",
+          "ability": "Stamina",
+          "item": "Leftovers",
+          "moves": [
+            "Dragon Pulse",
+            "Flash Cannon",
+            "Electro Shot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "Adaptability",
+          "item": "Choice Scarf",
+          "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Flip Turn"
+          ]
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper",
+          "ability": "Drizzle",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Hurricane",
+            "Weather Ball",
+            "Tailwind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Maushold",
+          "pokemonId": "maushold-family-of-four",
+          "slug": "Maushold",
+          "ability": "Friend Guard",
+          "item": "Focus Sash",
+          "moves": [
+            "Super Fang",
+            "Rain Dance",
+            "Follow Me",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Gardevoir-Mega",
+          "pokemonId": "mega-gardevoir",
+          "slug": "Gardevoir-Mega",
+          "ability": "Trace",
+          "item": "Gardevoirite",
+          "moves": [
+            "Psyshock",
+            "Hyper Voice",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Swampert-Mega",
+          "pokemonId": "mega-swampert",
+          "slug": "Swampert-Mega",
+          "ability": "Torrent",
+          "item": "Swampertite",
+          "moves": [
+            "Wave Crash",
+            "High Horsepower",
+            "Ice Punch",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#9",
+      "author": "DonVGC",
+      "record": "7-0",
+      "tournament": "INGAGE FRONTIER SERIES #2 - $80 PRIZE (Reg M-B) Rank #1",
+      "roster": [
+        "Basculegion",
+        "Aerodactyl",
+        "Sinistcha",
+        "Kangaskhan-Mega",
+        "Floette-Eternal",
+        "Incineroar"
+      ],
+      "slots": [
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "Adaptability",
+          "item": "Choice Scarf",
+          "moves": [
+            "Last Respects",
+            "Flip Turn",
+            "Wave Crash",
+            "Aqua Jet"
+          ]
+        },
+        {
+          "name": "Aerodactyl",
+          "pokemonId": "aerodactyl",
+          "slug": "Aerodactyl",
+          "ability": "Unnerve",
+          "item": "Focus Sash",
+          "moves": [
+            "Protect",
+            "Tailwind",
+            "Rock Slide",
+            "Dual Wingbeat"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha",
+          "ability": "Hospitality",
+          "item": "Kasib Berry",
+          "moves": [
+            "Trick Room",
+            "Rage Powder",
+            "Matcha Gotcha",
+            "Life Dew"
+          ]
+        },
+        {
+          "name": "Kangaskhan-Mega",
+          "pokemonId": "mega-kangaskhan",
+          "slug": "Kangaskhan-Mega",
+          "ability": "Scrappy",
+          "item": "Kangaskhanite",
+          "moves": [
+            "Protect",
+            "Crunch",
+            "Double-Edge",
+            "Drain Punch"
+          ]
+        },
+        {
+          "name": "Floette-Eternal-Mega",
+          "pokemonId": "mega-floette",
+          "slug": "Floette-Eternal-Mega",
+          "ability": "Flower Veil",
+          "item": "Floettite",
+          "moves": [
+            "Draining Kiss",
+            "Dazzling Gleam",
+            "Calm Mind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "pokemonId": "incineroar",
+          "slug": "Incineroar",
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Parting Shot"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#10",
+      "author": "NMR | Gostzin I",
+      "record": "9-1",
+      "tournament": "Intimidators Champions Challenge #22 REG M-B Rank #1",
+      "roster": [
+        "Charizard-Mega-Y",
+        "Mamoswine",
+        "Toxapex",
+        "Incineroar",
+        "Kingambit",
+        "Maushold"
+      ],
+      "slots": [
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y",
+          "ability": "Blaze",
+          "item": "Charizardite Y",
+          "moves": [
+            "Heat Wave",
+            "Protect",
+            "Solar Beam",
+            "Weather Ball"
+          ]
+        },
+        {
+          "name": "Mamoswine",
+          "pokemonId": "mamoswine",
+          "slug": "Mamoswine",
+          "ability": "Oblivious",
+          "item": "Focus Sash",
+          "moves": [
+            "Ice Shard",
+            "Icicle Crash",
+            "Protect",
+            "Earthquake"
+          ]
+        },
+        {
+          "name": "Toxapex",
+          "pokemonId": "toxapex",
+          "slug": "Toxapex",
+          "ability": "Regenerator",
+          "item": "Leftovers",
+          "moves": [
+            "Toxic",
+            "Wide Guard",
+            "Baneful Bunker",
+            "Infestation"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "pokemonId": "incineroar",
+          "slug": "Incineroar",
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Fake Out",
+            "Parting Shot",
+            "Flare Blitz",
+            "Darkest Lariat"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Life Orb",
+          "moves": [
+            "Low Kick",
+            "Protect",
+            "Sucker Punch",
+            "Kowtow Cleave"
+          ]
+        },
+        {
+          "name": "Maushold",
+          "pokemonId": "maushold-family-of-four",
+          "slug": "Maushold",
+          "ability": "Friend Guard",
+          "item": "Chople Berry",
+          "moves": [
+            "Super Fang",
+            "Follow Me",
+            "Protect",
+            "Feint"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#11",
+      "author": "MysticRy",
+      "record": "10-1",
+      "tournament": "Talon's FIGHT CLUB #89 POKEMON CHAMPIONS Rank #1",
+      "roster": [
+        "Froslass-Mega",
+        "Kingambit",
+        "Primarina",
+        "Sneasler",
+        "Arcanine-Hisui",
+        "Pelipper"
+      ],
+      "slots": [
+        {
+          "name": "Froslass-Mega",
+          "pokemonId": "mega-froslass",
+          "slug": "Froslass-Mega",
+          "ability": "Cursed Body",
+          "item": "Froslassite",
+          "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Protect",
+            "Aurora Veil"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Chople Berry",
+          "moves": [
+            "Iron Head",
+            "Sucker Punch",
+            "Protect",
+            "Low Kick"
+          ]
+        },
+        {
+          "name": "Primarina",
+          "pokemonId": "primarina",
+          "slug": "Primarina",
+          "ability": "Liquid Voice",
+          "item": "Life Orb",
+          "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Protect",
+            "Calm Mind"
+          ]
+        },
+        {
+          "name": "Sneasler",
+          "pokemonId": "sneasler",
+          "slug": "Sneasler",
+          "ability": "Unburden",
+          "item": "White Herb",
+          "moves": [
+            "Fake Out",
+            "Close Combat",
+            "Dire Claw",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Arcanine-Hisui",
+          "pokemonId": "hisuian-arcanine",
+          "slug": "Arcanine-Hisui",
+          "ability": "Rock Head",
+          "item": "Focus Sash",
+          "moves": [
+            "Flare Blitz",
+            "Extreme Speed",
+            "Head Smash",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Pelipper",
+          "pokemonId": "pelipper",
+          "slug": "Pelipper",
+          "ability": "Drizzle",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Hydro Pump",
+            "Hurricane",
+            "Tailwind",
+            "Wide Guard"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#12",
+      "author": "Snorlaxpikachu1",
+      "record": "9-1",
+      "tournament": "r/VGC Regulation M-B Kickoff Cup Rank #1",
+      "roster": [
+        "Pyroar-Mega",
+        "Whimsicott",
+        "Ninetales",
+        "Farigiraf",
+        "Basculegion",
+        "Floette-Eternal"
+      ],
+      "slots": [
+        {
+          "name": "Pyroar-Mega",
+          "pokemonId": "mega-pyroar",
+          "slug": "Pyroar-Mega",
+          "ability": "Unnerve",
+          "item": "Pyroarite",
+          "moves": [
+            "Heat Wave",
+            "Overheat",
+            "Solar Beam",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott",
+          "ability": "Prankster",
+          "item": "Focus Sash",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Sunny Day",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ninetales",
+          "pokemonId": "ninetales",
+          "slug": "Ninetales",
+          "ability": "Drought",
+          "item": "Choice Scarf",
+          "moves": [
+            "Overheat",
+            "Heat Wave",
+            "Solar Beam",
+            "Fake Tears"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "pokemonId": "farigiraf",
+          "slug": "Farigiraf",
+          "ability": "Armor Tail",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Thunderbolt",
+            "Twin Beam",
+            "Trick Room",
+            "Helping Hand"
+          ]
+        },
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "Adaptability",
+          "item": "Life Orb",
+          "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Floette-Eternal-Mega",
+          "pokemonId": "mega-floette",
+          "slug": "Floette-Eternal-Mega",
+          "ability": "Flower Veil",
+          "item": "Floettite",
+          "moves": [
+            "Moonblast",
+            "Dazzling Gleam",
+            "Light of Ruin",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#13",
+      "author": "Lorenzaooo",
+      "record": "11-0",
+      "tournament": "GG´s Jade Shell Badge (Champions) Rank #1",
+      "roster": [
+        "Scovillain-Mega",
+        "Sylveon",
+        "Kingambit",
+        "Lycanroc",
+        "Basculegion",
+        "Metagross-Mega"
+      ],
+      "slots": [
+        {
+          "name": "Scovillain-Mega",
+          "pokemonId": "mega-scovillain",
+          "slug": "Scovillain-Mega",
+          "ability": "Moody",
+          "item": "Scovillainite",
+          "moves": [
+            "Giga Drain",
+            "Overheat",
+            "Rage Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sylveon",
+          "pokemonId": "sylveon",
+          "slug": "Sylveon",
+          "ability": "Pixilate",
+          "item": "Fairy Feather",
+          "moves": [
+            "Hyper Voice",
+            "Hyper Beam",
+            "Quick Attack",
+            "Detect"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Black Glasses",
+          "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Swords Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Lycanroc",
+          "pokemonId": "midday-form-lycanroc",
+          "slug": "Lycanroc",
+          "ability": "Tough Claws",
+          "item": "Focus Sash",
+          "moves": [
+            "Close Combat",
+            "Accelerock",
+            "Rock Slide",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "Adaptability",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Metagross-Mega",
+          "pokemonId": "mega-metagross",
+          "slug": "Metagross-Mega",
+          "ability": "Clear Body",
+          "item": "Metagrossite",
+          "moves": [
+            "Iron Head",
+            "Psychic Fangs",
+            "Ice Punch",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#14",
+      "author": "Mollusk",
+      "record": "11-0",
+      "tournament": "The Wide League Saturday Night Rumble #87 REG M-B Rank #1",
+      "roster": [
+        "Delphox-Mega",
+        "Whimsicott",
+        "Garchomp",
+        "Sinistcha",
+        "Staraptor-Mega",
+        "Maushold"
+      ],
+      "slots": [
+        {
+          "name": "Delphox-Mega",
+          "pokemonId": "mega-delphox",
+          "slug": "Delphox-Mega",
+          "ability": "Blaze",
+          "item": "Delphoxite",
+          "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Substitute",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott",
+          "ability": "Prankster",
+          "item": "Focus Sash",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Fake Tears",
+            "Sunny Day"
+          ]
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp",
+          "ability": "Rough Skin",
+          "item": "Life Orb",
+          "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Rock Slide",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha",
+          "ability": "Hospitality",
+          "item": "Kasib Berry",
+          "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Strength Sap",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pokemonId": "mega-staraptor",
+          "slug": "Staraptor-Mega",
+          "ability": "Intimidate",
+          "item": "Staraptite",
+          "moves": [
+            "Close Combat",
+            "Brave Bird",
+            "Roost",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Maushold",
+          "pokemonId": "maushold-family-of-four",
+          "slug": "Maushold",
+          "ability": "Friend Guard",
+          "item": "Chople Berry",
+          "moves": [
+            "Super Fang",
+            "Charm",
+            "Follow Me",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#15",
+      "author": "Swiss",
+      "record": "11-0",
+      "tournament": "SNT Reg M-B Tour #1 Rank #1",
+      "roster": [
+        "Charizard-Mega-Y",
+        "Aerodactyl-Mega",
+        "Kingambit",
+        "Farigiraf",
+        "Sylveon",
+        "Garchomp"
+      ],
+      "slots": [
+        {
+          "name": "Charizard-Mega-Y",
+          "pokemonId": "mega-charizard-y",
+          "slug": "Charizard-Mega-Y",
+          "ability": "Drought",
+          "item": "Charizardite Y",
+          "moves": [
+            "Heat Wave",
+            "Solar Beam",
+            "Weather Ball",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Aerodactyl-Mega",
+          "pokemonId": "mega-aerodactyl",
+          "slug": "Aerodactyl-Mega",
+          "ability": "Tough Claws",
+          "item": "Aerodactylite",
+          "moves": [
+            "Rock Slide",
+            "Ice Fang",
+            "Dual Wingbeat",
+            "Tailwind"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Focus Sash",
+          "moves": [
+            "Kowtow Cleave",
+            "Iron Head",
+            "Sucker Punch",
+            "Low Kick"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "pokemonId": "farigiraf",
+          "slug": "Farigiraf",
+          "ability": "Armor Tail",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Psychic",
+            "Thunderbolt",
+            "Roar",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Sylveon",
+          "pokemonId": "sylveon",
+          "slug": "Sylveon",
+          "ability": "Pixilate",
+          "item": "Fairy Feather",
+          "moves": [
+            "Hyper Voice",
+            "Hyper Beam",
+            "Quick Attack",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp",
+          "ability": "Rough Skin",
+          "item": "Life Orb",
+          "moves": [
+            "Earthquake",
+            "Dragon Claw",
+            "Stomping Tantrum",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#16",
+      "author": "TraceofLife",
+      "record": "13-4",
+      "tournament": "Yosh Tournament #1 ( Rp 1.800.000 ) Rank #1",
+      "roster": [
+        "Charizard",
+        "Whimsicott",
+        "Basculegion",
+        "Floette-Eternal",
+        "Kingambit",
+        "Garchomp"
+      ],
+      "slots": [
+        {
+          "name": "Charizard",
+          "pokemonId": "charizard",
+          "slug": "Charizard",
+          "ability": "",
+          "item": "Nothing",
+          "moves": [
+            "Protect"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "pokemonId": "whimsicott",
+          "slug": "Whimsicott",
+          "ability": "",
+          "item": "Nothing",
+          "moves": [
+            "Protect"
+          ]
+        },
+        {
+          "name": "Basculegion",
+          "pokemonId": "basculegion-male",
+          "slug": "Basculegion",
+          "ability": "",
+          "item": "Nothing",
+          "moves": [
+            "Protect"
+          ]
+        },
+        {
+          "name": "Floette-Eternal",
+          "pokemonId": "eternal-flower-floette",
+          "slug": "Floette-Eternal",
+          "ability": "",
+          "item": "Nothing",
+          "moves": [
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "",
+          "item": "Nothing",
+          "moves": [
+            "Protect"
+          ]
+        },
+        {
+          "name": "Garchomp",
+          "pokemonId": "garchomp",
+          "slug": "Garchomp",
+          "ability": "",
+          "item": "Nothing",
+          "moves": [
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#17",
+      "author": "JurassicJoints",
+      "record": "9-0",
+      "tournament": "Road to Area 229 #4 Rank #1",
+      "roster": [
+        "Hydreigon",
+        "Tyranitar-Mega",
+        "Excadrill",
+        "Rotom-Wash",
+        "Corviknight",
+        "Houndstone"
+      ],
+      "slots": [
+        {
+          "name": "Hydreigon",
+          "pokemonId": "hydreigon",
+          "slug": "Hydreigon",
+          "ability": "Levitate",
+          "item": "Choice Scarf",
+          "moves": [
+            "Heat Wave",
+            "Snarl",
+            "Draco Meteor",
+            "Dark Pulse"
+          ]
+        },
+        {
+          "name": "Tyranitar-Mega",
+          "pokemonId": "mega-tyranitar",
+          "slug": "Tyranitar-Mega",
+          "ability": "Sand Stream",
+          "item": "Tyranitarite",
+          "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Low Kick",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Excadrill",
+          "pokemonId": "excadrill",
+          "slug": "Excadrill",
+          "ability": "Sand Rush",
+          "item": "Focus Sash",
+          "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Protect",
+            "Iron Head"
+          ]
+        },
+        {
+          "name": "Rotom-Wash",
+          "pokemonId": "wash-rotom",
+          "slug": "Rotom-Wash",
+          "ability": "Levitate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Thunderbolt",
+            "Will-O-Wisp",
+            "Protect",
+            "Hydro Pump"
+          ]
+        },
+        {
+          "name": "Corviknight",
+          "pokemonId": "corviknight",
+          "slug": "Corviknight",
+          "ability": "Mirror Armor",
+          "item": "Leftovers",
+          "moves": [
+            "Brave Bird",
+            "Tailwind",
+            "Bulk Up",
+            "Roost"
+          ]
+        },
+        {
+          "name": "Houndstone",
+          "pokemonId": "houndstone",
+          "slug": "Houndstone",
+          "ability": "Sand Rush",
+          "item": "Spell Tag",
+          "moves": [
+            "Phantom Force",
+            "Will-O-Wisp",
+            "Last Respects",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#18",
+      "author": "Joshua De Jose",
+      "record": "8-1",
+      "tournament": "Mid-Week Smoke #5 Rank #1",
+      "roster": [
+        "Raichu-Mega-Y",
+        "Mawile-Mega",
+        "Sinistcha",
+        "Ceruledge",
+        "Milotic",
+        "Incineroar"
+      ],
+      "slots": [
+        {
+          "name": "Raichu-Mega-Y",
+          "pokemonId": "mega-raichu-y",
+          "slug": "Raichu-Mega-Y",
+          "ability": "Lightning Rod",
+          "item": "Raichunite Y",
+          "moves": [
+            "Zap Cannon",
+            "Focus Blast",
+            "Fake Out",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Mawile-Mega",
+          "pokemonId": "mega-mawile",
+          "slug": "Mawile-Mega",
+          "ability": "Hyper Cutter",
+          "item": "Mawilite",
+          "moves": [
+            "Play Rough",
+            "Sucker Punch",
+            "Swords Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha",
+          "ability": "Hospitality",
+          "item": "Kasib Berry",
+          "moves": [
+            "Matcha Gotcha",
+            "Life Dew",
+            "Rage Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ceruledge",
+          "pokemonId": "ceruledge",
+          "slug": "Ceruledge",
+          "ability": "Flash Fire",
+          "item": "Colbur Berry",
+          "moves": [
+            "Bitter Blade",
+            "Shadow Sneak",
+            "Bulk Up",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Milotic",
+          "pokemonId": "milotic",
+          "slug": "Milotic",
+          "ability": "Competitive",
+          "item": "Leftovers",
+          "moves": [
+            "Muddy Water",
+            "Coil",
+            "Hypnosis",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "pokemonId": "incineroar",
+          "slug": "Incineroar",
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Flare Blitz",
+            "Throat Chop",
+            "Fake Out",
+            "Parting Shot"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#19",
+      "author": "Vgcorner",
+      "record": "14-2",
+      "tournament": "4th Annual St. Jude VGC Charity Tournament Rank #2",
+      "roster": [
+        "Incineroar",
+        "Kingambit",
+        "Sneasler",
+        "Floette-Eternal",
+        "Sinistcha",
+        "Dragonite"
+      ],
+      "slots": [
+        {
+          "name": "Incineroar",
+          "pokemonId": "incineroar",
+          "slug": "Incineroar",
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Parting Shot"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Chople Berry",
+          "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Swords Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sneasler",
+          "pokemonId": "sneasler",
+          "slug": "Sneasler",
+          "ability": "Poison Touch",
+          "item": "Focus Sash",
+          "moves": [
+            "Fake Out",
+            "Coaching",
+            "Close Combat",
+            "Poison Jab"
+          ]
+        },
+        {
+          "name": "Floette-Eternal-Mega",
+          "pokemonId": "mega-floette",
+          "slug": "Floette-Eternal-Mega",
+          "ability": "Flower Veil",
+          "item": "Floettite",
+          "moves": [
+            "Calm Mind",
+            "Protect",
+            "Draining Kiss",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "pokemonId": "sinistcha",
+          "slug": "Sinistcha",
+          "ability": "Hospitality",
+          "item": "Leftovers",
+          "moves": [
+            "Trick Room",
+            "Rage Powder",
+            "Matcha Gotcha",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Dragonite",
+          "pokemonId": "dragonite",
+          "slug": "Dragonite",
+          "ability": "Multiscale",
+          "item": "Lum Berry",
+          "moves": [
+            "Extreme Speed",
+            "Dragon Claw",
+            "Protect",
+            "Fire Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": "#20",
+      "author": "DUhZER4 - Blastoise",
+      "record": "8-1",
+      "tournament": "Thalera Champions Cheese #08 - Starters Edition Rank #1",
+      "roster": [
+        "Blastoise-Mega",
+        "Farigiraf",
+        "Kingambit",
+        "Torkoal",
+        "Sylveon",
+        "Staraptor"
+      ],
+      "slots": [
+        {
+          "name": "Blastoise-Mega",
+          "pokemonId": "mega-blastoise",
+          "slug": "Blastoise-Mega",
+          "ability": "Rain Dish",
+          "item": "Blastoisinite",
+          "moves": [
+            "Water Spout",
+            "Dark Pulse",
+            "Aura Sphere",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "pokemonId": "farigiraf",
+          "slug": "Farigiraf",
+          "ability": "Armor Tail",
+          "item": "Colbur Berry",
+          "moves": [
+            "Psychic",
+            "Light Screen",
+            "Helping Hand",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "pokemonId": "kingambit",
+          "slug": "Kingambit",
+          "ability": "Defiant",
+          "item": "Life Orb",
+          "moves": [
+            "Kowtow Cleave",
+            "Iron Head",
+            "Sucker Punch",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Torkoal",
+          "pokemonId": "torkoal",
+          "slug": "Torkoal",
+          "ability": "Drought",
+          "item": "Charcoal",
+          "moves": [
+            "Eruption",
+            "Weather Ball",
+            "Heat Wave",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sylveon",
+          "pokemonId": "sylveon",
+          "slug": "Sylveon",
+          "ability": "Pixilate",
+          "item": "Fairy Feather",
+          "moves": [
+            "Hyper Voice",
+            "Hyper Beam",
+            "Calm Mind",
+            "Detect"
+          ]
+        },
+        {
+          "name": "Staraptor",
+          "pokemonId": "staraptor",
+          "slug": "Staraptor",
+          "ability": "Intimidate",
+          "item": "Choice Scarf",
+          "moves": [
+            "Brave Bird",
+            "Sunny Day",
+            "U-turn",
+            "Final Gambit"
+          ]
+        }
+      ]
+    }
+  ],
+  "teamCount": 20,
+  "unmappedSlugs": []
+}

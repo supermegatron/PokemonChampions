@@ -3,18 +3,30 @@ import {
   createEmptyTeam,
   getSeedVersion,
   mergeCatalogIntoStored,
+  normalizeSlot,
   resetCatalogTeams,
   syncDescriptionsFromRepo,
 } from './teamCatalog'
+import { emptyEvs } from './statCalc'
 
-const STORAGE_KEY = 'pokemon-champions-teams-v9'
+const STORAGE_KEY = 'pokemon-champions-teams-v14'
+
+function normalizeTeamsState(state) {
+  return {
+    ...state,
+    teams: (state.teams || []).map((team) => ({
+      ...team,
+      slots: (team.slots || []).map((slot) => (slot ? normalizeSlot(slot) : null)),
+    })),
+  }
+}
 
 function initialState() {
-  return {
+  return normalizeTeamsState({
     seedVersion: getSeedVersion(),
     activeTeamId: buildCatalogTeams()[0]?.id,
     teams: buildCatalogTeams(),
-  }
+  })
 }
 
 export function loadTeams() {
@@ -31,7 +43,7 @@ export function loadTeams() {
       state = { ...state, seedVersion: getSeedVersion() }
     }
 
-    return state
+    return normalizeTeamsState(state)
   } catch {
     return initialState()
   }
@@ -72,8 +84,7 @@ import { defaultNatureForSlot } from './natures'
 
 export function buildSlotFromPokemon(pokemon) {
   const defaultAbility = pokemon.abilities.find((a) => a.hidden) || pokemon.abilities[0]
-  const moves = pokemon.moves.slice(0, 4).map((m) => m.name)
-  while (moves.length < 4) moves.push('')
+  const moves = ['', '', '', '']
 
   const draft = {
     pokemonId: pokemon.id,
@@ -83,6 +94,7 @@ export function buildSlotFromPokemon(pokemon) {
     role: '',
     roleLabel: '',
     owned: false,
+    evs: emptyEvs(),
   }
 
   return {
