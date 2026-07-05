@@ -176,6 +176,193 @@ select {
   text-align: center;
 }
 
+.pc-box__matchup {
+  margin-top: 0.75rem;
+}
+
+.pc-box__matchup-toggle.is-active {
+  border-color: #f472b6;
+  color: #fbcfe8;
+}
+
+.pc-box__matchup-panel {
+  margin-top: 0.65rem;
+  padding: 0.85rem 1rem;
+  background: #151c2e;
+  border: 1px solid #334155;
+  border-radius: 0.55rem;
+}
+
+.pc-box__matchup-hint {
+  margin: 0 0 0.75rem;
+  font-size: 0.85rem;
+}
+
+.pc-box__matchup-picker {
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+
+.pc-box__matchup-picker input {
+  width: 100%;
+  max-width: 420px;
+  background: #1e293b;
+  border: 1px solid #475569;
+  color: #e2e8f0;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.45rem;
+}
+
+.pc-box__matchup-suggest {
+  position: absolute;
+  z-index: 5;
+  top: calc(100% + 0.25rem);
+  left: 0;
+  right: 0;
+  max-width: 420px;
+  margin: 0;
+  padding: 0.25rem;
+  list-style: none;
+  background: #1e293b;
+  border: 1px solid #475569;
+  border-radius: 0.45rem;
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.pc-box__matchup-suggest button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0.35rem 0.45rem;
+  border: none;
+  border-radius: 0.35rem;
+  background: transparent;
+  color: #e2e8f0;
+  cursor: pointer;
+  text-align: left;
+}
+
+.pc-box__matchup-suggest button:hover {
+  background: #334155;
+}
+
+.type-row--inline {
+  margin-left: auto;
+}
+
+.pc-box__matchup-selected {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 0.85rem;
+}
+
+.pc-box__matchup-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.5rem;
+  background: #1e293b;
+  border: 1px solid #475569;
+  border-radius: 0.5rem;
+}
+
+.pc-box__matchup-chip-info strong {
+  display: block;
+  font-size: 0.82rem;
+}
+
+.pc-box__matchup-chip-remove {
+  border: none;
+  background: transparent;
+  color: #94a3b8;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 0.15rem;
+}
+
+.pc-box__matchup-chip-remove:hover {
+  color: #f87171;
+}
+
+.pc-box__matchup-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.pc-box__matchup-col h3 {
+  margin: 0 0 0.5rem;
+  font-size: 0.92rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.pc-box__matchup-col h3 .muted {
+  font-size: 0.75rem;
+  font-weight: 400;
+}
+
+.pc-box__matchup-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.pc-box__matchup-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.45rem;
+  border-radius: 0.4rem;
+  background: #1e293b;
+  border: 1px solid #334155;
+}
+
+.pc-box__matchup-item--weak {
+  border-color: #7f1d1d;
+}
+
+.pc-box__matchup-item--coverage {
+  border-color: #14532d;
+}
+
+.pc-box__matchup-mult {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #fca5a5;
+}
+
+.pc-box__matchup-item--coverage .pc-box__matchup-mult {
+  color: #86efac;
+}
+
+.pc-box__matchup-mult.is-quad {
+  color: #f87171;
+}
+
+.pc-box__matchup-detail {
+  font-size: 0.68rem;
+  max-width: 140px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.pc-box__matchup-empty,
+.pc-box__matchup-empty-state {
+  margin: 0;
+  font-size: 0.85rem;
+}
+
 .pc-box__grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
@@ -654,6 +841,125 @@ select {
   margin-top: 0.55rem;
   padding-top: 0.5rem;
   border-top: 1px solid #2a3655;
+}
+
+.team-weakness {
+  margin-top: 0.65rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid #2a3655;
+}
+
+.team-weakness__toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.team-weakness__toggle.has-gaps {
+  border-color: #f87171;
+  color: #fecaca;
+}
+
+.team-weakness__badge {
+  font-size: 0.72rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  background: #334155;
+  color: #e2e8f0;
+}
+
+.team-weakness__toggle.has-gaps .team-weakness__badge {
+  background: #7f1d1d;
+  color: #fecaca;
+}
+
+.team-weakness__panel {
+  margin-top: 0.65rem;
+  padding: 0.75rem 0.85rem;
+  background: #151c2e;
+  border: 1px solid #334155;
+  border-radius: 0.55rem;
+}
+
+.team-weakness__hint {
+  margin: 0 0 0.65rem;
+  font-size: 0.82rem;
+}
+
+.team-weakness__hint strong {
+  color: #e2e8f0;
+  font-weight: 600;
+}
+
+.team-weakness__ok {
+  margin: 0;
+  color: #86efac;
+  font-size: 0.88rem;
+}
+
+.team-weakness__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.team-weakness__item {
+  padding: 0.5rem 0.65rem;
+  border-radius: 0.45rem;
+  background: #1e293b;
+  border: 1px solid #7f1d1d;
+}
+
+.team-weakness__item--ok {
+  border-color: #334155;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  padding: 0.35rem 0.5rem;
+}
+
+.team-weakness__head {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.team-weakness__mult {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #fca5a5;
+}
+
+.team-weakness__tag {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #f87171;
+}
+
+.team-weakness__targets {
+  margin: 0.35rem 0 0;
+  font-size: 0.78rem;
+}
+
+.team-weakness__covered {
+  margin-top: 0.75rem;
+  font-size: 0.82rem;
+}
+
+.team-weakness__covered summary {
+  cursor: pointer;
+  user-select: none;
+}
+
+.team-weakness__list--muted {
+  margin-top: 0.45rem;
 }
 
 /* —— Collapsible meta editor —— */

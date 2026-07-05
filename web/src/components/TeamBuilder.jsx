@@ -6,6 +6,7 @@ import { TypeBadge } from './TypeBadge'
 import { TeamMetaEditor } from './TeamMetaEditor'
 import { ROLE_ES } from '../utils/i18nEs'
 import { labelNatureEs } from '../utils/natures'
+import { TeamWeaknessPanel } from './TeamWeaknessPanel'
 
 const ROLE_CLASS = {
   nucleo: 'role-nucleo',
@@ -228,6 +229,8 @@ export function TeamBuilder({
           <span className="role-badge role-flex">{ROLE_ES.flex}</span>
           <span className="role-badge role-senal">{ROLE_ES.senal}</span>
         </div>
+
+        <TeamWeaknessPanel team={team} pokemonById={pokemonById} />
       </section>
 
       <div className="team-builder__layout">

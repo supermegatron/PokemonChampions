@@ -8,6 +8,7 @@ import {
   filterPcBoxPokemon,
   hasAdvancedFilters,
 } from '../utils/pcBoxSearch'
+import { PcBoxTypeMatchup } from './PcBoxTypeMatchup'
 import { abilityEsOnly, moveEsOnly } from '../utils/i18nEs'
 
 export function PcBox({ pokemonList, pokemonById, ownedIds, onToggleOwned }) {
@@ -176,6 +177,7 @@ export function PcBox({ pokemonList, pokemonById, ownedIds, onToggleOwned }) {
             </datalist>
           </div>
         )}
+        <PcBoxTypeMatchup pokemonList={pokemonList} pokemonById={pokemonById} />
       </header>
 
       <div className="pc-box__grid">
