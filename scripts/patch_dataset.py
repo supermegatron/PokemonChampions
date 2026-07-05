@@ -20,6 +20,7 @@ from build_dataset import (
     parse_abilities,
     parse_moves,
     parse_stats_from_detail,
+    parse_types,
     scrape_pokemon_detail,
     slugify,
 )
@@ -120,22 +121,24 @@ def main() -> None:
     pokemon_path = DATA_DIR / "pokemon.json"
     dataset: dict[str, dict] = json.loads(pokemon_path.read_text(encoding="utf-8"))
 
-    print("Fixing types from meta descriptions...")
+    print("Resyncing types from Game8 meta descriptions...")
     fixed = 0
     for i, mon in enumerate(dataset.values(), 1):
-        if mon.get("types"):
-            continue
         url = mon.get("source_url")
         if not url:
             continue
-        print(f"  [{i}] types -> {mon['name']}")
         soup = fetch(url)
         types = parse_types_from_meta(soup)
-        if types:
+        if not types:
+            types = parse_types(soup, mon["name"])
+        if not types:
+            continue
+        if types != mon.get("types", []):
+            print(f"  [{i}] {mon['name']}: {mon.get('types', [])} -> {types}")
             mon["types"] = types
             fixed += 1
         time.sleep(0.15)
-    print(f"  fixed {fixed} types")
+    print(f"  updated {fixed} types")
 
     print("Skipping derived Speed fill (parser now reads Speed from base table).")
 

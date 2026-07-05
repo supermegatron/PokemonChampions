@@ -4,7 +4,7 @@ import { TypeBadge } from './TypeBadge'
 import { ModalShell } from './ModalShell'
 import { MovePickerModal } from './MovePickerModal'
 import { labelAbilityEs, labelItemEs, labelMoveEs } from '../utils/i18nEs'
-import { labelNatureEs, NATURE_ES } from '../utils/natures'
+import { labelNatureEs, NATURE_ES, natureModLabels, natureModsText } from '../utils/natures'
 import {
   EV_STAT_MAX,
   EV_TOTAL_MAX,
@@ -170,22 +170,36 @@ export function PokemonSlotModal({ pokemon, slot, items, natures, onChange, onCl
               {natures.map((n) => {
                 const active = slot.nature === n.name
                 const es = NATURE_ES[n.name] || n.name
+                const mods = natureModLabels(n)
                 return (
                   <button
                     key={n.name}
                     type="button"
                     className={`nature-pill ${active ? 'is-active' : ''}`}
                     onClick={() => update({ nature: n.name })}
-                    title={n.plus ? `+${n.plus} −${n.minus}` : 'Neutra'}
                   >
                     <span className="nature-pill__en">{n.name}</span>
                     <span className="nature-pill__es">{es}</span>
+                    <span className="nature-pill__mods">
+                      {!mods ? (
+                        <span className="nature-pill__neutral">Neutra</span>
+                      ) : (
+                        <>
+                          <span className="nature-pill__plus">+{mods.plus}</span>
+                          <span className="nature-pill__minus">−{mods.minus}</span>
+                        </>
+                      )}
+                    </span>
                   </button>
                 )
               })}
             </div>
             {slot.nature && (
-              <p className="muted nature-active-hint">{labelNatureEs(slot.nature)}</p>
+              <p className="muted nature-active-hint">
+                {labelNatureEs(slot.nature)}
+                {' · '}
+                {natureModsText(natures.find((n) => n.name === slot.nature))}
+              </p>
             )}
           </section>
 

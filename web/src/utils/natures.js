@@ -46,11 +46,23 @@ export function labelNatureEs(name) {
 
 export function natureHint(name) {
   const n = natureList.find((x) => x.name === name)
-  if (!n) return ''
-  if (!n.plus && !n.minus) return 'Neutra'
-  const plus = STAT_ES[n.plus] || n.plus
-  const minus = STAT_ES[n.minus] || n.minus
+  return natureModsText(n)
+}
+
+export function natureModsText(nature) {
+  if (!nature) return ''
+  if (!nature.plus && !nature.minus) return 'Neutra'
+  const plus = STAT_ES[nature.plus] || nature.plus
+  const minus = STAT_ES[nature.minus] || nature.minus
   return `+${plus} · −${minus}`
+}
+
+export function natureModLabels(nature) {
+  if (!nature?.plus && !nature?.minus) return null
+  return {
+    plus: STAT_ES[nature.plus] || nature.plus,
+    minus: STAT_ES[nature.minus] || nature.minus,
+  }
 }
 
 /** Default competitivo según perfil del slot (sets del catálogo). */

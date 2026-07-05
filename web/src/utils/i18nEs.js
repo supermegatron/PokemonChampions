@@ -47,3 +47,22 @@ export function itemEsOnly(name) {
   if (!name) return ''
   return ITEM_ES[name] || name
 }
+
+/** Coincide nombre en inglés o etiqueta en castellano del dataset. */
+export function labelMatchesQuery(enName, query, esMap) {
+  const q = (query || '').trim().toLowerCase()
+  if (!q) return true
+  if (!enName) return false
+  if (enName.toLowerCase().includes(q)) return true
+  const es = esMap[enName]
+  if (es && es.toLowerCase().includes(q)) return true
+  return false
+}
+
+export function moveNameMatchesQuery(enName, query) {
+  return labelMatchesQuery(enName, query, MOVE_ES)
+}
+
+export function abilityNameMatchesQuery(enName, query) {
+  return labelMatchesQuery(enName, query, ABILITY_ES)
+}

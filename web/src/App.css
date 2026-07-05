@@ -112,6 +112,70 @@ select {
   min-width: 200px;
 }
 
+.pc-box__advanced-toggle.is-active {
+  border-color: #60a5fa;
+  color: #93c5fd;
+}
+
+.pc-box__advanced {
+  margin-top: 0.75rem;
+  padding: 0.85rem 1rem;
+  background: #151c2e;
+  border: 1px solid #334155;
+  border-radius: 0.55rem;
+}
+
+.pc-box__advanced-hint {
+  margin: 0 0 0.65rem;
+  font-size: 0.85rem;
+}
+
+.pc-box__advanced-hint code {
+  font-size: 0.8rem;
+  color: #cbd5e1;
+}
+
+.pc-box__advanced-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: flex-end;
+}
+
+.field--compact {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 220px;
+}
+
+.field--compact span {
+  font-size: 0.78rem;
+  color: #94a3b8;
+}
+
+.field--compact input {
+  min-width: 220px;
+}
+
+.field--checkbox {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.45rem;
+  min-width: auto;
+  padding-bottom: 0.45rem;
+}
+
+.field--checkbox input {
+  min-width: auto;
+  width: auto;
+}
+
+.pc-box__empty {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
 .pc-box__grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
@@ -1434,9 +1498,9 @@ select {
 
 .nature-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(8.25rem, 1fr));
   gap: 0.4rem;
-  max-height: 200px;
+  max-height: 240px;
   overflow-y: auto;
 }
 
@@ -1472,6 +1536,37 @@ select {
 .nature-pill__es {
   font-size: 0.68rem;
   opacity: 0.85;
+}
+
+.nature-pill__mods {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.35rem;
+  margin-top: 0.1rem;
+  font-size: 0.62rem;
+  line-height: 1.2;
+}
+
+.nature-pill__plus {
+  color: #4ade80;
+  font-weight: 600;
+}
+
+.nature-pill__minus {
+  color: #f87171;
+  font-weight: 600;
+}
+
+.nature-pill__neutral {
+  opacity: 0.75;
+}
+
+.nature-pill.is-active .nature-pill__plus {
+  color: #bbf7d0;
+}
+
+.nature-pill.is-active .nature-pill__minus {
+  color: #fecaca;
 }
 
 .nature-active-hint {

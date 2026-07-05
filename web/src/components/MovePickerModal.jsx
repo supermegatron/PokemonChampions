@@ -38,7 +38,7 @@ export function MovePickerModal({
         <input
           type="search"
           className="move-picker__search"
-          placeholder="Buscar movimiento…"
+          placeholder="Buscar en inglés o castellano…"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           autoFocus

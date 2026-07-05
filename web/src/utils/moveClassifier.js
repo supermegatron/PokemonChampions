@@ -1,4 +1,5 @@
 import moveIndexData from '@data/move-index.json'
+import { moveNameMatchesQuery } from './i18nEs'
 
 const MOVE_META = moveIndexData.moves || {}
 
@@ -75,7 +76,6 @@ export function filterMoves(moves, { search = '', type = '', category = 'all' })
     if (category !== 'all' && info.category !== category) return false
     if (type && info.type !== type) return false
     if (!q) return true
-    const name = move.name.toLowerCase()
-    return name.includes(q) || info.type?.toLowerCase().includes(q)
+    return moveNameMatchesQuery(move.name, q) || info.type?.toLowerCase().includes(q)
   })
 }
